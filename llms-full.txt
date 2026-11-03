@@ -1,0 +1,903 @@
+# BugOut website, full text
+
+> BugOut: Offline Survival Guide is an iPhone app for emergency preparedness that works with no internet. It carries 72 field guides, including the U.S. Army Survival Manual (FM 21-76), plus Survival Essentials (the core method for 56 emergencies), 7 step-by-step disaster scenarios with gear checklists, your own gear lists, phone sensor tools, and Wally, an AI survival assistant that runs on the iPhone itself.
+
+# The survival app that works with no signal.
+
+URL: https://jaechung-glitch.github.io/bugout/
+Updated: 2026-11-03
+
+BugOut puts 70+ field guides, the U.S. Army Survival Manual, step-by-step disaster plans and Wally, an AI survival assistant that runs on your iPhone, in your pocket. No internet, no account.
+
+## Ask a survival question. Get an answer without a signal.
+
+Wally is an AI survival assistant built into BugOut. Ask in plain words and it answers from BugOut's own library, leading with the core method from Survival Essentials and showing the passages each answer is based on.
+
+- **Works anywhere:** in airplane mode, in the backcountry, in a blackout. Wally runs entirely on your iPhone.
+- **Private by design:** your questions never leave your phone. No account, no tracking.
+- **Grounded in the library:** answers come from the CDC, Red Cross, FEMA and U.S. Army material in the app, not the open internet. Like any AI, Wally can make mistakes, so check the source before you rely on an answer.
+- **Which iPhone models:** written answers need an iPhone with Apple Intelligence (iPhone 15 Pro or newer, iOS 26). Other iPhone models get the most relevant passages from the guides. Wally is part of BugOut Pro.
+
+How do I make water safe to drink?
+
+Wally, AI answer
+
+1. Let cloudy water settle, then pour clear water through a clean cloth, paper towel, or coffee filter [1]
+2. Boil water for 1 minute (3 minutes above 6,500 feet) [1]
+3. If boiling isn't possible, use plain, unscented bleach: 8 drops per gallon of clear water, 16 drops if cloudy; stir and wait 30 minutes before drinking [1]
+
+**[1] Survival Essentials**Make water safe to drink: boil, bleach or purify
+
+## A survival library that lives on your phone
+
+Everything is stored on your iPhone, so it's there when the network, the power or the trail runs out.
+
+56
+
+### Survival Essentials, the master guide
+
+The core method for 56 emergencies, from severe bleeding, CPR and choking to house fires, floods and tornadoes. One short, step-by-step section each, written from CDC, Red Cross, FEMA and U.S. Army guidance.
+
+72
+
+### Field guides and manuals
+
+The full U.S. Army Survival Manual (FM 21-76), Army first aid and land navigation manuals, cold-weather and Marine Corps survival courses, and 36 original guides on power outages, storms, water and more. All free and searchable.
+
+7
+
+### Disaster scenarios with checklists
+
+Power grid down, nuclear event, pandemic, purifying water in a city, building a kit, the first 72 hours, and surviving with children or older adults. Each has a step-by-step plan and a gear checklist.
+
+0
+
+### Bars of signal needed
+
+Guides, checklists, your own gear lists and the phone's sensors all work offline: GPS coordinates, battery time-to-empty, plus a compass and barometer with Pro.
+
+## Free to download. Pro when you want everything.
+
+BugOut Pro is $6.99 a month or $54.99 a year through your Apple ID. Cancel any time in your App Store settings.
+
+| Feature | Free | BugOut Pro |
+| --- | --- | --- |
+| 72 field guides, including the Army Survival Manual | All of them | All of them |
+| Survival Essentials | The first method in each of 12 topics | All 56 methods |
+| Disaster scenarios | Power grid down and nuclear event | All 7 |
+| Ask Wally, the offline AI assistant | Not included | Included |
+| Your own gear lists | Included | Included |
+| Battery, GPS and connectivity status | Included | Included |
+| Compass, barometer and sunrise/sunset | Not included | Included |
+
+## Free survival guides
+
+Printable checklists written from CDC, EPA and FEMA guidance. Read them now, or carry them offline in the app.
+
+- [### Bug out bag list
+
+  The 72-hour checklist: water, food, shelter, first aid, tools and documents.](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/)
+- [### Power outage checklist
+
+  What to do when the power goes out: food safety, generators, heat and cold.](https://jaechung-glitch.github.io/bugout/guides/power-outage-checklist/)
+- [### Make water safe to drink
+
+  How long to boil it, how much bleach per gallon, and which filters work.](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/)
+- [### 12 survival skills
+
+  Priorities, signaling, shelter, fire, water, navigation and first aid.](https://jaechung-glitch.github.io/bugout/guides/survival-skills/)
+- [### Prepping for beginners
+
+  A practical 4-week plan: risks, water, food, go bags and power outages.](https://jaechung-glitch.github.io/bugout/guides/prepping-for-beginners/)
+
+## BugOut at a glance
+
+What it is
+:   An emergency preparedness and survival guide app for iPhone that works with no internet connection.
+
+Platform
+:   iPhone with iOS 16 or later, on the U.S. App Store.
+
+Price
+:   Free download. BugOut Pro is $6.99 a month or $54.99 a year.
+
+Works offline
+:   Yes. Guides, checklists, scenarios and sensor tools work with no signal and no account. Only buying or restoring Pro needs a connection.
+
+What's inside
+:   72 field guides, including the U.S. Army Survival Manual (FM 21-76); Survival Essentials, the core method for 56 emergencies in 12 topics; 7 disaster scenarios with gear checklists.
+
+AI assistant
+:   Ask Wally runs on the iPhone and shows the BugOut passages each answer is based on. Written answers need Apple Intelligence (iPhone 15 Pro or newer, iOS 26 or later). Part of BugOut Pro. Like any AI, it can make mistakes.
+
+Sources
+:   U.S. military field manuals, the CDC, EPA, FEMA and Ready.gov, the American Red Cross, the National Weather Service and the National Park Service.
+
+Privacy
+:   No account. Questions to Wally, your location and your lists stay on the phone; the only data collected is anonymous purchase history.
+
+## Questions
+
+Is there a survival app that works offline?
+
+Yes. BugOut is built to work with no internet at all. The field guides, Survival Essentials, the disaster scenarios, your gear lists and the phone's GPS and battery tools all work in airplane mode, with no account. Only buying or restoring BugOut Pro needs a connection.
+
+What is the best prepper app?
+
+It depends on what you need it for. For getting through an emergency, look for an app that works offline, gives step-by-step instructions instead of long articles, and says where its advice comes from. BugOut was built around those three things. For alerts and shelter locations, pair it with the FEMA app or a NOAA weather radio, which need a signal or a broadcast.
+
+Does Ask Wally need internet?
+
+No. Wally runs entirely on your iPhone and answers from BugOut's own library, so it works with no signal and your questions never leave your phone. Written answers need an iPhone with Apple Intelligence (iPhone 15 Pro or newer) on iOS 26 or later, once Apple Intelligence is turned on and has finished its one-time download. On other iPhone models, Wally shows the most relevant passages from the guides instead. Wally is part of BugOut Pro, and like any AI it can make mistakes, so check the source before you rely on an answer.
+
+Is the U.S. Army Survival Manual included?
+
+Yes. BugOut includes the U.S. Army Survival Manual (FM 21-76) in full, along with the Army's first aid and map reading manuals and cold-weather and Marine Corps survival courses. They're free, searchable and stored on your phone.
+
+Is BugOut free?
+
+The download is free, and so are all the field guides, your own gear lists, two full scenarios (power grid down and nuclear event), the first method in each Survival Essentials topic, and the battery, GPS and connectivity tools. BugOut Pro ($6.99 a month or $54.99 a year) adds all 7 scenarios, all 56 Survival Essentials methods, Ask Wally, and the compass, barometer and daylight tracking.
+
+Where does BugOut's information come from?
+
+From public sources you can check: U.S. military field manuals, the CDC, EPA, FEMA and Ready.gov, the American Red Cross, the National Weather Service and the National Park Service. Survival Essentials lists the sources it was written from, and every Wally answer links to the BugOut passages it's based on. BugOut is a reference, not a substitute for training, so take a first-aid and CPR class too.
+
+Which iPhone models does BugOut run on?
+
+Any iPhone with iOS 16 or later. Ask Wally's written answers need an iPhone with Apple Intelligence (iPhone 15 Pro or newer) on iOS 26 or later. BugOut is available on the U.S. App Store.
+
+---
+
+# Survival guides and printable checklists
+
+URL: https://jaechung-glitch.github.io/bugout/guides/
+Updated: 2026-11-03
+
+Plain, step-by-step guides for the emergencies people in the U.S. actually face, written from CDC, EPA, FEMA and U.S. Army guidance. Every guide has a checklist you can print, and the BugOut app carries the full library offline.
+
+- [### Bug out bag list
+
+  The 72-hour checklist: water, food, shelter, first aid, tools and documents.](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/)
+- [### Power outage checklist
+
+  What to do when the power goes out: food safety, generators, heat and cold.](https://jaechung-glitch.github.io/bugout/guides/power-outage-checklist/)
+- [### Make water safe to drink
+
+  How long to boil it, how much bleach per gallon, and which filters work.](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/)
+- [### 12 survival skills
+
+  Priorities, signaling, shelter, fire, water, navigation and first aid.](https://jaechung-glitch.github.io/bugout/guides/survival-skills/)
+- [### Prepping for beginners
+
+  A practical 4-week plan: risks, water, food, go bags and power outages.](https://jaechung-glitch.github.io/bugout/guides/prepping-for-beginners/)
+
+---
+
+# Bug out bag list: what to pack for 72 hours
+
+URL: https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/
+Updated: 2026-11-03
+
+A bug out bag is a pack you can grab in minutes when you have to leave home fast. This checklist covers what goes in it, how much water and food to carry, and how to keep it ready.
+
+By the BugOut team. Updated November 3, 2026. Checked against FEMA's Ready.gov kit list, CDC and National Park Service guidance.
+
+The short answer
+
+Pack enough to get each person through 72 hours on their own: drinking water and a way to purify more, three days of food that needs no cooking, a flashlight, a radio, a first-aid kit and your medicines, a whistle, masks, warm layers and rain gear, a phone charger and power bank, copies of your IDs and some cash, plus anything your kids, pets or older relatives need. Keep one bag per person by the door and check it every six months.
+
+## What is a bug out bag?
+
+A bug out bag, also called a go bag, grab-and-go bag or 72-hour kit, is a backpack packed in advance so you can leave home within minutes during a wildfire, flood, hurricane evacuation, gas leak or house fire. The idea comes from the assumption FEMA builds its own kit list on: in a disaster, help may not reach you for several days, so you should be able to take care of yourself until it does.
+
+It is different from the supplies you keep at home. A home kit is for sheltering in place and can be large: two weeks of water and food if you have the space. A bug out bag has to be light enough to carry, so it covers the essentials for about three days and relies on a way to purify water rather than carrying all of it.
+
+## The bug out bag checklist
+
+Work through it category by category. Print the page to tick items off as you pack.
+
+### Water
+
+- Water bottles or a hydration bladder, 2 to 3 liters per personA gallon of water weighs about 8.3 pounds, so carry some and plan to purify the rest.
+- A way to make water safe: a portable filter plus purification tablets, or plain unscented bleach and a dropperMost portable filters don't remove viruses, so pair a filter with tablets or bleach.
+- A collapsible water container for collecting and treating water
+
+### Food
+
+- Three days of food that needs no cooking: energy or protein bars, nut butter packets, jerky, dried fruit, nuts, ready-to-eat meals
+- A manual can opener if you pack any cans, and a spoon
+- Food for special diets, babies and pets
+
+### Shelter and warmth
+
+- An emergency blanket or bivy sack
+- A rain poncho or rain jacket
+- A warm layer and a hat, even in summer
+- A sleeping bag or warm blanket if you can carry it
+- Work gloves
+
+### Light, power and communication
+
+- A flashlight or headlamp, plus extra batteries
+- A battery-powered or hand-crank radio, ideally a NOAA Weather Radio
+- A whistle to signal for helpThree blasts is the distress signal, and a whistle carries much farther than your voice.
+- A phone charging cable and a charged power bank
+- A written list of phone numbers and a paper map of your areaYour phone may be dead or out of signal when you need them.
+
+### First aid and health
+
+- A first-aid kit: bandages, gauze, tape, antiseptic wipes, gloves, and a tourniquet if you know how to use one
+- Prescription medicines, with a written list of names and doses
+- Over-the-counter basics: pain reliever, antihistamine, anti-diarrhea medicine
+- Glasses or contact lenses and solution
+- N95 or dust masksFor smoke, ash and dust after fires, storms and earthquakes.
+- Hand sanitizer and moist towelettes
+
+### Tools
+
+- A multi-tool or knife
+- Matches in a waterproof container and a lighter
+- Duct tape and a length of cord
+- A wrench or pliers to turn off utilities
+
+### Documents and money
+
+- Copies of IDs, insurance policies and prescriptions in a waterproof bag
+- Cash in small billsCard readers and ATMs need power and a network.
+- Emergency contacts, including someone out of town
+
+### Clothing and hygiene
+
+- A complete change of clothes and sturdy shoes
+- Extra socks
+- Toilet paper, garbage bags and plastic ties for sanitation
+- Toothbrush, soap and feminine supplies
+
+### For the people and pets who depend on you
+
+- Babies: formula, bottles, diapers, wipes
+- Older adults: hearing aid batteries, mobility aids, extra glasses
+- Pets: food, water, leash or carrier, and vaccination records
+
+## How much water and food to pack
+
+FEMA and the CDC both plan around one gallon of water per person per day, for drinking and basic hygiene. For 72 hours that's three gallons each, about 25 pounds, which is too heavy for most people to carry far. That's why a bug out bag carries a few liters and the means to treat more.
+
+| Supply | Per person | How to carry it |
+| --- | --- | --- |
+| Water | 1 gallon a day (3 gallons for 72 hours) | 2 to 3 liters in the bag, the rest treated on the way or kept in the car |
+| Food | 3 days | Calorie-dense, no-cook food. Food labels use 2,000 calories a day as a reference. |
+| Medicines | Enough to last until you can reach a pharmacy | In original bottles, with a written list of doses |
+
+To treat water on the move, a rolling boil for one minute is the most reliable method. Without a stove, use bleach: the EPA's dose is 8 drops of 6% unscented bleach per gallon (6 drops of 8.25% bleach), doubled for cloudy water, then a 30-minute wait. Our [guide to making water safe to drink](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/) has the full table.
+
+## Choosing the bag
+
+- **A backpack, not a duffel.** You may have to walk. Padded shoulder straps and a hip belt make a loaded pack bearable.
+- **Light enough to walk a few miles with.** Pack it, put it on, and walk around the block. If that's hard, take things out.
+- **Waterproof inside.** Line the bag with a heavy garbage bag and keep documents, medicines and electronics in zip-top bags.
+- **Plain-looking.** A bag that looks ordinary is less likely to attract attention in a crowded shelter.
+
+## Where to keep it and when to check it
+
+- **At home:** by the door you'd leave through, or in a hall closet, where everyone in the house knows to find it.
+- **In the car:** a smaller kit with water, snacks, a blanket, a flashlight and a first-aid kit, in case you're stranded.
+- **At work:** FEMA suggests being ready to shelter there for at least 24 hours, with food, water, medicines and comfortable walking shoes.
+
+Check the bag every six months. Replace water you bottled yourself (the CDC says every six months), rotate food before it expires, swap in fresh batteries, update medicines and clothes for the season, and reassess what your family needs once a year.
+
+## Bug out bag, home kit or get-home bag?
+
+| Kit | For | Size |
+| --- | --- | --- |
+| Bug out bag (go bag) | Leaving home fast in an evacuation | About 72 hours, carried on your back |
+| Home kit | Sheltering in place through an outage or storm | At least 3 days, ideally 2 weeks of water and food |
+| Get-home bag | Getting from work or the car back home | About 24 hours: water, snacks, walking shoes, light, layers |
+
+## Common bug out bag mistakes
+
+- **Packing too heavy.** A 50-pound bag you can't carry is worse than a 20-pound bag you can.
+- **One bag for the whole family.** Each person who can carry a pack should have one, so splitting up doesn't leave anyone without water or medicine.
+- **Forgetting medicines and glasses.** They're the hardest things to replace in a disaster.
+- **No cash and no paper.** Plan for a dead phone: written phone numbers, a paper map and small bills.
+- **Packing and forgetting.** Dead batteries and expired food are common. Put the six-month check on your calendar.
+- **Never practicing.** Walk your evacuation route once with the bag on, and make sure everyone knows where the bags are.
+
+## Quick answers
+
+### What should be in a bug out bag?
+
+Water and a way to purify more, three days of food that needs no cooking, a flashlight and a battery or hand-crank radio, a first-aid kit and your medicines, a whistle, masks, warm layers and rain gear, a phone charger and power bank, copies of your IDs, cash in small bills, and supplies for any children, older adults or pets.
+
+### How much water should you pack in a bug out bag?
+
+Plan on 1 gallon per person per day, the amount FEMA and the CDC use. Three gallons weighs about 25 pounds, so most people carry 2 to 3 liters plus a filter and tablets or bleach to treat more.
+
+### Is a go bag the same as a bug out bag?
+
+Yes. Go bag, bug out bag, grab-and-go bag and 72-hour kit all mean a pack you can grab in minutes when you have to leave. A home kit is the larger supply for sheltering in place, ideally two weeks of water and food.
+
+### How often should you check a bug out bag?
+
+Every six months: replace water you bottled yourself, rotate food before it expires, swap in fresh batteries, update medicines and seasonal clothes, and reassess what your household needs once a year.
+
+## Sources
+
+- [Ready.gov (FEMA): Build a Kit](https://www.ready.gov/kit)
+- [CDC: How to Create an Emergency Water Supply](https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
+- [EPA: Emergency Disinfection of Drinking Water](https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water)
+- [National Park Service: The Ten Essentials](https://www.nps.gov/articles/10essentials.htm)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# What to do when the power goes out
+
+URL: https://jaechung-glitch.github.io/bugout/guides/power-outage-checklist/
+Updated: 2026-11-03
+
+A step-by-step power outage checklist: the first 15 minutes, keeping food safe, running a generator without risking carbon monoxide, and what to do when the power comes back.
+
+By the BugOut team. Updated November 3, 2026. Checked against Ready.gov, USDA, CDC, OSHA and U.S. Consumer Product Safety Commission guidance.
+
+The short answer
+
+1. Check whether it's just your home, then report the outage to your utility.
+2. Keep the fridge and freezer closed: food stays safe about 4 hours in the fridge, 48 hours in a full freezer and 24 hours in a half-full one.
+3. Use flashlights, not candles, and unplug electronics so a power surge can't damage them.
+4. Run generators, grills and camp stoves outdoors only, at least 20 feet from windows, doors and vents, with the exhaust pointed away from the house. Never heat your home with a gas oven or stove.
+5. If it gets dangerously hot or cold, go somewhere with power, and check on older neighbors.
+
+## The first 15 minutes
+
+1. **Check if it's only you.** Look at your breaker panel and whether the neighbors' lights are on. A tripped breaker is a much easier fix.
+2. **Report it.** Use your utility's app, website or outage line, and note the estimated restoration time. It tells you whether to plan for hours or days.
+3. **Switch to flashlights.** Candles are a fire risk, especially with kids or pets moving around in the dark.
+4. **Unplug appliances and electronics.** Power can return with surges that damage them. Leave one lamp switched on so you know when it's back.
+5. **Close the fridge and freezer.** Every opening lets cold out. Decide what you need before you open the door.
+6. **Save your phone battery.** Turn on Low Power Mode, dim the screen, and text rather than call; texts get through more easily when networks are busy.
+7. **Start the backup plan for medical equipment.** If anyone relies on oxygen, a CPAP or refrigerated medicine, act now rather than waiting to see how long the outage lasts.
+
+If you have to drive, treat dark traffic signals as four-way stops.
+
+## Keeping food safe
+
+The USDA's numbers assume the doors stay closed:
+
+| Where | Food stays safe for |
+| --- | --- |
+| Refrigerator | Up to 4 hours |
+| Full freezer | Up to 48 hours |
+| Half-full freezer | Up to 24 hours |
+
+- After 4 hours without power, throw out refrigerated meat, poultry, fish, eggs, milk, soft cheese and leftovers. Ready.gov's rule: discard any perishable food that has been at 40°F or warmer for two hours or more.
+- Keep an appliance thermometer in the fridge and freezer so you know the real temperature when the power comes back.
+- Frozen food that still has ice crystals or is at 40°F or colder can be refrozen or cooked.
+- For a long outage, move food to coolers with ice. The USDA says 50 pounds of dry ice should hold an 18-cubic-foot freezer for about 2 days. Don't touch dry ice with bare hands.
+- Never taste food to check whether it's safe. When in doubt, throw it out.
+
+## Generators and carbon monoxide
+
+**Carbon monoxide from portable generators alone kills more than 80 people a year in the U.S.**, according to the Consumer Product Safety Commission. It's invisible, has no smell, and builds up from anything that burns fuel. If several people or pets feel sick at once, suspect carbon monoxide: get everyone outside into fresh air, then call 911.
+
+- Run a generator outdoors only, at least 20 feet from doors, windows and vents, the distance the CDC gives, with the exhaust pointed away from the house. Never in a house, garage, basement, crawl space or shed, or on a porch, even with the doors open.
+- Never use a grill, camp stove, charcoal or an outdoor propane or kerosene heater indoors, and never heat your home with a gas oven or stovetop.
+- Never run a car in a garage, even with the garage door open.
+- Put battery-powered or battery-backup carbon monoxide alarms on every level of your home, near bedrooms.
+- Never plug a generator into a wall outlet or connect it to your home's wiring without a transfer switch installed by an electrician. OSHA warns this can energize power lines and electrocute utility workers. Otherwise, plug appliances into the generator with heavy-duty outdoor extension cords.
+
+Signs of carbon monoxide poisoning include headache, dizziness, weakness, nausea or vomiting, chest pain and confusion. People who are asleep or have been drinking can die before they notice anything.
+
+## Staying warm in a winter outage
+
+- Pick one small room, ideally with few windows, and keep everyone in it. Close the doors to other rooms.
+- Block drafts under doors with towels, hang blankets over windows at night, and open the curtains on sunny windows during the day.
+- Wear loose layers, a hat and dry socks, and share blankets and body heat.
+- Eat regular meals and drink warm, non-alcoholic drinks.
+- Let faucets drip so pipes don't freeze.
+- If you can't keep one room warm, go to a warming center or a home with heat. Babies and older adults lose heat fastest.
+
+## Staying cool in a summer outage
+
+- Spend the hottest hours somewhere with air conditioning: a cooling center, library or store.
+- Drink water before you're thirsty, close the blinds on sunny windows, and take cool showers if you still have water.
+- Never leave anyone, or a pet, in a parked car.
+- Heat stroke is an emergency: a body temperature of 103°F or higher, hot red skin, confusion or passing out. Call 911, move the person somewhere cooler and cool them with cool water or wet cloths while you wait. Don't give them anything to drink.
+
+## Medicines and medical devices
+
+- Talk to your doctor now about a plan for powered equipment and refrigerated medicines.
+- Insulin and some other medicines must stay cool but not frozen. The package insert says how long each keeps at room temperature.
+- Keep charged backup batteries for oxygen concentrators, CPAPs and power wheelchairs, and know where you'll go if the outage runs long.
+- Ask your utility whether it has a medical priority or medical certificate program for customers who depend on electricity.
+
+## When the power comes back
+
+- Wait a few minutes, then plug appliances back in one at a time.
+- Check the fridge and freezer thermometers and go through the food rules above before eating anything.
+- Reset clocks and alarms, and recharge every battery and power bank.
+- Restock whatever you used, so you're ready for the next one.
+
+## Power outage kit checklist
+
+Keep these together where you can find them in the dark.
+
+- A flashlight or headlamp for each person, plus extra batteries
+- A battery-powered or hand-crank radio
+- Charged power banks and a car phone charger
+- Battery-powered carbon monoxide alarms
+- Appliance thermometers for the fridge and freezer
+- A cooler and frozen ice packs or jugs of frozen water
+- Water: 1 gallon per person per day for at least 3 days, 2 weeks if you canThe CDC's recommendation. Store more for hot weather, pregnancy, illness and pets.
+- At least 3 days of food that needs no cooking, and a manual can opener
+- A first-aid kit and a supply of everyone's medicines
+- Warm blankets or sleeping bags
+- Cash in small bills
+- A paper list of phone numbers, including your utility's outage line
+- A generator only if you can run it outdoors, at least 20 feet from the house, with the right cords
+
+## Quick answers
+
+### How long does food last in the fridge when the power goes out?
+
+About 4 hours if you keep the door closed. A full freezer keeps food safe for about 48 hours and a half-full one for about 24 hours, according to the USDA. Throw out perishable food that has been at 40°F or warmer for two hours or more.
+
+### How far from the house should a generator be?
+
+Outdoors and at least 20 feet from doors, windows and vents, the distance the CDC gives, with the exhaust pointed away from the house. Never run one in a house, garage, basement, shed or on a porch, even with the doors open.
+
+### What should you not do during a power outage?
+
+Don't run a generator, grill or camp stove indoors or in a garage, don't heat your home with a gas oven or stove, don't connect a generator to your home's wiring without a transfer switch, don't open the fridge more than you need to, and use flashlights rather than candles.
+
+### What should be in a power outage kit?
+
+Flashlights and extra batteries, a battery or hand-crank radio, charged power banks, battery-powered carbon monoxide alarms, appliance thermometers, a cooler, water (1 gallon per person per day for at least 3 days), no-cook food, a first-aid kit and medicines, warm blankets and some cash.
+
+## Sources
+
+- [Ready.gov (FEMA): Power Outages](https://www.ready.gov/power-outages)
+- [USDA: Food safety during a power outage](https://www.usda.gov/node/44742)
+- [CDC: Prevent Carbon Monoxide Poisoning](https://www.cdc.gov/natural-disasters/psa-toolkit/prevent-carbon-monoxide-poisoning.html)
+- [U.S. Consumer Product Safety Commission: What to Know About Generators (PDF)](https://www.cpsc.gov/s3fs-public/468_WhattoKnowGenerators_2022_v5.pdf)
+- [OSHA: Using Portable Generators Safely (PDF)](https://www.osha.gov/Publications/OSHA3286.pdf)
+- [CDC: Heat-Related Illnesses (PDF)](https://cdc.gov/natural-disasters/media/pdfs/2026/09/Heat_Related_Illness-NEWLOGO.pdf)
+- [CDC: How to Create an Emergency Water Supply](https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# How to make water safe to drink
+
+URL: https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/
+Updated: 2026-11-03
+
+Boiling, bleach, tablets and filters, with the exact times and doses from the EPA and CDC, plus where to find water in the wild and at home, and how much to store.
+
+By the BugOut team. Updated November 3, 2026. Checked against EPA, CDC and Minnesota Department of Health guidance.
+
+The short answer
+
+**Boil it.** Bring clear water to a rolling boil for 1 minute, or 3 minutes at high elevation, then let it cool covered. **If you can't boil it,** use plain unscented bleach: 8 drops per gallon of 6% bleach or 6 drops of 8.25% bleach, doubled if the water is cloudy. Stir and wait 30 minutes. If the water is cloudy to begin with, let it settle and pour it through a cloth or coffee filter first.
+
+## Step 1: Clear cloudy water first
+
+Dirt and debris shield germs from heat and chlorine. If the water is cloudy, let it stand until the sediment settles, then pour the clearer water off the top through a clean cloth, paper towel or coffee filter. This doesn't make the water safe, but it makes every method below work better.
+
+## Boiling: the most reliable method
+
+1. Bring the water to a **rolling boil**, the kind that keeps bubbling when you stir it.
+2. Keep it boiling for **1 minute**.
+3. Let it cool naturally, then store it in clean containers with lids.
+
+### How long to boil water at high elevation
+
+Water boils at a lower temperature higher up, so boil it for **3 minutes** at elevation. The CDC sets that threshold at 6,500 feet; the EPA's page uses 5,000 feet. If you're anywhere in the mountains, 3 minutes covers both.
+
+Boiled water tastes flat. Pouring it back and forth between two clean containers a few times puts air back into it.
+
+## Bleach: how many drops per gallon
+
+Use regular, **unscented** liquid household bleach with no added cleaners, and check the label for its strength (usually 6% or 8.25% sodium hypochlorite). These are the EPA's doses:
+
+| Water | 6% bleach | 8.25% bleach |
+| --- | --- | --- |
+| 1 quart or liter | 2 drops | 2 drops |
+| 1 gallon | 8 drops | 6 drops |
+| 2 gallons | 16 drops (1/4 teaspoon) | 12 drops (1/8 teaspoon) |
+| 4 gallons | 1/3 teaspoon | 1/4 teaspoon |
+| 8 gallons | 2/3 teaspoon | 1/2 teaspoon |
+
+- **Double the dose** if the water is cloudy, colored or very cold.
+- Stir and **wait 30 minutes** before drinking.
+- The water should smell faintly of chlorine. If it doesn't, add the same dose again and wait another 15 minutes.
+- If it tastes too strongly of chlorine, pour it between clean containers and let it stand a few hours.
+
+## Purification tablets and iodine
+
+Chlorine dioxide and other purification tablets are light and easy to carry; follow the dose and wait time on the package, which can be longer for cold or cloudy water.
+
+With 2% tincture of iodine, the EPA's dose is 5 drops per quart or liter (10 drops if the water is cloudy or colored), then a 30-minute wait. The Minnesota Department of Health advises that iodine-treated water isn't recommended for pregnant women, people with thyroid problems or iodine sensitivity, or for continuous use beyond a few weeks.
+
+## Do water filters make water safe?
+
+Portable filters are good at removing parasites like Giardia and Cryptosporidium and many bacteria, but **most don't remove viruses**; only some purifiers are rated for them, so check the label. Look for:
+
+- An absolute pore size of 1 micron or smaller (NSF Standard 53 or 58) for parasites
+- 0.3 microns or smaller for bacteria
+
+Where viruses are a risk, as with water near people, livestock or sewage, filter first and then boil or disinfect. Don't drink floodwater at all (see below).
+
+## Sunlight as a last resort
+
+With no fuel, bleach or tablets, solar disinfection (SODIS) can help with water that's already clear. Fill clean, clear plastic bottles of 2 liters or less, with the labels removed, three-quarters full, shake them, fill them to the top, and lay them in full sun for **6 hours**, or **2 days** if it's cloudy. It doesn't work on cloudy water, so settle and filter first.
+
+## What none of these methods fix
+
+**Boiling, bleach and filters don't remove fuel, chemicals or salt.** Don't drink water that smells of fuel or chemicals, floodwater that may carry them, or pool and hot tub water. Never drink seawater or urine; they make dehydration worse. Use bottled or stored water instead.
+
+## Finding water in the wild
+
+- **Follow the land downhill.** Valleys, green vegetation and animal trails that come together often lead to water.
+- **Dig in a dry streambed** at its lowest point. Water may sit just below the surface.
+- **Catch rain** with a tarp, poncho or any clean container.
+- **Collect dew** before sunrise by walking through grass with cloth tied around your ankles, then wringing it out.
+- **Melt snow or ice** before you drink it. Eating snow chills you.
+
+The CDC says to treat all water from outside the home, including rain. If you can't, rain caught directly in a clean container is the lowest-risk source. Clear, fast-moving water is better than stagnant water, but it still needs treating.
+
+## Hidden water at home when the taps stop
+
+- **Your water heater:** turn off its power or gas and close the cold-water valve at the top of the tank, open a hot tap somewhere in the house, and drain water from the valve at the bottom; it may be hot. Refill the tank before turning the power or gas back on. Never use water from a home-heating boiler or radiator.
+- **The toilet tank,** not the bowl, if you don't use tank cleaners. Treat it before drinking.
+- **Ice cubes** in the freezer.
+
+Use pool or hot tub water for flushing and washing only.
+
+## How much water to store
+
+- At least 1 gallon per person per day for 3 daysThe CDC's minimum. A family of four needs 12 gallons.
+- A 2-week supply if you have the space
+- Extra for hot climates, pregnancy, illness and pets
+- Store-bought water: replace it by its expiration date
+- Water you bottle yourself: replace it every 6 months
+
+Use food-grade containers with tight lids, and never ones that held chemicals like bleach or pesticides. To sanitize a container, wash and rinse it, swirl in a solution of 1 teaspoon of unscented bleach per quart of water so it touches every surface, wait at least 30 seconds, pour it out and let the container air-dry before filling it.
+
+## Quick answers
+
+### How long do you boil water to make it safe to drink?
+
+Bring it to a rolling boil for 1 minute. At high elevation, boil it for 3 minutes: the CDC applies this above 6,500 feet and the EPA above 5,000 feet.
+
+### How much bleach do you put in a gallon of water to purify it?
+
+The EPA's dose is 8 drops of 6% unscented household bleach, or 6 drops of 8.25% bleach, per gallon. Double it if the water is cloudy, colored or very cold, stir, and wait 30 minutes before drinking.
+
+### Do water filters remove viruses?
+
+Most portable filters don't. They remove parasites like Giardia and Cryptosporidium and many bacteria, but only some purifiers are rated for viruses. Where viruses are a risk, filter first and then boil or disinfect.
+
+### How much water should you store for an emergency?
+
+At least 1 gallon per person per day for 3 days, and a 2-week supply if you can, according to the CDC. Store more for hot climates, pregnancy, illness and pets, and replace water you bottle yourself every 6 months.
+
+## Sources
+
+- [EPA: Emergency Disinfection of Drinking Water](https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water)
+- [CDC: How to Find Clean Water in an Emergency](https://www.cdc.gov/water-emergency/about/how-to-find-clean-water-in-an-emergency.html)
+- [CDC: How to Create an Emergency Water Supply](https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
+- [Minnesota Department of Health: Backcountry Water Treatment](https://www.health.state.mn.us/diseases/waterborne/prevention/backcountry.html)
+- [Newcastle University: Solar Disinfection (disaster relief)](https://research.ncl.ac.uk/waterqualitymaps/treatmentmethods/disasterrelief/solardisinfection)
+- U.S. Army FM 21-76, Survival: water procurement (in the BugOut library)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# 12 survival skills everyone should know
+
+URL: https://jaechung-glitch.github.io/bugout/guides/survival-skills/
+Updated: 2026-11-03
+
+Wilderness survival skills from the U.S. Army Survival Manual, park rangers and the CDC, in plain steps: what to do first, how to get found, and how to stay warm, hydrated and on course.
+
+By the BugOut team. Updated November 3, 2026. Checked against U.S. Army FM 21-76, National Park Service, CDC, FCC and American College of Surgeons (Stop the Bleed) guidance.
+
+The short answer
+
+The most important survival skill is knowing what to do first. Get away from immediate danger, stop severe bleeding, get out of the weather, then deal with water, signaling and food, in that order. The rule of threes sets the priorities: people last about **3 minutes without air, 3 hours without shelter** in harsh weather, **3 days without water and 3 weeks without food**.
+
+These 12 skills are in the order you'd usually need them. None of them replace practice: try each one once on a calm day, so it isn't the first time when it matters.
+
+## 1. Carry the Ten Essentials and leave a plan
+
+Most survival situations start with a day hike or a drive that went wrong. The National Park Service's Ten Essentials cover them:
+
+- Navigation: map, compass, GPS
+- Sun protection
+- Extra clothing
+- Illumination: headlamp or flashlight
+- First-aid supplies
+- Fire: matches, lighter, fire starter
+- Repair kit and tools
+- Nutrition: extra food
+- Hydration: extra water and a way to treat more
+- Emergency shelter
+
+Before you go, tell someone where you're going and when you'll be back. Searchers start where you were last seen and along your planned route.
+
+## 2. Know what to do first
+
+1. Get away from immediate danger: fire, floodwater, traffic, fumes, falling rock.
+2. Stop severe bleeding and make sure everyone is breathing. Call 911 if you can.
+3. Get out of the wind, wet, cold or sun. Exposure can kill in hours.
+4. Water: plan on about a gallon per person per day.
+5. Let someone know where you are, and signal for help.
+6. Food comes last. It matters least in the first 72 hours.
+
+Conditions shift the order: in the cold, shelter and fire come before water; in the desert, water and shade come first.
+
+## 3. Stop when you're lost
+
+The moment you realize you're lost, stop walking. Use **STOP**: Stop, Think, Observe, Plan. Sit down, drink, eat something and calm down before deciding anything.
+
+- Call 911 if you have any signal. If a call won't connect, try texting 911; text-to-911 isn't available everywhere, and you'll get a bounce-back message if it isn't. Turn off what you don't need to save battery.
+- Once someone knows you need help, stay put. Move only if staying is dangerous.
+- Teach children to "hug a tree": stay with one tree, blow a whistle and answer anyone calling their name.
+
+## 4. Signal for help
+
+Three of anything means distress: three whistle blasts, three fires, three shouts, three flashes.
+
+- **Whistle:** three blasts, pause, repeat. It carries much farther than your voice.
+- **Light at night:** SOS, three short, three long, three short flashes.
+- **Mirror or anything shiny:** aim the flash at aircraft or distant searchers.
+- **Ground signals:** in an open area, lay out a large X (need medical help) or V (need help) with rocks, logs or bright fabric.
+- **Be visible:** spread bright clothing or a tarp in a clearing. Aircraft can't see you under trees.
+
+## 5. Build an emergency shelter
+
+Cold, wind and wet can kill in hours, so shelter usually comes before water or food.
+
+- **Stay dry.** Wet clothes, from rain or sweat, pull heat out fast. Take off layers before you start sweating.
+- **Get out of the wind** behind rocks, a fallen tree or thick brush, but not at the bottom of a valley, where cold air settles at night, and not under dead branches.
+- **Insulate yourself from the ground** with a pad, pack, branches or a thick layer of dry leaves. The ground steals more heat than the air.
+- **Build small:** tie a tarp or poncho into a lean-to, or build a debris hut just big enough for your body and pile leaves on it at least 3 feet thick.
+- If you're stranded in a car, stay with it. It's shelter, and it's easier to spot than a person.
+
+Start building well before dark.
+
+## 6. Start a fire
+
+Most fires fail at the tinder. Gather all three sizes before you strike anything:
+
+- **Tinder:** dry, fine and fluffy material: dry grass, birch bark, pine needles, cotton balls, dryer lint.
+- **Kindling:** dry twigs from pencil-lead to pencil thickness. Dead branches still on a tree are the driest.
+- **Fuel:** wrist-thick wood and larger.
+
+Clear a spot down to bare soil, light the tinder, lay kindling over it in a small teepee with gaps for air, and blow gently at the base. Add bigger wood only as each size catches. With no matches or lighter, a ferro rod, a 9-volt battery touched to fine steel wool, or a magnifying lens in bright sun can light tinder. Never leave a fire unattended, and drown it until the ashes are cold.
+
+## 7. Find and purify water
+
+Follow valleys downhill, dig at the lowest point of a dry streambed, catch rain, and melt snow rather than eating it. Then treat it: a rolling boil for 1 minute (3 minutes at high elevation), or unscented bleach at 8 drops per gallon of 6% bleach, doubled for cloudy water, with a 30-minute wait. Our [water guide](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/) has the full doses, filters and what never works.
+
+## 8. Find north without a compass
+
+- **Shadow-stick method:** push a straight stick about 3 feet long into level ground and mark the tip of its shadow. Wait 10 to 15 minutes and mark the new tip. The first mark is west and the second is east. Stand with the first mark on your left and the second on your right: you're facing north.
+- **The North Star:** find the Big Dipper. The two stars at the end of its cup point to the North Star, about five times the distance between them. It sits almost exactly over north.
+- **The sun:** it rises in the east and sets in the west. In the continental U.S., the midday sun is due south.
+
+## 9. Hold a direction and use your phone's GPS
+
+Your phone's GPS works without cell service; only the map tiles need data, so download offline maps before you go. To walk a straight line, pick a landmark ahead, walk to it, then pick the next one. If you're unsure, go back to the last place you knew where you were rather than pushing on.
+
+## 10. Stop severe bleeding
+
+Severe bleeding can kill in minutes, faster than help can arrive. The American College of Surgeons' Stop the Bleed steps:
+
+1. **Call 911**, or have someone else call.
+2. **Arm or leg, and you have a tourniquet:** put it on right away, 2 to 3 inches above the wound and never on a joint. Tighten it until the bleeding stops and note the time. Leave removing it to medical staff.
+3. **No tourniquet, or the wound is on the neck, shoulder or groin:** pack a large, deep wound with gauze or clean cloth until it's filled, then press hard with both hands.
+4. **Otherwise, press:** cover the wound with gauze or a clean cloth and push down as hard as you can with both hands until help takes over.
+
+A commercial tourniquet works far better than a belt or cord. Most Stop the Bleed classes take 90 minutes or less and teach this hands-on.
+
+## 11. Recognize hypothermia and heat illness
+
+### Hypothermia
+
+The CDC's warning signs: shivering, exhaustion, confusion, fumbling hands, memory loss, slurred speech and drowsiness. In babies: bright red, cold skin and very low energy. A body temperature below 95°F needs medical attention right away.
+
+- Get the person somewhere warm and out of the wind, and take off any wet clothing.
+- Warm the center of the body first, the chest, neck, head and groin, under dry blankets and layers.
+- Handle them gently. Give warm drinks only if they're fully awake, and no alcohol.
+- Get medical care as soon as possible. If they aren't breathing, start CPR and keep warming them.
+
+### Heat stroke and heat exhaustion
+
+**Heat stroke is an emergency:** a body temperature of 103°F or higher, hot red skin, a fast pulse, confusion or passing out. Call 911, move the person somewhere cooler and cool them with cool water, wet cloths or a cool bath. **Don't give them anything to drink.**
+
+**Heat exhaustion** brings heavy sweating, cold clammy skin, nausea, cramps and dizziness. Move to a cool place, loosen clothing, use cool wet cloths and sip water. Get medical help if the person is throwing up, getting worse, or not better within an hour.
+
+## 12. Find food safely
+
+You can last weeks without food, so it comes after water and shelter, and you should eat little if you have little water.
+
+- Fish and small game are the safest wild foods. Cook all meat and fish thoroughly.
+- Insects like grasshoppers, crickets and grubs are plentiful protein. Cook them, and avoid any that sting or bite, are hairy or brightly colored, or smell strongly.
+- **Never eat wild mushrooms.** Deadly ones look like safe ones.
+- Eat only plants you can identify with certainty. Avoid any with milky sap, an almond smell, seeds in pods, or leaves like carrot or parsley; several deadly plants look like that.
+
+## Quick answers
+
+### What is the most important survival skill?
+
+Knowing what to do first. Get away from immediate danger, stop severe bleeding, get out of the weather, then deal with water, signaling for help and food, in that order.
+
+### What is the rule of threes in survival?
+
+A way to set priorities: people last about 3 minutes without air, 3 hours without shelter in harsh weather, 3 days without water and 3 weeks without food.
+
+### What should you do if you get lost in the woods?
+
+Stop walking and use STOP: Stop, Think, Observe, Plan. Call 911 if you have any signal, or try texting 911 where it's available. Then stay where you are once someone knows you need help, make yourself easy to see, and signal with three whistle blasts.
+
+### What are the Ten Essentials?
+
+The National Park Service's list for any outing: navigation, sun protection, extra clothing, illumination, first-aid supplies, fire, a repair kit and tools, extra food, extra water and emergency shelter.
+
+## Sources
+
+- U.S. Army FM 21-76, Survival (in the BugOut library)
+- [National Park Service: The Ten Essentials](https://www.nps.gov/articles/10essentials.htm)
+- [American College of Surgeons: Stop the Bleed](https://www.stopthebleed.org/)
+- [CDC: Preventing Hypothermia](https://cdc.gov/winter-weather/prevention/index.html)
+- [CDC: Heat-Related Illnesses (PDF)](https://cdc.gov/natural-disasters/media/pdfs/2026/09/Heat_Related_Illness-NEWLOGO.pdf)
+- [FCC: What You Need to Know About Text-to-911](https://www.fcc.gov/consumers/guides/what-you-need-know-about-text-911)
+- [EPA: Emergency Disinfection of Drinking Water](https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# Prepping for beginners: a 4-week starter plan
+
+URL: https://jaechung-glitch.github.io/bugout/guides/prepping-for-beginners/
+Updated: 2026-11-03
+
+Prepping isn't about bunkers. It's being able to get through a few days without power, running water or a trip to the store. Here's where to start, one week at a time.
+
+By the BugOut team. Updated November 3, 2026. Checked against FEMA (Ready.gov), CDC and FEMA National Risk Index guidance.
+
+The short answer
+
+Start with the emergencies most likely where you live, then build in this order: a household plan, water (1 gallon per person per day, 3 days at minimum and 2 weeks if you can), food that needs no cooking, a go bag for each person, first aid and medicines, and power outage basics. Add skills and longer-term supplies once those are in place.
+
+## What prepping actually means
+
+For most households, prepping means being able to look after yourselves for a few days to two weeks after something goes wrong: a power outage, a winter storm, a hurricane, a flood, a wildfire evacuation or an earthquake. FEMA's own planning assumes help may not reach everyone right away, so the goal is to cover your basic needs until it does.
+
+It doesn't take a bunker or a big budget. A plan, some water and food, a bag by the door and a few skills cover most of what you're likely to face.
+
+## Before you start: know your risks
+
+- **Look up your area.** FEMA's National Risk Index rates every U.S. county and census tract for 18 natural hazards, from hurricanes and tornadoes to wildfire, earthquakes and winter weather.
+- **Sign up for alerts.** Make sure Emergency Alerts are on in your phone's settings, and sign up for your county's local alert system.
+- **Get a NOAA Weather Radio** or a battery or hand-crank radio, for when phones and power are down.
+
+Your list of likely events shapes everything else: hurricane country needs an evacuation plan, cold climates need a way to stay warm without power, earthquake zones need sturdy shoes by the bed.
+
+## Week 1: Make a plan
+
+Ready.gov's planning steps start with five questions to talk through with your household:
+
+1. How will we get emergency alerts and warnings?
+2. Where will we shelter at home, for a tornado, a storm or a chemical spill?
+3. What's our evacuation route, and where would we go?
+4. How will we reach each other if we're apart and phones are down?
+5. Do we need to update our emergency supplies?
+
+- Pick an out-of-town contact everyone can textTexts often get through when calls don't, and a long-distance contact may be easier to reach than someone local.
+- Choose two meeting places: one near home, one outside your neighborhood
+- Write down phone numbers on paper for everyone's wallet or bag
+- Plan for anyone with medical needs, young children, older relatives and pets
+- Learn how to shut off your water, gas and electricity
+- Practice the plan once, including walking or driving your evacuation route
+
+## Week 2: Water and food
+
+### Water
+
+- 1 gallon per person per day for at least 3 daysThe CDC's minimum, for drinking and basic hygiene. A family of four needs 12 gallons.
+- Work toward a 2-week supply
+- Extra for pets, hot weather, pregnancy and illness
+- A way to treat more: unscented bleach, purification tablets or a filter
+
+### Food
+
+- At least 3 days of food that needs no refrigeration and little or no cooking
+- Canned meat, fish, beans, soup, fruit and vegetables
+- Peanut butter, crackers, cereal, nuts, dried fruit, granola bars, shelf-stable milk
+- A manual can opener
+- Food for babies, special diets and pets
+
+Store what you already eat and eat what you store: put new cans at the back, use the oldest first, and you'll never be left with a closet of expired food. Rice, dried beans and pasta keep for years but need water and fuel to cook, so add them once the no-cook basics are covered.
+
+## Week 3: Go bags and first aid
+
+- A go bag for each person, packed for 72 hoursOur [bug out bag list](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/) has the full checklist.
+- A first-aid kit at home and one in each car
+- A supply of prescription medicines and a written list of doses and allergies
+- Copies of IDs, insurance and medical information in a waterproof bag
+- Cash in small bills
+- Sign up for a first-aid and CPR class
+
+## Week 4: Power, light and heat
+
+- A flashlight or headlamp for each person, plus batteries
+- Charged power banks and a car phone charger
+- Battery-powered carbon monoxide alarms on every level, and tested smoke alarms
+- Warm blankets or sleeping bags for a winter outage
+- Appliance thermometers and a cooler for food safety
+- A plan for medical devices that need electricity
+
+Read our [power outage checklist](https://jaechung-glitch.github.io/bugout/guides/power-outage-checklist/) for what to do once the lights go out, including the generator rules that prevent carbon monoxide poisoning.
+
+## After the basics: skills and practice
+
+Supplies run out; skills don't. Once the four weeks are done, practice a few things on a calm day:
+
+- Cook a meal without power, on a camp stove outdoors
+- Treat a gallon of water with bleach, using the right dose for your bottle
+- Find north with the shadow-stick method
+- Live for one evening on your supplies alone, and note what you missed
+
+Our guide to [12 survival skills](https://jaechung-glitch.github.io/bugout/guides/survival-skills/) covers the rest, from signaling for help to stopping severe bleeding.
+
+## Prepping on a budget
+
+- Add one or two items to each grocery trip instead of buying everything at once.
+- Fill clean, food-grade containers with tap water for free, and replace it every 6 months.
+- Use what you already own: camping gear, old backpacks, spare blankets.
+- Spend first on water, medicines and light. Skip gadgets until the basics are done.
+- The plan, the skills and the paperwork cost nothing.
+
+## Prepper apps worth having
+
+A phone is one of the most useful tools in an emergency, as long as what's on it works without a network:
+
+- **BugOut** keeps survival guides, disaster checklists and the U.S. Army Survival Manual offline, with an AI assistant that answers questions on the phone itself.
+- **The FEMA app** sends weather alerts and shows open shelters and disaster resources, when you have a connection.
+- **Your county's alert system and your utility's app** give local warnings and outage updates.
+- **Offline maps** in your maps app, downloaded for your area and evacuation route before you need them.
+
+## Quick answers
+
+### How do I start prepping?
+
+Look up the hazards most likely where you live, make a household emergency plan, store water (1 gallon per person per day for at least 3 days) and food that needs no cooking, pack a go bag for each person, gather first aid and medicines, and get ready for power outages. Then practice a few skills.
+
+### How much food should a beginner prepper store?
+
+Start with at least 3 days of food that needs no refrigeration or cooking for everyone in the house, then build up as space and budget allow. Store what you already eat and use the oldest first.
+
+### What apps are useful for prepping?
+
+An offline reference such as BugOut for guides and checklists that work with no signal, the FEMA app for alerts and shelter locations when you have a connection, your county's alert system and your utility's outage app, and offline maps downloaded for your area.
+
+### Is prepping expensive?
+
+It doesn't have to be. Add a few items to each grocery trip, fill clean food-grade containers with tap water, use camping gear you already own, and put water, medicines and light first. A plan, skills and copies of your documents cost nothing.
+
+## Sources
+
+- [Ready.gov (FEMA): Make a Plan](https://www.ready.gov/plan)
+- [Ready.gov (FEMA): Build a Kit](https://www.ready.gov/kit)
+- [CDC: How to Create an Emergency Water Supply](https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
+- [FEMA: National Risk Index](https://hazards.fema.gov/nri/learn-more)
+- [Ready.gov (FEMA): Power Outages](https://www.ready.gov/power-outages)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.

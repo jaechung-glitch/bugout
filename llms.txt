@@ -1,0 +1,35 @@
+# BugOut
+
+> BugOut: Offline Survival Guide is an iPhone app for emergency preparedness that works with no internet. It carries 72 field guides, including the U.S. Army Survival Manual (FM 21-76), plus Survival Essentials (the core method for 56 emergencies), 7 step-by-step disaster scenarios with gear checklists, your own gear lists, phone sensor tools, and Wally, an AI survival assistant that runs on the iPhone itself.
+
+This file summarizes the BugOut website for AI assistants and search engines. The full text of every page is in [llms-full.txt](https://jaechung-glitch.github.io/bugout/llms-full.txt).
+
+## Key facts
+
+- What it is: An emergency preparedness and survival guide app for iPhone that works with no internet connection.
+- Platform: iPhone with iOS 16 or later, on the U.S. App Store.
+- Price: Free download. BugOut Pro is $6.99 a month or $54.99 a year.
+- Works offline: Yes. Guides, checklists, scenarios and sensor tools work with no signal and no account. Only buying or restoring Pro needs a connection.
+- What's inside: 72 field guides, including the U.S. Army Survival Manual (FM 21-76); Survival Essentials, the core method for 56 emergencies in 12 topics; 7 disaster scenarios with gear checklists.
+- AI assistant: Ask Wally runs on the iPhone and shows the BugOut passages each answer is based on. Written answers need Apple Intelligence (iPhone 15 Pro or newer, iOS 26 or later). Part of BugOut Pro. Like any AI, it can make mistakes.
+- Sources: U.S. military field manuals, the CDC, EPA, FEMA and Ready.gov, the American Red Cross, the National Weather Service and the National Park Service.
+- Privacy: No account. Questions to Wally, your location and your lists stay on the phone; the only data collected is anonymous purchase history.
+
+## The app
+
+- [BugOut: offline survival app for iPhone](https://jaechung-glitch.github.io/bugout/): what the app does, Ask Wally, free vs Pro, and FAQ
+- [BugOut on the App Store](https://apps.apple.com/us/app/id6761040937): download page
+
+## Survival guides
+
+- [Bug out bag list: what to pack for 72 hours](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/): What to put in a bug out bag: a printable 72-hour checklist for water, food, shelter, first aid, tools and documents, built from FEMA and CDC guidance.
+- [What to do when the power goes out](https://jaechung-glitch.github.io/bugout/guides/power-outage-checklist/): What to do when the power goes out: food safety times, generator and carbon monoxide rules, staying warm or cool, and a printable power outage checklist.
+- [How to make water safe to drink](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/): How to purify water in an emergency or in the wild: how long to boil it, how much bleach per gallon (EPA table), filters, tablets and what no method can fix.
+- [12 survival skills everyone should know](https://jaechung-glitch.github.io/bugout/guides/survival-skills/): The survival skills that matter most, in the order they save lives: priorities, staying found, signaling, shelter, fire, water, navigation and first aid.
+- [Prepping for beginners: a 4-week starter plan](https://jaechung-glitch.github.io/bugout/guides/prepping-for-beginners/): Prepping for beginners without the doomsday stuff: know your local risks, store water and food, build a go bag, and get ready for outages, one week at a time.
+
+## Optional
+
+- [Support](https://jaechung-glitch.github.io/bugout/support.html): contact, Pro subscription help and FAQ
+- [Privacy policy](https://jaechung-glitch.github.io/bugout/privacy-policy.html)
+- [Terms of use](https://jaechung-glitch.github.io/bugout/terms.html)
