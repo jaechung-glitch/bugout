@@ -1,6 +1,6 @@
 # BugOut website, full text
 
-> BugOut: Offline Survival Guide is an iPhone app for emergency preparedness that works with no internet. It carries 72 field guides, including the U.S. Army Survival Manual (FM 21-76), plus Survival Essentials (the core method for 56 emergencies), 7 step-by-step disaster scenarios with gear checklists, your own gear lists, phone sensor tools, and Wally, an AI survival assistant that runs on the iPhone itself.
+> BugOut: Offline Survival Guide is an iPhone app for emergency preparedness that works with no internet. It carries 70 field guides, including the U.S. Army Survival Manual (FM 21-76), plus Survival Essentials (the core method for 56 emergencies), 7 step-by-step disaster scenarios with gear checklists, your own gear lists, phone sensor tools, and Wally, an AI survival assistant that runs on the iPhone itself.
 
 # The survival app that works with no signal.
 
@@ -62,7 +62,7 @@ BugOut Pro is $6.99 a month or $54.99 a year through your Apple ID. Cancel any t
 
 | Feature | Free | BugOut Pro |
 | --- | --- | --- |
-| 72 field guides, including the Army Survival Manual | All of them | All of them |
+| 70 field guides, including the Army Survival Manual | All of them | All of them |
 | Survival Essentials | The first method in each of 12 topics | All 56 methods |
 | Disaster scenarios | Power grid down and nuclear event | All 7 |
 | Ask Wally, the offline AI assistant | Not included | Included |
@@ -105,7 +105,7 @@ Works offline
 :   Yes. Guides, checklists, scenarios and sensor tools work with no signal and no account. Only buying or restoring Pro needs a connection.
 
 What's inside
-:   72 field guides, including the U.S. Army Survival Manual (FM 21-76); Survival Essentials, the core method for 56 emergencies in 12 topics; 7 disaster scenarios with gear checklists.
+:   70 field guides, including the U.S. Army Survival Manual (FM 21-76); Survival Essentials, the core method for 56 emergencies in 12 topics; 7 disaster scenarios with gear checklists.
 
 AI assistant
 :   Ask Wally runs on the iPhone and shows the BugOut passages each answer is based on. Written answers need Apple Intelligence (iPhone 15 Pro or newer, iOS 26 or later). Part of BugOut Pro. Like any AI, it can make mistakes.
@@ -132,7 +132,7 @@ No. Wally runs entirely on your iPhone and answers from BugOut's own library, so
 
 Is the U.S. Army Survival Manual included?
 
-Yes. BugOut includes the U.S. Army Survival Manual (FM 21-76) in full, along with the Army's first aid and map reading manuals and cold-weather and Marine Corps survival courses. They're free, searchable and stored on your phone.
+Yes. BugOut includes the U.S. Army Survival Manual (FM 21-76), along with the Army's first aid and map reading manuals and cold-weather and Marine Corps survival courses. They're free, searchable and stored on your phone.
 
 Is BugOut free?
 

@@ -1,6 +1,6 @@
 # BugOut
 
-> BugOut: Offline Survival Guide is an iPhone app for emergency preparedness that works with no internet. It carries 72 field guides, including the U.S. Army Survival Manual (FM 21-76), plus Survival Essentials (the core method for 56 emergencies), 7 step-by-step disaster scenarios with gear checklists, your own gear lists, phone sensor tools, and Wally, an AI survival assistant that runs on the iPhone itself.
+> BugOut: Offline Survival Guide is an iPhone app for emergency preparedness that works with no internet. It carries 70 field guides, including the U.S. Army Survival Manual (FM 21-76), plus Survival Essentials (the core method for 56 emergencies), 7 step-by-step disaster scenarios with gear checklists, your own gear lists, phone sensor tools, and Wally, an AI survival assistant that runs on the iPhone itself.
 
 This file summarizes the BugOut website for AI assistants and search engines. The full text of every page is in [llms-full.txt](https://jaechung-glitch.github.io/bugout/llms-full.txt).
 
@@ -10,7 +10,7 @@ This file summarizes the BugOut website for AI assistants and search engines. Th
 - Platform: iPhone with iOS 16 or later, on the U.S. App Store.
 - Price: Free download. BugOut Pro is $6.99 a month or $54.99 a year.
 - Works offline: Yes. Guides, checklists, scenarios and sensor tools work with no signal and no account. Only buying or restoring Pro needs a connection.
-- What's inside: 72 field guides, including the U.S. Army Survival Manual (FM 21-76); Survival Essentials, the core method for 56 emergencies in 12 topics; 7 disaster scenarios with gear checklists.
+- What's inside: 70 field guides, including the U.S. Army Survival Manual (FM 21-76); Survival Essentials, the core method for 56 emergencies in 12 topics; 7 disaster scenarios with gear checklists.
 - AI assistant: Ask Wally runs on the iPhone and shows the BugOut passages each answer is based on. Written answers need Apple Intelligence (iPhone 15 Pro or newer, iOS 26 or later). Part of BugOut Pro. Like any AI, it can make mistakes.
 - Sources: U.S. military field manuals, the CDC, EPA, FEMA and Ready.gov, the American Red Cross, the National Weather Service and the National Park Service.
 - Privacy: No account. Questions to Wally, your location and your lists stay on the phone; the only data collected is anonymous purchase history.

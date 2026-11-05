@@ -370,7 +370,8 @@ def main():
     (ROOT / f'{INDEXNOW_KEY}.txt').write_text(INDEXNOW_KEY)
     print('wrote llms.txt, llms-full.txt and the IndexNow key file')
     urls = [(BASE + p['path'], p.get('updated', p.get('lastmod'))) for p in pages]
-    urls += [(BASE + f, '2026-10-30') for f in ('support.html', 'privacy-policy.html', 'terms.html')]
+    urls += [(BASE + f, '2026-10-30') for f in ('support.html', 'privacy-policy.html')]
+    urls += [(BASE + 'terms.html', '2026-11-05')]
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     sm += [f'  <url><loc>{u}</loc><lastmod>{d}</lastmod></url>' for u, d in urls]
     sm.append('</urlset>')
