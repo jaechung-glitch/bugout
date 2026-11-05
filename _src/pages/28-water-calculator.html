@@ -1,0 +1,163 @@
+<!--{
+  "path": "guides/emergency-water-calculator/",
+  "type": "guide",
+  "tool": true,
+  "order": 6,
+  "title": "Emergency Water Calculator: How Much Water and Food to Store",
+  "og_title": "How much emergency water does your household need?",
+  "description": "Work out how much emergency water and food your household needs for 3 days, a week or 2 weeks, using the CDC's gallon-a-day rule, with storage tips.",
+  "h1": "Emergency water calculator: how much water and food to store",
+  "dek": "Enter how many people live with you and how long you want to be ready for. The calculator uses the CDC's rule of 1 gallon per person per day, and turns it into jugs, bottle cases and meals.",
+  "crumb": "Emergency water calculator",
+  "card": "Emergency water calculator",
+  "card_text": "How much water and food your household needs for 3 days to 2 weeks.",
+  "checked": "CDC and Ready.gov guidance",
+  "published": "2026-11-05",
+  "updated": "2026-11-05",
+  "og": "og-emergency-water-calculator.jpg",
+  "cta_title": "Your supply list, on your phone",
+  "cta": "Turn your water and food plan into a checklist in BugOut, free, and tick items off as you buy them. BugOut's guides and checklists work with no signal.",
+  "side": "Keep your supply list as a free checklist in BugOut. It works offline.",
+  "related": [
+    "guides/how-to-make-water-safe-to-drink/",
+    "guides/how-to-prepare-for-a-winter-storm/",
+    "guides/prepping-for-beginners/"
+  ],
+  "sources": [
+    [
+      "CDC: How to Create an Emergency Water Supply",
+      "https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html"
+    ],
+    [
+      "Ready.gov (FEMA): Water",
+      "https://www.ready.gov/water"
+    ],
+    [
+      "Ready.gov (FEMA): Build a Kit",
+      "https://www.ready.gov/kit"
+    ]
+  ],
+  "about": [
+    "Emergency water storage",
+    "Emergency food supply",
+    "Emergency preparedness"
+  ],
+  "faq": [
+    [
+      "How much water should I store for an emergency?",
+      "At least 1 gallon per person per day for at least 3 days, the CDC's minimum, for drinking and basic hygiene. A 2-week supply is better if you have the space. Store more for hot weather, which can double the water people need, and for children, nursing mothers, people who are sick, and pets."
+    ],
+    [
+      "How much water does a family of 4 need for 2 weeks?",
+      "56 gallons: 4 people × 14 days × 1 gallon. That's 56 one-gallon jugs, or about 18 cases of 24 half-liter bottles. In very hot weather, plan for up to twice as much."
+    ],
+    [
+      "How long does stored water last?",
+      "Store-bought bottled water lasts until its expiration date if it stays sealed in a cool, dark place. Water you bottle yourself in clean, food-grade containers should be replaced every 6 months."
+    ]
+  ]
+}-->
+<div class="calc" id="calc">
+  <div class="calc-form" id="calc-form" role="group" aria-label="Your household">
+    <div class="calc-field">
+      <label for="people">People in your household</label>
+      <input id="people" name="people" type="number" min="1" max="99" step="1" value="4" inputmode="numeric">
+    </div>
+    <fieldset class="calc-field">
+      <legend>How long to be ready for</legend>
+      <div class="calc-options">
+        <label><input type="radio" name="days" value="3"> 3 days</label>
+        <label><input type="radio" name="days" value="7"> 1 week</label>
+        <label><input type="radio" name="days" value="14" checked> 2 weeks</label>
+      </div>
+    </fieldset>
+    <label class="calc-check"><input type="checkbox" id="hot" name="hot"> Plan for very hot weather (water needs can double)</label>
+  </div>
+  <div class="calc-out" aria-live="polite">
+    <p class="calc-total"><b id="out-gallons">56</b> gallons of water</p>
+    <ul class="calc-list">
+      <li><b id="out-jugs">56</b> one-gallon jugs, or about <b id="out-cases">18</b> cases of 24 half-liter (16.9 oz) bottles</li>
+      <li><b id="out-meals">168</b> meals of food that needs no refrigeration and little or no cooking</li>
+    </ul>
+    <p class="calc-note" id="out-note">For 4 people for 2 weeks, at 1 gallon per person per day.</p>
+    <p class="calc-actions"><button type="button" class="btn btn-ghost" id="share">Copy a link to this plan</button> <a class="btn btn-ghost" href="javascript:window.print()">Print</a></p>
+    <input class="calc-url" id="share-url" type="text" readonly hidden aria-label="Link to this plan">
+  </div>
+  <noscript><p>The calculator needs JavaScript. The rule: 1 gallon of water per person per day, for at least 3 days and ideally 2 weeks, and 3 meals per person per day.</p></noscript>
+</div>
+
+<h2 id="how-it-works">How the calculator works</h2>
+<ul>
+  <li><strong>Water:</strong> 1 gallon per person per day, the CDC's minimum, for drinking and basic hygiene. A normally active person needs about three-quarters of a gallon of fluid a day; the rest is for hygiene.</li>
+  <li><strong>Hot weather:</strong> Ready.gov says water needs can double in very hot temperatures, so the box doubles the total.</li>
+  <li><strong>Food:</strong> 3 meals per person per day, from food that won't spoil without a fridge and needs little or no cooking.</li>
+  <li><strong>Bottles:</strong> a case of 24 half-liter (16.9 oz) bottles holds about 3.2 gallons.</li>
+</ul>
+<p>Add extra for children, nursing mothers, people who are sick and pets, who may need more, and for any medical needs.</p>
+
+<h2 id="storing-water">How to store it</h2>
+<ul class="checklist">
+  <li>Buy sealed bottled water and keep it in a cool, dark place<span class="why">It lasts until the expiration date on the label.</span></li>
+  <li>Or fill your own food-grade containers from a treated tap<span class="why">Never reuse containers that held chemicals, such as bleach or pesticides.</span></li>
+  <li>Clean them first with dish soap, then sanitize with 1 teaspoon of unscented bleach per quart of water</li>
+  <li>Label each container with the date you filled it</li>
+  <li>Replace water you bottled yourself every 6 months</li>
+</ul>
+
+<!--cta-->
+
+<h2 id="running-short">If you run short</h2>
+<ul>
+  <li>Don't ration drinking water unless officials tell you to. Drink what you need today and look for more for tomorrow.</li>
+  <li>Cut how much your body needs by resting and staying cool.</li>
+  <li>Skip alcohol and caffeinated drinks: they make dehydration worse.</li>
+  <li>Your water heater tank and the toilet tank (not the bowl) hold usable water. Our <a href="{{root}}guides/how-to-make-water-safe-to-drink/">water guide</a> shows how to get it out and how to treat any water you're unsure of.</li>
+</ul>
+
+<h2 id="food">The food side</h2>
+<p>FEMA suggests at least several days of non-perishable food. Store what your household already eats: canned meat, fish, beans, soup, fruit and vegetables, peanut butter, crackers, cereal, nuts and shelf-stable milk, plus a manual can opener. Put new cans at the back and use the oldest first. Our <a href="{{root}}guides/prepping-for-beginners/">prepping for beginners</a> guide has a full list.</p>
+
+<script>
+(function () {
+  var form = document.getElementById('calc-form');
+  var CASE_GAL = (24 * 16.9) / 128;
+  var LABELS = { 3: '3 days', 7: '1 week', 14: '2 weeks' };
+  function $(id) { return document.getElementById(id); }
+  function fmt(n) { return n.toLocaleString('en-US'); }
+  function read() {
+    var people = Math.max(1, Math.min(99, Math.round(+$('people').value || 1)));
+    var day = form.querySelector('input[name="days"]:checked');
+    return { people: people, days: day ? +day.value : 14, hot: $('hot').checked };
+  }
+  function update() {
+    var v = read();
+    var gallons = v.people * v.days * (v.hot ? 2 : 1);
+    $('out-gallons').textContent = fmt(gallons);
+    $('out-jugs').textContent = fmt(gallons);
+    $('out-cases').textContent = fmt(Math.ceil(gallons / CASE_GAL));
+    $('out-meals').textContent = fmt(v.people * v.days * 3);
+    $('out-note').textContent = 'For ' + v.people + (v.people === 1 ? ' person' : ' people') + ' for ' + LABELS[v.days] +
+      ', at ' + (v.hot ? '2 gallons' : '1 gallon') + ' per person per day.';
+  }
+  function load() {
+    var q = new URLSearchParams(location.search);
+    if (q.get('people')) $('people').value = q.get('people');
+    var d = q.get('days');
+    var r = d && form.querySelector('input[name="days"][value="' + d + '"]');
+    if (r) r.checked = true;
+    if (q.get('hot') === '1') $('hot').checked = true;
+  }
+  form.addEventListener('input', update);
+  $('share').addEventListener('click', function () {
+    var v = read();
+    var url = location.origin + location.pathname + '?people=' + v.people + '&days=' + v.days + (v.hot ? '&hot=1' : '');
+    var btn = this;
+    var done = function () { btn.textContent = 'Link copied'; setTimeout(function () { btn.textContent = 'Copy a link to this plan'; }, 2500); };
+    var show = function () { var f = $('share-url'); f.value = url; f.hidden = false; f.focus(); f.select(); };
+    if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(url).then(done, show);
+    else show();
+  });
+  load();
+  update();
+})();
+</script>

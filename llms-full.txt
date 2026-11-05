@@ -74,6 +74,12 @@ BugOut Pro is $6.99 a month or $54.99 a year through your Apple ID. Cancel any t
 
 Printable checklists written from CDC, EPA and FEMA guidance. Read them now, or carry them offline in the app.
 
+- [### Winter storm checklist
+
+  Before the storm, frozen pipes, staying warm without power, and your car.](https://jaechung-glitch.github.io/bugout/guides/how-to-prepare-for-a-winter-storm/)
+- [### Car emergency kit list
+
+  What to keep in your car year-round, winter add-ons, and if you're stranded.](https://jaechung-glitch.github.io/bugout/guides/car-emergency-kit/)
 - [### Bug out bag list
 
   The 72-hour checklist: water, food, shelter, first aid, tools and documents.](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/)
@@ -83,12 +89,18 @@ Printable checklists written from CDC, EPA and FEMA guidance. Read them now, or 
 - [### Make water safe to drink
 
   How long to boil it, how much bleach per gallon, and which filters work.](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/)
+- [### Emergency water calculator
+
+  How much water and food your household needs for 3 days to 2 weeks.](https://jaechung-glitch.github.io/bugout/guides/emergency-water-calculator/)
 - [### 12 survival skills
 
   Priorities, signaling, shelter, fire, water, navigation and first aid.](https://jaechung-glitch.github.io/bugout/guides/survival-skills/)
 - [### Prepping for beginners
 
   A practical 4-week plan: risks, water, food, go bags and power outages.](https://jaechung-glitch.github.io/bugout/guides/prepping-for-beginners/)
+- [### Gifts for preppers
+
+  18 practical gift ideas from FEMA's kit list, and what to look for in each.](https://jaechung-glitch.github.io/bugout/guides/gifts-for-preppers/)
 
 ## BugOut at a glance
 
@@ -151,10 +163,16 @@ Any iPhone with iOS 16 or later. Ask Wally's written answers need an iPhone with
 # Survival guides and printable checklists
 
 URL: https://jaechung-glitch.github.io/bugout/guides/
-Updated: 2026-11-03
+Updated: 2026-11-05
 
-Plain, step-by-step guides for the emergencies people in the U.S. actually face, written from CDC, EPA, FEMA and U.S. Army guidance. Every guide has a checklist you can print, and the BugOut app carries the full library offline.
+Plain, step-by-step guides for the emergencies people in the U.S. actually face, written from CDC, EPA, FEMA and U.S. Army guidance. Most guides come with a checklist you can print or download as a PDF, and the BugOut app carries the full library offline.
 
+- [### Winter storm checklist
+
+  Before the storm, frozen pipes, staying warm without power, and your car.](https://jaechung-glitch.github.io/bugout/guides/how-to-prepare-for-a-winter-storm/)
+- [### Car emergency kit list
+
+  What to keep in your car year-round, winter add-ons, and if you're stranded.](https://jaechung-glitch.github.io/bugout/guides/car-emergency-kit/)
 - [### Bug out bag list
 
   The 72-hour checklist: water, food, shelter, first aid, tools and documents.](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/)
@@ -164,12 +182,261 @@ Plain, step-by-step guides for the emergencies people in the U.S. actually face,
 - [### Make water safe to drink
 
   How long to boil it, how much bleach per gallon, and which filters work.](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/)
+- [### Emergency water calculator
+
+  How much water and food your household needs for 3 days to 2 weeks.](https://jaechung-glitch.github.io/bugout/guides/emergency-water-calculator/)
 - [### 12 survival skills
 
   Priorities, signaling, shelter, fire, water, navigation and first aid.](https://jaechung-glitch.github.io/bugout/guides/survival-skills/)
 - [### Prepping for beginners
 
   A practical 4-week plan: risks, water, food, go bags and power outages.](https://jaechung-glitch.github.io/bugout/guides/prepping-for-beginners/)
+- [### Gifts for preppers
+
+  18 practical gift ideas from FEMA's kit list, and what to look for in each.](https://jaechung-glitch.github.io/bugout/guides/gifts-for-preppers/)
+
+---
+
+# How to prepare for a winter storm
+
+URL: https://jaechung-glitch.github.io/bugout/guides/how-to-prepare-for-a-winter-storm/
+Updated: 2026-11-05
+
+A winter storm can cut off heat and power for days. Here's what to do before it hits, how to keep pipes from freezing, how to stay warm and safe if the power goes out, and what to keep in the car.
+
+By the BugOut team. Updated November 5, 2026. Checked against Ready.gov, CDC, NHTSA, National Fire Protection Association and American Red Cross guidance.
+
+The short answer
+
+Before a winter storm, gather what you'd need to stay home for several days without power: water, food that needs no cooking, flashlights and batteries, a radio, medicines and warm blankets. Test your smoke and carbon monoxide alarms, protect your pipes from freezing, and fill the car's gas tank. During the storm, stay off the roads, keep warm in one room, and never use a generator, grill or gas oven for heat indoors.
+
+[**Download the printable checklist (PDF)**Winter Storm Checklist: free to print, share and keep with your kit.](https://jaechung-glitch.github.io/bugout/assets/pdf/winter-storm-checklist.pdf)
+
+## Watch, warning or advisory?
+
+Know the three main winter weather alerts. Sign up for your community's warning system, and keep a NOAA Weather Radio or battery radio in case phones and power go down.
+
+| Alert | What it means |
+| --- | --- |
+| Winter Storm Watch | A blizzard, heavy snow, heavy freezing rain or heavy sleet is possible. Usually issued 12 to 48 hours ahead. |
+| Winter Storm Warning | Hazardous winter weather is about to start or has started. Usually issued 12 to 24 hours ahead. Find shelter right away. |
+| Winter Weather Advisory | Snow, freezing rain, freezing drizzle or sleet that will cause serious problems, and could become life-threatening if you're not careful. |
+
+## Before the storm: your home checklist
+
+Plan to be on your own for several days. A winter storm can cut off heat, power and phone service, and older adults, children, people who are sick and pets are at greater risk.
+
+- Water: 1 gallon per person per day for at least 3 days. The CDC's minimum, for drinking and basic hygiene. Our [water calculator](https://jaechung-glitch.github.io/bugout/guides/emergency-water-calculator/) works out your total.
+- Food that needs no cooking or refrigeration, and a manual can opener
+- Flashlights or headlamps and extra batteries. Use flashlights, not candles, in the dark.
+- A battery-powered or hand-crank radio, and a NOAA Weather Radio with tone alert
+- Charged power banks and a car phone charger
+- Enough prescription medicine to last if you can't get out, plus a first-aid kit
+- A warm blanket or sleeping bag for each person, plus hats, gloves and warm layers
+- Food and extra water for pets
+- Smoke alarms and carbon monoxide alarms with battery backup, tested. Ready.gov lists carbon monoxide poisoning among the main dangers of winter storms.
+- Insulation, caulking and weather stripping to keep the cold out
+- Know where your main water shut-off valve is. If a pipe bursts, turning off the water fast limits the damage.
+
+Can't afford heating bills or repairs to keep the cold out? The Low Income Home Energy Assistance Program (LIHEAP) can help with heating costs and weatherization.
+
+## How to keep pipes from freezing
+
+Water expands as it freezes, and the pressure can split metal or plastic pipes. Pipes freeze most often where they're exposed to cold: outdoor hose bibs, pool and sprinkler lines, pipes in unheated basements, crawl spaces, attics, garages and kitchen cabinets, and pipes along outside walls with little insulation.
+
+### Before cold weather
+
+- Disconnect, drain and store garden hoses
+- Close the inside valves that feed outdoor faucets, then open the outdoor faucets so they can drain. Leave them open, so any water left in the pipe can expand without breaking it.
+- Drain pool and sprinkler supply lines the way the manufacturer or installer says. Don't put antifreeze in them unless you're told to: it's dangerous to people, pets and wildlife.
+- Insulate attics, basements and crawl spaces
+- Wrap exposed pipes with pipe sleeves or UL-listed heat tape or heat cable. Even ¼ inch of newspaper gives some protection where freezes are rare and short.
+
+### On very cold nights
+
+- Let cold water drip from faucets served by exposed pipes. Even a trickle of moving water helps stop a pipe freezing.
+- Open the cabinet doors under kitchen and bathroom sinks. Warm air reaches the pipes. Move cleaners and chemicals out of children's reach first.
+- Keep the garage door closed if water lines run through the garage
+- Keep the thermostat at the same temperature day and night
+- Going away? Leave the heat on, set no lower than 55°F
+
+### If a pipe freezes
+
+Only a trickle from the faucet usually means a frozen pipe, often along an outside wall or where the water line comes in through the foundation.
+
+1. Keep the faucet open. Running water helps melt the ice as it thaws.
+2. Warm that section of pipe with an electric heating pad wrapped around it, a hair dryer, a space heater kept away from anything that can burn, or towels soaked in hot water.
+3. Keep warming it until full water pressure comes back, then check your other faucets: if one pipe froze, others may have too.
+4. Call a licensed plumber if you can't find or reach the frozen section, or can't thaw it.
+
+**Never thaw a pipe with an open flame.** Don't use a blowtorch, a kerosene or propane heater, a charcoal stove or any other open-flame device.
+
+## If the power goes out in the cold
+
+**Carbon monoxide kills people every winter.** Use generators and grills only outdoors, and never heat your home with a gas stovetop or oven. If several people or pets feel sick at once, get everyone into fresh air, then call 911.
+
+- Run a generator outdoors only, at least 20 feet from windows, doors and attached garages, and let it cool before refueling.
+- Keep space heaters at least 3 feet from anything that can burn, and turn them off when you leave the room or go to bed.
+- Keep everyone in one small room with the doors closed, block drafts with towels, and cover the windows at night.
+- Wear loose layers, a hat and dry socks, and share blankets.
+- If you can't keep one room warm, go to a warming center or a home with heat.
+
+Our [power outage checklist](https://jaechung-glitch.github.io/bugout/guides/power-outage-checklist/) covers the rest, including how long food in the fridge and freezer stays safe.
+
+## Frostbite and hypothermia: the signs
+
+Limit time outside, and wear layers when you go out. Watch everyone for these signs, especially older adults and children.
+
+| Condition | Signs | What to do |
+| --- | --- | --- |
+| Hypothermia | Shivering, exhaustion, confusion, fumbling hands, memory loss, slurred speech or drowsiness. A body temperature below 95°F is an emergency: call 911. | Get to a warm room. Warm the center of the body first: chest, neck, head and groin. Keep the person dry and wrapped in warm blankets, including the head and neck. |
+| Frostbite | Numbness, and white or grayish-yellow skin that feels firm or waxy, usually on the face, fingers or toes. | Get to a warm room. Soak the area in warm water, or warm it with body heat. Don't massage it or use a heating pad. |
+
+Shoveling snow is hard work, and overexertion raises the risk of a heart attack. Take it slowly and rest often.
+
+## Driving and your car
+
+- **Stay off the roads** if you can. Check the forecast and road conditions before any trip.
+- **Keep the gas tank full,** or an electric car charged. A full tank also keeps the fuel line from freezing.
+- **Pack a winter car kit:** a shovel, ice scraper, sand or kitty litter, jumper cables, a flashlight, blankets and warm clothes, water, snacks and a phone charger. Our [car emergency kit list](https://jaechung-glitch.github.io/bugout/guides/car-emergency-kit/) has the full checklist.
+- **If you're stranded, stay with the car.** Tie something bright to the antenna or a window, and keep the dome light on. Clear snow from the exhaust pipe, and run the engine only now and then, just long enough to stay warm.
+
+## Quick answers
+
+### How do you prepare for a winter storm?
+
+Get supplies to stay home for several days without power: water (1 gallon per person per day for at least 3 days), food that needs no cooking, flashlights and extra batteries, a battery or hand-crank radio, medicines and warm blankets. Test your smoke and carbon monoxide alarms, protect pipes from freezing, fill your car's gas tank, and plan to stay off the roads.
+
+### How do I keep my pipes from freezing?
+
+On very cold nights, let cold water drip from faucets served by exposed pipes, open the cabinet doors under sinks, keep the garage door closed, and keep the thermostat at the same temperature day and night, the American Red Cross advises. Before winter, insulate exposed pipes and drain outdoor hoses. If you go away, leave the heat on at 55°F or higher.
+
+### What is the difference between a winter storm watch and a warning?
+
+A winter storm watch means a blizzard, heavy snow, heavy freezing rain or heavy sleet is possible, usually 12 to 48 hours ahead. A winter storm warning means hazardous winter weather is about to start or has started, and is usually issued 12 to 24 hours ahead. Under a warning, Ready.gov says to find shelter right away.
+
+### What temperature should I keep my house to stop pipes freezing?
+
+If you'll be away in cold weather, the American Red Cross says to leave the heat on and set no lower than 55°F. While you're home, keep the thermostat at the same temperature day and night instead of turning it down overnight.
+
+### Can I use my gas oven to heat the house if the power goes out?
+
+No. Ready.gov says never to heat your home with a gas stovetop or oven: it can cause carbon monoxide poisoning and fires. Use generators and grills outdoors only, and keep a battery-powered carbon monoxide alarm in the room where you're staying.
+
+## Sources
+
+- [Ready.gov (FEMA): Winter Weather](https://www.ready.gov/winter-weather)
+- [American Red Cross: Preventing and Thawing Frozen Pipes](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html)
+- [Ready.gov (FEMA): Build a Kit](https://www.ready.gov/kit)
+- [CDC: How to Create an Emergency Water Supply](https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
+- [CDC: Prevent Carbon Monoxide Poisoning](https://www.cdc.gov/natural-disasters/psa-toolkit/prevent-carbon-monoxide-poisoning.html)
+- [National Fire Protection Association: Heating safety](https://www.nfpa.org/education-and-research/home-fire-safety/heating)
+- [NHTSA: Winter Weather Driving Tips](https://www.nhtsa.gov/winter-driving-tips)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# Car emergency kit: what to keep in your car
+
+URL: https://jaechung-glitch.github.io/bugout/guides/car-emergency-kit/
+Updated: 2026-11-05
+
+Breakdowns, storms and long closures happen far from home. Here's what to keep in the car year-round, what to add for winter, how to check the car before you go, and what to do if you're stuck.
+
+By the BugOut team. Updated November 5, 2026. Checked against NHTSA and Ready.gov guidance.
+
+The short answer
+
+Keep jumper cables, a flashlight, flares or reflective triangles, a first-aid kit, a phone charger, a blanket, water and snacks, and a paper map in the car all year. For winter, add a snow shovel, an ice scraper, sand or kitty litter, and warm clothes, and keep the gas tank close to full. If you're stranded, stay with the car.
+
+[**Download the printable checklist (PDF)**Car Emergency Kit Checklist: free to print, share and keep with your kit.](https://jaechung-glitch.github.io/bugout/assets/pdf/car-emergency-kit-checklist.pdf)
+
+## The car emergency kit checklist
+
+These come from NHTSA and Ready.gov. Pack them in a bag or bin that stays in the trunk.
+
+### Safety and repair
+
+- Jumper cables. Cold weather drains batteries. In the cold, engines need more battery power to start.
+- Flashlight, plus extra batteries
+- Flares, reflective triangles or other emergency markers
+- A whistle, to signal for help
+- A paper map of the area. Phones die and lose signal.
+
+### First aid and comfort
+
+- A first-aid kit, including a tourniquet. NHTSA's list includes a tourniquet. Learn to use one in a Stop the Bleed® class.
+- Any medicines you or your passengers need
+- Bottled water
+- Non-perishable snacks
+- A blanket
+- A phone and a car charger
+
+### Winter add-ons
+
+- A snow shovel, broom and ice scraper
+- Sand or kitty litter. Pour it under the tires for traction if you get stuck.
+- Extra blankets and warm clothes: hats, gloves and dry socks
+- Winter washer fluid with de-icer, with the reservoir full. One snowstorm can use a lot of it.
+
+Keep the gas tank close to full whenever you can, or an electric car charged. A full tank helps in an evacuation or a power outage, and it keeps the fuel line from freezing.
+
+## Check the car before winter
+
+| Check | What to look for |
+| --- | --- |
+| Tire pressure | Pressure drops as it gets colder. Inflate to the number on the label in the driver's door frame, not the maximum printed on the tire, and check when the tires haven't been driven for at least 3 hours. |
+| Tread | At least 2/32 of an inch. Put a penny in the tread with Lincoln's head upside down: if you can see the top of his head, replace the tire. Consider winter tires, or chains or studs where they're required. |
+| Battery | Have a mechanic check the battery, charging system and belts. Electric and hybrid cars lose range in the cold. |
+| Lights and wipers | Check headlights, brake lights, turn signals and flashers. Test the defroster and replace worn wiper blades. |
+| Coolant | Enough coolant (antifreeze) that meets your owner's manual, with no leaks. |
+| Recalls | Look up your vehicle on NHTSA's recall lookup. Recall repairs are free. |
+
+## If you're stranded
+
+1. **Call 911** if you're in danger or someone is hurt.
+2. **Stay in the car.** It's your shelter. Don't wear yourself out.
+3. **Make the car visible.** Put something bright on the antenna or in a window, and keep the dome light on.
+4. **Prevent carbon monoxide poisoning.** Clear snow from the exhaust pipe, and run the engine only now and then, just long enough to stay warm. Don't run it for long with the windows up or in an enclosed space.
+5. **Stay warm.** Use the blankets and warm clothes in your kit.
+
+## Kids, car seats and winter coats
+
+A bulky coat can stop a car seat harness from fitting snugly. Dress children in thin, warm layers, buckle the harness snug, then put a blanket or their coat over the top.
+
+## Other kits to keep
+
+Ready.gov suggests supplies for home, work and the car, since you don't know where you'll be when something happens. Our [bug out bag list](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/) covers a 72-hour bag for evacuations, and the [winter storm checklist](https://jaechung-glitch.github.io/bugout/guides/how-to-prepare-for-a-winter-storm/) covers the house.
+
+STOP THE BLEED® is a registered trademark of the U.S. Department of Defense.
+
+## Quick answers
+
+### What should be in a car emergency kit?
+
+Jumper cables, a flashlight, flares or reflective triangles, a first-aid kit (NHTSA suggests one that includes a tourniquet) and any medicines you need, a phone car charger, a blanket, bottled water, non-perishable snacks and a paper map. In winter, add a snow shovel, broom and ice scraper, sand or kitty litter for traction, and warm clothes.
+
+### What should I keep in my car in winter?
+
+A snow shovel, broom and ice scraper, sand or kitty litter in case you get stuck, blankets and warm clothes, a flashlight, jumper cables, water and snacks, and a phone charger. Keep the gas tank close to full, or an electric car charged, and fill the washer fluid with winter fluid that has de-icer.
+
+### What do you do if you get stranded in your car in a snowstorm?
+
+Stay with the car and don't overexert yourself. Make it visible with something bright on the antenna or a window and the dome light on. Clear snow from the exhaust pipe, and run the engine only now and then, just long enough to stay warm. Don't run it for long with the windows up or in an enclosed space.
+
+### How do I check if my tires are safe for winter?
+
+Inflate them to the pressure on the label in the driver's door frame, not the number on the tire, and check when the tires are cold. Tread should be at least 2/32 of an inch: put a penny in the tread with Lincoln's head upside down, and if you can see the top of his head, it's time for new tires.
+
+## Sources
+
+- [NHTSA: Winter Weather Driving Tips](https://www.nhtsa.gov/winter-driving-tips)
+- [Ready.gov (FEMA): Car Safety](https://www.ready.gov/car)
+- [Ready.gov (FEMA): Winter Weather](https://www.ready.gov/winter-weather)
+- [Ready.gov (FEMA): Build a Kit](https://www.ready.gov/kit)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
 
 ---
 
@@ -186,6 +453,8 @@ The short answer
 
 Pack enough to get each person through 72 hours on their own: drinking water and a way to purify more, three days of food that needs no cooking, a flashlight, a radio, a first-aid kit and your medicines, a whistle, masks, warm layers and rain gear, a phone charger and power bank, copies of your IDs and some cash, plus anything your kids, pets or older relatives need. Keep one bag per person by the door and check it every six months.
 
+[**Download the printable checklist (PDF)**72-Hour Bug Out Bag Checklist: free to print, share and keep with your kit.](https://jaechung-glitch.github.io/bugout/assets/pdf/72-hour-bug-out-bag-checklist.pdf)
+
 ## What is a bug out bag?
 
 A bug out bag, also called a go bag, grab-and-go bag or 72-hour kit, is a backpack packed in advance so you can leave home within minutes during a wildfire, flood, hurricane evacuation, gas leak or house fire. The idea comes from the assumption FEMA builds its own kit list on: in a disaster, help may not reach you for several days, so you should be able to take care of yourself until it does.
@@ -198,8 +467,8 @@ Work through it category by category. Print the page to tick items off as you pa
 
 ### Water
 
-- Water bottles or a hydration bladder, 2 to 3 liters per personA gallon of water weighs about 8.3 pounds, so carry some and plan to purify the rest.
-- A way to make water safe: a portable filter plus purification tablets, or plain unscented bleach and a dropperMost portable filters don't remove viruses, so pair a filter with tablets or bleach.
+- Water bottles or a hydration bladder, 2 to 3 liters per person. A gallon of water weighs about 8.3 pounds, so carry some and plan to purify the rest.
+- A way to make water safe: a portable filter plus purification tablets, or plain unscented bleach and a dropper. Most portable filters don't remove viruses, so pair a filter with tablets or bleach.
 - A collapsible water container for collecting and treating water
 
 ### Food
@@ -220,9 +489,9 @@ Work through it category by category. Print the page to tick items off as you pa
 
 - A flashlight or headlamp, plus extra batteries
 - A battery-powered or hand-crank radio, ideally a NOAA Weather Radio
-- A whistle to signal for helpThree blasts is the distress signal, and a whistle carries much farther than your voice.
+- A whistle to signal for help. Three blasts is the distress signal, and a whistle carries much farther than your voice.
 - A phone charging cable and a charged power bank
-- A written list of phone numbers and a paper map of your areaYour phone may be dead or out of signal when you need them.
+- A written list of phone numbers and a paper map of your area. Your phone may be dead or out of signal when you need them.
 
 ### First aid and health
 
@@ -230,7 +499,7 @@ Work through it category by category. Print the page to tick items off as you pa
 - Prescription medicines, with a written list of names and doses
 - Over-the-counter basics: pain reliever, antihistamine, anti-diarrhea medicine
 - Glasses or contact lenses and solution
-- N95 or dust masksFor smoke, ash and dust after fires, storms and earthquakes.
+- N95 or dust masks. For smoke, ash and dust after fires, storms and earthquakes.
 - Hand sanitizer and moist towelettes
 
 ### Tools
@@ -243,7 +512,7 @@ Work through it category by category. Print the page to tick items off as you pa
 ### Documents and money
 
 - Copies of IDs, insurance policies and prescriptions in a waterproof bag
-- Cash in small billsCard readers and ATMs need power and a network.
+- Cash in small bills. Card readers and ATMs need power and a network.
 - Emergency contacts, including someone out of town
 
 ### Clothing and hygiene
@@ -349,6 +618,8 @@ The short answer
 4. Run generators, grills and camp stoves outdoors only, at least 20 feet from windows, doors and vents, with the exhaust pointed away from the house. Never heat your home with a gas oven or stove.
 5. If it gets dangerously hot or cold, go somewhere with power, and check on older neighbors.
 
+[**Download the printable checklist (PDF)**Power Outage Checklist: free to print, share and keep with your kit.](https://jaechung-glitch.github.io/bugout/assets/pdf/power-outage-checklist.pdf)
+
 ## The first 15 minutes
 
 1. **Check if it's only you.** Look at your breaker panel and whether the neighbors' lights are on. A tripped breaker is a much easier fix.
@@ -429,7 +700,7 @@ Keep these together where you can find them in the dark.
 - Battery-powered carbon monoxide alarms
 - Appliance thermometers for the fridge and freezer
 - A cooler and frozen ice packs or jugs of frozen water
-- Water: 1 gallon per person per day for at least 3 days, 2 weeks if you canThe CDC's recommendation. Store more for hot weather, pregnancy, illness and pets.
+- Water: 1 gallon per person per day for at least 3 days, 2 weeks if you can. The CDC's recommendation. Store more for hot weather, pregnancy, illness and pets.
 - At least 3 days of food that needs no cooking, and a manual can opener
 - A first-aid kit and a supply of everyone's medicines
 - Warm blankets or sleeping bags
@@ -558,7 +829,7 @@ Use pool or hot tub water for flushing and washing only.
 
 ## How much water to store
 
-- At least 1 gallon per person per day for 3 daysThe CDC's minimum. A family of four needs 12 gallons.
+- At least 1 gallon per person per day for 3 days. The CDC's minimum. A family of four needs 12 gallons.
 - A 2-week supply if you have the space
 - Extra for hot climates, pregnancy, illness and pets
 - Store-bought water: replace it by its expiration date
@@ -592,6 +863,67 @@ At least 1 gallon per person per day for 3 days, and a 2-week supply if you can,
 - [Minnesota Department of Health: Backcountry Water Treatment](https://www.health.state.mn.us/diseases/waterborne/prevention/backcountry.html)
 - [Newcastle University: Solar Disinfection (disaster relief)](https://research.ncl.ac.uk/waterqualitymaps/treatmentmethods/disasterrelief/solardisinfection)
 - U.S. Army FM 21-76, Survival: water procurement (in the BugOut library)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# Emergency water calculator: how much water and food to store
+
+URL: https://jaechung-glitch.github.io/bugout/guides/emergency-water-calculator/
+Updated: 2026-11-05
+
+Enter how many people live with you and how long you want to be ready for. The calculator uses the CDC's rule of 1 gallon per person per day, and turns it into jugs, bottle cases and meals.
+
+By the BugOut team. Updated November 5, 2026. Checked against CDC and Ready.gov guidance.
+
+## How the calculator works
+
+- **Water:** 1 gallon per person per day, the CDC's minimum, for drinking and basic hygiene. A normally active person needs about three-quarters of a gallon of fluid a day; the rest is for hygiene.
+- **Hot weather:** Ready.gov says water needs can double in very hot temperatures, so the box doubles the total.
+- **Food:** 3 meals per person per day, from food that won't spoil without a fridge and needs little or no cooking.
+- **Bottles:** a case of 24 half-liter (16.9 oz) bottles holds about 3.2 gallons.
+
+Add extra for children, nursing mothers, people who are sick and pets, who may need more, and for any medical needs.
+
+## How to store it
+
+- Buy sealed bottled water and keep it in a cool, dark place. It lasts until the expiration date on the label.
+- Or fill your own food-grade containers from a treated tap. Never reuse containers that held chemicals, such as bleach or pesticides.
+- Clean them first with dish soap, then sanitize with 1 teaspoon of unscented bleach per quart of water
+- Label each container with the date you filled it
+- Replace water you bottled yourself every 6 months
+
+## If you run short
+
+- Don't ration drinking water unless officials tell you to. Drink what you need today and look for more for tomorrow.
+- Cut how much your body needs by resting and staying cool.
+- Skip alcohol and caffeinated drinks: they make dehydration worse.
+- Your water heater tank and the toilet tank (not the bowl) hold usable water. Our [water guide](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/) shows how to get it out and how to treat any water you're unsure of.
+
+## The food side
+
+FEMA suggests at least several days of non-perishable food. Store what your household already eats: canned meat, fish, beans, soup, fruit and vegetables, peanut butter, crackers, cereal, nuts and shelf-stable milk, plus a manual can opener. Put new cans at the back and use the oldest first. Our [prepping for beginners](https://jaechung-glitch.github.io/bugout/guides/prepping-for-beginners/) guide has a full list.
+
+## Quick answers
+
+### How much water should I store for an emergency?
+
+At least 1 gallon per person per day for at least 3 days, the CDC's minimum, for drinking and basic hygiene. A 2-week supply is better if you have the space. Store more for hot weather, which can double the water people need, and for children, nursing mothers, people who are sick, and pets.
+
+### How much water does a family of 4 need for 2 weeks?
+
+56 gallons: 4 people × 14 days × 1 gallon. That's 56 one-gallon jugs, or about 18 cases of 24 half-liter bottles. In very hot weather, plan for up to twice as much.
+
+### How long does stored water last?
+
+Store-bought bottled water lasts until its expiration date if it stays sealed in a cool, dark place. Water you bottle yourself in clean, food-grade containers should be replaced every 6 months.
+
+## Sources
+
+- [CDC: How to Create an Emergency Water Supply](https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
+- [Ready.gov (FEMA): Water](https://www.ready.gov/water)
+- [Ready.gov (FEMA): Build a Kit](https://www.ready.gov/kit)
 
 This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
 
@@ -703,7 +1035,9 @@ Severe bleeding can kill in minutes, faster than help can arrive. The American C
 3. **No tourniquet, or the wound is on the neck, shoulder or groin:** pack a large, deep wound with gauze or clean cloth until it's filled, then press hard with both hands.
 4. **Otherwise, press:** cover the wound with gauze or a clean cloth and push down as hard as you can with both hands until help takes over.
 
-A commercial tourniquet works far better than a belt or cord. Most Stop the Bleed classes take 90 minutes or less and teach this hands-on.
+A commercial tourniquet works far better than a belt or cord. Most Stop the Bleed® classes take 90 minutes or less and teach this hands-on.
+
+STOP THE BLEED® is a registered trademark of the U.S. Department of Defense.
 
 ## 11. Recognize hypothermia and heat illness
 
@@ -800,7 +1134,7 @@ Ready.gov's planning steps start with five questions to talk through with your h
 4. How will we reach each other if we're apart and phones are down?
 5. Do we need to update our emergency supplies?
 
-- Pick an out-of-town contact everyone can textTexts often get through when calls don't, and a long-distance contact may be easier to reach than someone local.
+- Pick an out-of-town contact everyone can text. Texts often get through when calls don't, and a long-distance contact may be easier to reach than someone local.
 - Choose two meeting places: one near home, one outside your neighborhood
 - Write down phone numbers on paper for everyone's wallet or bag
 - Plan for anyone with medical needs, young children, older relatives and pets
@@ -811,7 +1145,7 @@ Ready.gov's planning steps start with five questions to talk through with your h
 
 ### Water
 
-- 1 gallon per person per day for at least 3 daysThe CDC's minimum, for drinking and basic hygiene. A family of four needs 12 gallons.
+- 1 gallon per person per day for at least 3 days. The CDC's minimum, for drinking and basic hygiene. A family of four needs 12 gallons.
 - Work toward a 2-week supply
 - Extra for pets, hot weather, pregnancy and illness
 - A way to treat more: unscented bleach, purification tablets or a filter
@@ -828,7 +1162,7 @@ Store what you already eat and eat what you store: put new cans at the back, use
 
 ## Week 3: Go bags and first aid
 
-- A go bag for each person, packed for 72 hoursOur [bug out bag list](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/) has the full checklist.
+- A go bag for each person, packed for 72 hours. Our [bug out bag list](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/) has the full checklist.
 - A first-aid kit at home and one in each car
 - A supply of prescription medicines and a written list of doses and allergies
 - Copies of IDs, insurance and medical information in a waterproof bag
@@ -899,5 +1233,90 @@ It doesn't have to be. Add a few items to each grocery trip, fill clean food-gra
 - [CDC: How to Create an Emergency Water Supply](https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
 - [FEMA: National Risk Index](https://hazards.fema.gov/nri/learn-more)
 - [Ready.gov (FEMA): Power Outages](https://www.ready.gov/power-outages)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# Gifts for preppers: 18 practical ideas that get used
+
+URL: https://jaechung-glitch.github.io/bugout/guides/gifts-for-preppers/
+Updated: 2026-11-05
+
+The best prepper gifts fill a gap in someone's emergency kit. These ideas come from FEMA's Build a Kit list and federal safety guidance, with what to look for in each, and a few gifts to skip.
+
+By the BugOut team. Updated November 5, 2026. Checked against Ready.gov, CDC, NHTSA and National Fire Protection Association guidance.
+
+The short answer
+
+Give something that fills a gap in their emergency kit. The most useful picks are a NOAA Weather Radio with tone alert, a headlamp, a power bank, a water filter with purification tablets, a well-stocked first-aid kit, a battery-powered carbon monoxide alarm, and a first-aid and CPR class. If you can, ask what's already in their kit, or check it against our [bug out bag list](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/).
+
+## Light, power and alerts
+
+1. **A NOAA Weather Radio with tone alert.** FEMA's kit list includes one, plus a battery or hand-crank radio. The tone alert sounds an alarm when a warning is issued, even in the middle of the night.
+2. **A headlamp, with extra batteries.** A flashlight is on FEMA's list; a headlamp keeps both hands free for cooking, first aid or a flat tire.
+3. **A power bank and charging cables.** FEMA's list says a cell phone with chargers and a backup battery. Pick a capacity that charges their phone several times, and a car charger for the glove box.
+4. **A battery-powered lantern.** Light for a whole room in a power outage, and far safer than candles.
+
+## Water
+
+5. **A portable water filter, with purification tablets.** Most portable filters remove parasites and many bacteria but not viruses, so pair one with tablets or a way to boil. Our [water guide](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/) explains which filter ratings matter.
+6. **Food-grade water containers.** The CDC's minimum is 1 gallon per person per day for at least 3 days. Our [water calculator](https://jaechung-glitch.github.io/bugout/guides/emergency-water-calculator/) shows how much a household needs.
+
+## First aid and safety
+
+7. **A well-stocked first-aid kit.** For a car kit, NHTSA suggests one that includes a tourniquet.
+8. **A first-aid and CPR class.** Skills last longer than gear. Look for one that covers bleeding control too.
+9. **A battery-powered carbon monoxide alarm.** Ready.gov recommends carbon monoxide detectors with battery backup, and lists carbon monoxide poisoning among the main dangers of winter storms.
+10. **A fire extinguisher.** On FEMA's list of extra supplies.
+11. **A whistle and a dust mask.** Both are on FEMA's basic list: one to signal for help, the other to filter dusty or smoky air.
+
+## Warmth and shelter
+
+12. **A warm sleeping bag or wool blanket.** FEMA suggests one for each person in the household.
+13. **A winter car kit.** A snow shovel, ice scraper, blankets and a bag of kitty litter for traction. See our [car emergency kit list](https://jaechung-glitch.github.io/bugout/guides/car-emergency-kit/).
+14. **Matches in a waterproof container.** A small gift from FEMA's list that's easy to forget.
+
+## Food, tools and paperwork
+
+15. **A manual can opener and a mess kit.** Both are on FEMA's list. Canned food is no help without a way to open it.
+16. **A multi-tool, or a wrench and pliers.** FEMA's list includes a wrench or pliers to turn off utilities.
+17. **A waterproof document pouch.** For copies of IDs, insurance and medical information, which FEMA suggests keeping in a waterproof, portable container.
+18. **A good backpack for a go bag.** Comfortable straps and room for 72 hours of supplies. Pair it with a printed [bug out bag checklist](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/).
+
+## Gifts to skip
+
+- **Fuel-burning heaters or stoves for indoor heat.** A camp stove, grill, or outdoor propane or kerosene heater must never be used indoors: they can cause carbon monoxide poisoning. If you give a space heater, choose an electric one, and remind them to keep it 3 feet from anything that can burn.
+- **Candles as emergency light.** Flashlights and lanterns are safer, especially with kids and pets moving around in the dark.
+- **Food they won't eat.** Emergency food works best when it's food the household already likes, rotated through everyday meals.
+
+## A digital gift
+
+BugOut is a free download, with survival guides, disaster checklists and the U.S. Army Survival Manual that all work offline. An Apple Gift Card can usually cover BugOut Pro: Apple says an Apple Account balance can pay for App Store app subscriptions.
+
+## Quick answers
+
+### What is a good gift for a prepper?
+
+Something that fills a gap in their emergency kit: a NOAA Weather Radio with tone alert, a headlamp, a power bank, a portable water filter with purification tablets, a well-stocked first-aid kit, a battery-powered carbon monoxide alarm, a fire extinguisher, or a first-aid and CPR class. Ask what's already in their kit first.
+
+### What is a good gift for someone starting an emergency kit?
+
+A sturdy bag or bin with the basics from FEMA's Build a Kit list: a flashlight and extra batteries, a battery or hand-crank radio, a first-aid kit, a whistle, a manual can opener, a dust mask, and a phone power bank. Add our printable bug out bag checklist so they can fill in the rest.
+
+### Are survival gifts good for people who aren't preppers?
+
+Yes, if they're useful in everyday emergencies like power outages, winter storms and car breakdowns. A headlamp, a power bank, a car emergency kit or a battery-powered carbon monoxide alarm gets used by almost anyone.
+
+## Sources
+
+- [Ready.gov (FEMA): Build a Kit](https://www.ready.gov/kit)
+- [Ready.gov (FEMA): Winter Weather](https://www.ready.gov/winter-weather)
+- [CDC: How to Create an Emergency Water Supply](https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
+- [CDC: How to Find Clean Water in an Emergency](https://www.cdc.gov/water-emergency/about/how-to-find-clean-water-in-an-emergency.html)
+- [CDC: Prevent Carbon Monoxide Poisoning](https://www.cdc.gov/natural-disasters/psa-toolkit/prevent-carbon-monoxide-poisoning.html)
+- [NHTSA: Winter Weather Driving Tips](https://www.nhtsa.gov/winter-driving-tips)
+- [National Fire Protection Association: Heating safety](https://www.nfpa.org/education-and-research/home-fire-safety/heating)
+- [Apple Support: What you can buy with your Apple Gift Card or Apple Account balance](https://support.apple.com/en-us/118245)
 
 This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.

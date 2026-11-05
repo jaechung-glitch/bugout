@@ -32,6 +32,20 @@ STORE_ICON = ('<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="c
               '<path d="M12 7v7m-3-3 3 3 3-3"/></svg>')
 
 
+PDF_ICON = ('<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" '
+            'stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/>'
+            '<path d="M14 3v5h5M9 13l3 3 3-3M12 10v6"/></svg>')
+
+
+def pdf_link(p, root):
+    """The download block for a guide's printable checklist (made by _src/make_pdfs.py)."""
+    if not p.get('pdf'):
+        return ''
+    return (f'<a class="pdf-link" href="{root}assets/pdf/{p["pdf"]}" type="application/pdf">{PDF_ICON}'
+            f'<div><b>Download the printable checklist (PDF)</b>'
+            f'<span>{html.escape(p["pdf_title"])}: free to print, share and keep with your kit.</span></div></a>')
+
+
 def store_button(label='Get BugOut on the App Store', extra=''):
     return (f'<a class="btn btn-primary{extra}" href="{APP_STORE}" rel="noopener">'
             f'{STORE_ICON}{html.escape(label)}</a>')
@@ -228,6 +242,11 @@ def facts_html(facts):
 
 def guide_body(p, pages_by_path, root):
     body = p['body'].replace('<!--cta-->', app_cta(p, root))
+    if p.get('pdf'):
+        # The download block goes right after the short answer at the top.
+        m = re.search(r'<div class="answer">.*?</div>', body, re.S)
+        at = m.end() if m else 0
+        body = body[:at] + '\n' + pdf_link(p, root) + body[at:]
     toc = re.findall(r'<h2 id="([^"]+)">(.*?)</h2>', body)
     toc_html = ''.join(f'<li><a href="#{i}">{re.sub(r"<[^>]+>", "", t)}</a></li>' for i, t in toc)
     sources = ''.join(
@@ -237,6 +256,7 @@ def guide_body(p, pages_by_path, root):
         f'<li><a href="{root}{r}"><h3>{html.escape(pages_by_path[r]["card"])}</h3><p>{html.escape(pages_by_path[r]["card_text"])}</p></a></li>'
         for r in p['related'])
     updated = date.fromisoformat(p['updated']).strftime('%B %-d, %Y')
+    pdf_toc = f' · <a href="{root}assets/pdf/{p["pdf"]}" type="application/pdf">Download the PDF</a>' if p.get('pdf') else ''
     return f'''<main id="main">
 <div class="wrap">
   {crumbs_html(p, root)}
@@ -245,7 +265,7 @@ def guide_body(p, pages_by_path, root):
     <p class="dek">{p['dek']}</p>
     <p class="byline">By the BugOut team. Updated {updated}. Checked against {html.escape(p['checked'])}.</p>
   </header>
-  <div class="article">
+  <div class="article{' tool' if p.get('tool') else ''}">
     <div class="body">
 {body}
 {quick_answers(p)}
@@ -255,7 +275,7 @@ def guide_body(p, pages_by_path, root):
     </div>
     <aside>
       <nav class="toc" aria-label="On this page"><b>On this page</b><ol>{toc_html}</ol>
-        <p class="print"><a href="javascript:window.print()">Print this guide</a></p></nav>
+        <p class="print"><a href="javascript:window.print()">Print this guide</a>{pdf_toc}</p></nav>
       <div class="side-app"><p>{html.escape(p['side'])}</p>{store_button('Get BugOut')}</div>
     </aside>
   </div>
@@ -292,9 +312,12 @@ def page_markdown(p, full_html):
     from markdownify import markdownify
     soup = BeautifulSoup(full_html, 'html.parser')
     main = soup.find('main')
-    for sel in ['aside', '.related', '.app-cta', '.crumbs', '.hero-phone', '.screens', '.actions', '.cta-note', '.signal', '.closing', 'script']:
+    for sel in ['aside', '.related', '.app-cta', '.crumbs', '.hero-phone', '.screens', '.actions', '.cta-note', '.signal', '.closing', '.calc', 'script']:
         for el in main.select(sel):
             el.decompose()
+    for why in main.select('.why'):
+        # A checklist item's explanation reads as its own sentence in plain text.
+        why.insert_before('. ' if not re.search(r'[.!?:]$', why.parent.get_text().split(why.get_text())[0].strip()) else ' ')
     page_url = BASE + p['path']
     for a in main.find_all('a', href=True):
         h = a['href']
@@ -330,6 +353,9 @@ def llms_txt(pages, home):
         '',
     ]
     lines += [f'- [{q["h1"]}]({BASE}{q["path"]}): {q["description"]}' for q in guides]
+    lines += ['', '## Printable checklists (PDF)', '']
+    lines += [f'- [{q["pdf_title"]} (PDF)]({BASE}assets/pdf/{q["pdf"]}): from [{q["h1"]}]({BASE}{q["path"]})'
+              for q in guides if q.get('pdf')]
     lines += [
         '',
         '## Optional',
@@ -372,6 +398,7 @@ def main():
     urls = [(BASE + p['path'], p.get('updated', p.get('lastmod'))) for p in pages]
     urls += [(BASE + f, '2026-10-30') for f in ('support.html', 'privacy-policy.html')]
     urls += [(BASE + 'terms.html', '2026-11-05')]
+    urls += [(BASE + 'assets/pdf/' + p['pdf'], p['updated']) for p in pages if p.get('pdf')]
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     sm += [f'  <url><loc>{u}</loc><lastmod>{d}</lastmod></url>' for u, d in urls]
     sm.append('</urlset>')
