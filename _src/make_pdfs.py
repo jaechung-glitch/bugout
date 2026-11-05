@@ -5,10 +5,11 @@
 
 A guide gets a PDF when its front matter has "pdf" (the file name),
 "pdf_title" and "pdf_sections" (the ids of the h2 sections to include, in
-order). Checklists become tick boxes without their explanations; other
-lists, tables and warnings are kept as they are. Needs Playwright with
-Chromium and BeautifulSoup. Rebuild the PDFs whenever those sections change, and after changing BASE
-in build.py (the PDFs print the page addresses).
+order). Checklists become tick boxes, each keeping its explanation in small
+print (some carry safety notes); other lists, tables and warnings are kept
+as they are. Needs Playwright with Chromium and BeautifulSoup. Rebuild the
+PDFs whenever those sections change, and after changing BASE in build.py
+(the PDFs print the page addresses).
 """
 
 import base64
@@ -58,6 +59,7 @@ h3 { font: 700 9.5pt/1.2 'Public Sans', sans-serif; text-transform: uppercase; l
 p { margin: 0 0 6px; }
 ul.check { list-style: none; padding: 0; margin: 0 0 6px; columns: 2; column-gap: 26px; }
 ul.check li { position: relative; padding: 2px 0 2px 20px; break-inside: avoid; }
+ul.check li small { display: block; font-size: 8pt; line-height: 1.3; color: #555a4b; }
 ul.check li::before { content: ''; position: absolute; left: 0; top: 4px; width: 11px; height: 11px; border: 1.5px solid #15170f; border-radius: 2px; }
 ul.plain, ol { margin: 0 0 6px; padding-left: 18px; }
 ul.plain li, ol li { margin-bottom: 2px; break-inside: avoid; }
@@ -93,8 +95,10 @@ def section_html(soup, sid):
         if el.name == 'ul' and 'checklist' in (el.get('class') or []):
             items = []
             for li in el.find_all('li', recursive=False):
+                # Keep each item's explanation: some carry safety notes.
                 for why in li.select('.why'):
-                    why.decompose()
+                    why.name = 'small'
+                    del why['class']
                 items.append(f'<li>{li.decode_contents().strip()}</li>')
             parts.append(f'<ul class="check">{"".join(items)}</ul>')
         elif el.name == 'ul':

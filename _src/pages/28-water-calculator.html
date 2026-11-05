@@ -45,7 +45,7 @@
   "faq": [
     [
       "How much water should I store for an emergency?",
-      "At least 1 gallon per person per day for at least 3 days, the CDC's minimum, for drinking and basic hygiene. A 2-week supply is better if you have the space. Store more for hot weather, which can double the water people need, and for children, nursing mothers, people who are sick, and pets."
+      "At least 1 gallon per person per day for at least 3 days, the CDC's minimum, for drinking, cooking and brushing teeth. A 2-week supply is better if you have the space. Store more for hot weather, which can double the water people need, and for children, pregnant women, nursing mothers, people who are sick, and pets."
     ],
     [
       "How much water does a family of 4 need for 2 weeks?",
@@ -88,18 +88,18 @@
 
 <h2 id="how-it-works">How the calculator works</h2>
 <ul>
-  <li><strong>Water:</strong> 1 gallon per person per day, the CDC's minimum, for drinking and basic hygiene. A normally active person needs about three-quarters of a gallon of fluid a day; the rest is for hygiene.</li>
+  <li><strong>Water:</strong> 1 gallon per person per day, the CDC's minimum, for drinking, cooking and brushing teeth. Ready.gov notes that a normally active person needs about three-quarters of a gallon of fluid a day, and that needs vary with age, health, activity, diet and climate.</li>
   <li><strong>Hot weather:</strong> Ready.gov says water needs can double in very hot temperatures, so the box doubles the total.</li>
   <li><strong>Food:</strong> 3 meals per person per day, from food that won't spoil without a fridge and needs little or no cooking.</li>
   <li><strong>Bottles:</strong> a case of 24 half-liter (16.9 oz) bottles holds about 3.2 gallons.</li>
 </ul>
-<p>Add extra for children, nursing mothers, people who are sick and pets, who may need more, and for any medical needs.</p>
+<p>Add extra for children, pregnant women, nursing mothers, people who are sick and pets, who may need more, and for any medical needs.</p>
 
 <h2 id="storing-water">How to store it</h2>
 <ul class="checklist">
   <li>Buy sealed bottled water and keep it in a cool, dark place<span class="why">It lasts until the expiration date on the label.</span></li>
   <li>Or fill your own food-grade containers from a treated tap<span class="why">Never reuse containers that held chemicals, such as bleach or pesticides.</span></li>
-  <li>Clean them first with dish soap, then sanitize with 1 teaspoon of unscented bleach per quart of water</li>
+  <li>Sanitize them before filling: wash and rinse, swirl in 1 teaspoon of unscented bleach per quart of water so it touches every surface, wait at least 30 seconds, then pour it out and let the container air-dry<span class="why">This solution is for cleaning containers only. Never drink it.</span></li>
   <li>Label each container with the date you filled it</li>
   <li>Replace water you bottled yourself every 6 months</li>
 </ul>
@@ -111,7 +111,7 @@
   <li>Don't ration drinking water unless officials tell you to. Drink what you need today and look for more for tomorrow.</li>
   <li>Cut how much your body needs by resting and staying cool.</li>
   <li>Skip alcohol and caffeinated drinks: they make dehydration worse.</li>
-  <li>Your water heater tank and the toilet tank (not the bowl) hold usable water. Our <a href="{{root}}guides/how-to-make-water-safe-to-drink/">water guide</a> shows how to get it out and how to treat any water you're unsure of.</li>
+  <li>Your water heater tank holds usable water, and so does the toilet tank (not the bowl) if the water is clear and hasn't been treated with toilet cleaners. Our <a href="{{root}}guides/how-to-make-water-safe-to-drink/">water guide</a> shows how to get it out and how to treat any water you're unsure of.</li>
 </ul>
 
 <h2 id="food">The food side</h2>
@@ -143,8 +143,7 @@
     var q = new URLSearchParams(location.search);
     if (q.get('people')) $('people').value = q.get('people');
     var d = q.get('days');
-    var r = d && form.querySelector('input[name="days"][value="' + d + '"]');
-    if (r) r.checked = true;
+    if (d === '3' || d === '7' || d === '14') form.querySelector('input[name="days"][value="' + d + '"]').checked = true;
     if (q.get('hot') === '1') $('hot').checked = true;
   }
   form.addEventListener('input', update);

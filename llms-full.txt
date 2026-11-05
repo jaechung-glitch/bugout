@@ -208,7 +208,7 @@ By the BugOut team. Updated November 5, 2026. Checked against Ready.gov, CDC, NH
 
 The short answer
 
-Before a winter storm, gather what you'd need to stay home for several days without power: water, food that needs no cooking, flashlights and batteries, a radio, medicines and warm blankets. Test your smoke and carbon monoxide alarms, protect your pipes from freezing, and fill the car's gas tank. During the storm, stay off the roads, keep warm in one room, and never use a generator, grill or gas oven for heat indoors.
+Before a winter storm, gather what you'd need to stay home for several days without power: water, food that needs no cooking, flashlights and batteries, a radio, medicines and warm blankets. Test your smoke and carbon monoxide alarms, protect your pipes from freezing, and fill the car's gas tank. During the storm, stay off the roads, never run a generator or grill indoors, and never heat your home with a gas oven or stovetop.
 
 [**Download the printable checklist (PDF)**Winter Storm Checklist: free to print, share and keep with your kit.](https://jaechung-glitch.github.io/bugout/assets/pdf/winter-storm-checklist.pdf)
 
@@ -220,13 +220,13 @@ Know the three main winter weather alerts. Sign up for your community's warning 
 | --- | --- |
 | Winter Storm Watch | A blizzard, heavy snow, heavy freezing rain or heavy sleet is possible. Usually issued 12 to 48 hours ahead. |
 | Winter Storm Warning | Hazardous winter weather is about to start or has started. Usually issued 12 to 24 hours ahead. Find shelter right away. |
-| Winter Weather Advisory | Snow, freezing rain, freezing drizzle or sleet that will cause serious problems, and could become life-threatening if you're not careful. |
+| Winter Weather Advisory | Snow, freezing rain, freezing drizzle or sleet that will cause significant inconveniences, and could become life-threatening if you're not careful. |
 
 ## Before the storm: your home checklist
 
 Plan to be on your own for several days. A winter storm can cut off heat, power and phone service, and older adults, children, people who are sick and pets are at greater risk.
 
-- Water: 1 gallon per person per day for at least 3 days. The CDC's minimum, for drinking and basic hygiene. Our [water calculator](https://jaechung-glitch.github.io/bugout/guides/emergency-water-calculator/) works out your total.
+- Water: 1 gallon per person per day for at least 3 days. The CDC's minimum, for drinking, cooking and brushing teeth. Our [water calculator](https://jaechung-glitch.github.io/bugout/guides/emergency-water-calculator/) works out your total.
 - Food that needs no cooking or refrigeration, and a manual can opener
 - Flashlights or headlamps and extra batteries. Use flashlights, not candles, in the dark.
 - A battery-powered or hand-crank radio, and a NOAA Weather Radio with tone alert
@@ -248,14 +248,14 @@ Water expands as it freezes, and the pressure can split metal or plastic pipes. 
 
 - Disconnect, drain and store garden hoses
 - Close the inside valves that feed outdoor faucets, then open the outdoor faucets so they can drain. Leave them open, so any water left in the pipe can expand without breaking it.
-- Drain pool and sprinkler supply lines the way the manufacturer or installer says. Don't put antifreeze in them unless you're told to: it's dangerous to people, pets and wildlife.
+- Drain pool and sprinkler supply lines the way the manufacturer or installer says, without adding antifreeze unless they tell you to. Antifreeze is dangerous to people, pets and wildlife.
 - Insulate attics, basements and crawl spaces
 - Wrap exposed pipes with pipe sleeves or UL-listed heat tape or heat cable. Even ¼ inch of newspaper gives some protection where freezes are rare and short.
 
 ### On very cold nights
 
 - Let cold water drip from faucets served by exposed pipes. Even a trickle of moving water helps stop a pipe freezing.
-- Open the cabinet doors under kitchen and bathroom sinks. Warm air reaches the pipes. Move cleaners and chemicals out of children's reach first.
+- Open the cabinet doors under kitchen and bathroom sinks, after moving cleaners and chemicals out of children's reach. Warm air reaches the pipes.
 - Keep the garage door closed if water lines run through the garage
 - Keep the thermostat at the same temperature day and night
 - Going away? Leave the heat on, set no lower than 55°F
@@ -273,15 +273,14 @@ Only a trickle from the faucet usually means a frozen pipe, often along an outsi
 
 ## If the power goes out in the cold
 
-**Carbon monoxide kills people every winter.** Use generators and grills only outdoors, and never heat your home with a gas stovetop or oven. If several people or pets feel sick at once, get everyone into fresh air, then call 911.
+**Carbon monoxide is one of a winter storm's biggest dangers.** Use generators and grills only outdoors, and never heat your home with a gas stovetop or oven. If the carbon monoxide alarm sounds, or anyone has a headache, dizziness, weakness, nausea or confusion, get everyone into fresh air right away, then call 911. People who are asleep can die before they notice anything.
 
 - Run a generator outdoors only, at least 20 feet from windows, doors and attached garages, and let it cool before refueling.
 - Keep space heaters at least 3 feet from anything that can burn, and turn them off when you leave the room or go to bed.
-- Keep everyone in one small room with the doors closed, block drafts with towels, and cover the windows at night.
-- Wear loose layers, a hat and dry socks, and share blankets.
-- If you can't keep one room warm, go to a warming center or a home with heat.
+- Use the blankets or sleeping bags from your kit, and dress in warm layers.
+- If you can't keep warm at home, go somewhere with heat, such as a warming center.
 
-Our [power outage checklist](https://jaechung-glitch.github.io/bugout/guides/power-outage-checklist/) covers the rest, including how long food in the fridge and freezer stays safe.
+Our [power outage checklist](https://jaechung-glitch.github.io/bugout/guides/power-outage-checklist/) covers the rest, including how to keep one room warm and how long food in the fridge and freezer stays safe.
 
 ## Frostbite and hypothermia: the signs
 
@@ -299,7 +298,7 @@ Shoveling snow is hard work, and overexertion raises the risk of a heart attack.
 - **Stay off the roads** if you can. Check the forecast and road conditions before any trip.
 - **Keep the gas tank full,** or an electric car charged. A full tank also keeps the fuel line from freezing.
 - **Pack a winter car kit:** a shovel, ice scraper, sand or kitty litter, jumper cables, a flashlight, blankets and warm clothes, water, snacks and a phone charger. Our [car emergency kit list](https://jaechung-glitch.github.io/bugout/guides/car-emergency-kit/) has the full checklist.
-- **If you're stranded, stay with the car.** Tie something bright to the antenna or a window, and keep the dome light on. Clear snow from the exhaust pipe, and run the engine only now and then, just long enough to stay warm.
+- **If you're stranded, stay with the car.** Tie something bright to the antenna or a window, and keep the dome light on. Clear snow from the exhaust pipe, and run the engine only now and then, just long enough to stay warm. Don't run it for long with the windows up or in an enclosed space.
 
 ## Quick answers
 
@@ -321,7 +320,7 @@ If you'll be away in cold weather, the American Red Cross says to leave the heat
 
 ### Can I use my gas oven to heat the house if the power goes out?
 
-No. Ready.gov says never to heat your home with a gas stovetop or oven: it can cause carbon monoxide poisoning and fires. Use generators and grills outdoors only, and keep a battery-powered carbon monoxide alarm in the room where you're staying.
+No. Ready.gov says never to heat your home with a gas stovetop or oven: it can cause carbon monoxide poisoning and fires. Use generators and grills outdoors only, and keep battery-powered carbon monoxide alarms near every sleeping area.
 
 ## Sources
 
@@ -329,8 +328,10 @@ No. Ready.gov says never to heat your home with a gas stovetop or oven: it can c
 - [American Red Cross: Preventing and Thawing Frozen Pipes](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html)
 - [Ready.gov (FEMA): Build a Kit](https://www.ready.gov/kit)
 - [CDC: How to Create an Emergency Water Supply](https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
+- [CDC: About Carbon Monoxide Poisoning](https://www.cdc.gov/carbon-monoxide/about/index.html)
 - [CDC: Prevent Carbon Monoxide Poisoning](https://www.cdc.gov/natural-disasters/psa-toolkit/prevent-carbon-monoxide-poisoning.html)
 - [National Fire Protection Association: Heating safety](https://www.nfpa.org/education-and-research/home-fire-safety/heating)
+- [Ready.gov (FEMA): Power Outages](https://www.ready.gov/power-outages)
 - [NHTSA: Winter Weather Driving Tips](https://www.nhtsa.gov/winter-driving-tips)
 
 This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
@@ -354,7 +355,7 @@ Keep jumper cables, a flashlight, flares or reflective triangles, a first-aid ki
 
 ## The car emergency kit checklist
 
-These come from NHTSA and Ready.gov. Pack them in a bag or bin that stays in the trunk.
+Adapted from NHTSA's and Ready.gov's lists. Pack them in a bag or bin that stays in the trunk.
 
 ### Safety and repair
 
@@ -530,7 +531,7 @@ Work through it category by category. Print the page to tick items off as you pa
 
 ## How much water and food to pack
 
-FEMA and the CDC both plan around one gallon of water per person per day, for drinking and basic hygiene. For 72 hours that's three gallons each, about 25 pounds, which is too heavy for most people to carry far. That's why a bug out bag carries a few liters and the means to treat more.
+FEMA and the CDC both plan around one gallon of water per person per day, for drinking, cooking and hygiene. For 72 hours that's three gallons each, about 25 pounds, which is too heavy for most people to carry far. That's why a bug out bag carries a few liters and the means to treat more.
 
 | Supply | Per person | How to carry it |
 | --- | --- | --- |
@@ -650,7 +651,7 @@ The USDA's numbers assume the doors stay closed:
 
 ## Generators and carbon monoxide
 
-**Carbon monoxide from portable generators alone kills more than 80 people a year in the U.S.**, according to the Consumer Product Safety Commission. It's invisible, has no smell, and builds up from anything that burns fuel. If several people or pets feel sick at once, suspect carbon monoxide: get everyone outside into fresh air, then call 911.
+**Carbon monoxide from portable generators alone kills more than 80 people a year in the U.S.**, according to the Consumer Product Safety Commission. It's invisible, has no smell, and builds up from anything that burns fuel. If the carbon monoxide alarm sounds, or anyone has a headache, dizziness, weakness, nausea or confusion, get everyone outside into fresh air right away, then call 911. Several people or pets feeling sick at once is a strong sign.
 
 - Run a generator outdoors only, at least 20 feet from doors, windows and vents, the distance the CDC gives, with the exhaust pointed away from the house. Never in a house, garage, basement, crawl space or shed, or on a porch, even with the doors open.
 - Never use a grill, camp stove, charcoal or an outdoor propane or kerosene heater indoors, and never heat your home with a gas oven or stovetop.
@@ -730,6 +731,7 @@ Flashlights and extra batteries, a battery or hand-crank radio, charged power ba
 
 - [Ready.gov (FEMA): Power Outages](https://www.ready.gov/power-outages)
 - [USDA: Food safety during a power outage](https://www.usda.gov/node/44742)
+- [CDC: About Carbon Monoxide Poisoning](https://www.cdc.gov/carbon-monoxide/about/index.html)
 - [CDC: Prevent Carbon Monoxide Poisoning](https://www.cdc.gov/natural-disasters/psa-toolkit/prevent-carbon-monoxide-poisoning.html)
 - [U.S. Consumer Product Safety Commission: What to Know About Generators (PDF)](https://www.cpsc.gov/s3fs-public/468_WhattoKnowGenerators_2022_v5.pdf)
 - [OSHA: Using Portable Generators Safely (PDF)](https://www.osha.gov/Publications/OSHA3286.pdf)
@@ -794,7 +796,7 @@ With 2% tincture of iodine, the EPA's dose is 5 drops per quart or liter (10 dro
 
 ## Do water filters make water safe?
 
-Portable filters are good at removing parasites like Giardia and Cryptosporidium and many bacteria, but **most don't remove viruses**; only some purifiers are rated for them, so check the label. Look for:
+Most portable filters remove parasites like Giardia and Cryptosporidium, but the CDC says **most don't remove bacteria or viruses**. Only some purifiers are rated for viruses, so check the label. Look for:
 
 - An absolute pore size of 1 micron or smaller (NSF Standard 53 or 58) for parasites
 - 0.3 microns or smaller for bacteria
@@ -849,7 +851,7 @@ The EPA's dose is 8 drops of 6% unscented household bleach, or 6 drops of 8.25% 
 
 ### Do water filters remove viruses?
 
-Most portable filters don't. They remove parasites like Giardia and Cryptosporidium and many bacteria, but only some purifiers are rated for viruses. Where viruses are a risk, filter first and then boil or disinfect.
+Most portable filters don't. The CDC says most remove parasites like Giardia and Cryptosporidium but not bacteria or viruses; filters with an absolute pore size of 0.3 microns or smaller also remove bacteria, and only some purifiers are rated for viruses. Filter first, then boil or disinfect.
 
 ### How much water should you store for an emergency?
 
@@ -860,6 +862,7 @@ At least 1 gallon per person per day for 3 days, and a 2-week supply if you can,
 - [EPA: Emergency Disinfection of Drinking Water](https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water)
 - [CDC: How to Find Clean Water in an Emergency](https://www.cdc.gov/water-emergency/about/how-to-find-clean-water-in-an-emergency.html)
 - [CDC: How to Create an Emergency Water Supply](https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
+- [CDC: Water Treatment Options When Hiking, Camping or Traveling](https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html)
 - [Minnesota Department of Health: Backcountry Water Treatment](https://www.health.state.mn.us/diseases/waterborne/prevention/backcountry.html)
 - [Newcastle University: Solar Disinfection (disaster relief)](https://research.ncl.ac.uk/waterqualitymaps/treatmentmethods/disasterrelief/solardisinfection)
 - U.S. Army FM 21-76, Survival: water procurement (in the BugOut library)
@@ -879,18 +882,18 @@ By the BugOut team. Updated November 5, 2026. Checked against CDC and Ready.gov 
 
 ## How the calculator works
 
-- **Water:** 1 gallon per person per day, the CDC's minimum, for drinking and basic hygiene. A normally active person needs about three-quarters of a gallon of fluid a day; the rest is for hygiene.
+- **Water:** 1 gallon per person per day, the CDC's minimum, for drinking, cooking and brushing teeth. Ready.gov notes that a normally active person needs about three-quarters of a gallon of fluid a day, and that needs vary with age, health, activity, diet and climate.
 - **Hot weather:** Ready.gov says water needs can double in very hot temperatures, so the box doubles the total.
 - **Food:** 3 meals per person per day, from food that won't spoil without a fridge and needs little or no cooking.
 - **Bottles:** a case of 24 half-liter (16.9 oz) bottles holds about 3.2 gallons.
 
-Add extra for children, nursing mothers, people who are sick and pets, who may need more, and for any medical needs.
+Add extra for children, pregnant women, nursing mothers, people who are sick and pets, who may need more, and for any medical needs.
 
 ## How to store it
 
 - Buy sealed bottled water and keep it in a cool, dark place. It lasts until the expiration date on the label.
 - Or fill your own food-grade containers from a treated tap. Never reuse containers that held chemicals, such as bleach or pesticides.
-- Clean them first with dish soap, then sanitize with 1 teaspoon of unscented bleach per quart of water
+- Sanitize them before filling: wash and rinse, swirl in 1 teaspoon of unscented bleach per quart of water so it touches every surface, wait at least 30 seconds, then pour it out and let the container air-dry. This solution is for cleaning containers only. Never drink it.
 - Label each container with the date you filled it
 - Replace water you bottled yourself every 6 months
 
@@ -899,7 +902,7 @@ Add extra for children, nursing mothers, people who are sick and pets, who may n
 - Don't ration drinking water unless officials tell you to. Drink what you need today and look for more for tomorrow.
 - Cut how much your body needs by resting and staying cool.
 - Skip alcohol and caffeinated drinks: they make dehydration worse.
-- Your water heater tank and the toilet tank (not the bowl) hold usable water. Our [water guide](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/) shows how to get it out and how to treat any water you're unsure of.
+- Your water heater tank holds usable water, and so does the toilet tank (not the bowl) if the water is clear and hasn't been treated with toilet cleaners. Our [water guide](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/) shows how to get it out and how to treat any water you're unsure of.
 
 ## The food side
 
@@ -909,7 +912,7 @@ FEMA suggests at least several days of non-perishable food. Store what your hous
 
 ### How much water should I store for an emergency?
 
-At least 1 gallon per person per day for at least 3 days, the CDC's minimum, for drinking and basic hygiene. A 2-week supply is better if you have the space. Store more for hot weather, which can double the water people need, and for children, nursing mothers, people who are sick, and pets.
+At least 1 gallon per person per day for at least 3 days, the CDC's minimum, for drinking, cooking and brushing teeth. A 2-week supply is better if you have the space. Store more for hot weather, which can double the water people need, and for children, pregnant women, nursing mothers, people who are sick, and pets.
 
 ### How much water does a family of 4 need for 2 weeks?
 
@@ -1145,7 +1148,7 @@ Ready.gov's planning steps start with five questions to talk through with your h
 
 ### Water
 
-- 1 gallon per person per day for at least 3 days. The CDC's minimum, for drinking and basic hygiene. A family of four needs 12 gallons.
+- 1 gallon per person per day for at least 3 days. The CDC's minimum, for drinking, cooking and brushing teeth. A family of four needs 12 gallons.
 - Work toward a 2-week supply
 - Extra for pets, hot weather, pregnancy and illness
 - A way to treat more: unscented bleach, purification tablets or a filter
@@ -1260,7 +1263,7 @@ Give something that fills a gap in their emergency kit. The most useful picks ar
 
 ## Water
 
-5. **A portable water filter, with purification tablets.** Most portable filters remove parasites and many bacteria but not viruses, so pair one with tablets or a way to boil. Our [water guide](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/) explains which filter ratings matter.
+5. **A portable water filter, with purification tablets.** The CDC says most portable filters remove parasites but not bacteria or viruses. For bacteria, look for an absolute pore size of 0.3 microns or smaller, and plan to filter, then use tablets or boil. Our [water guide](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/) explains which filter ratings matter.
 6. **Food-grade water containers.** The CDC's minimum is 1 gallon per person per day for at least 3 days. Our [water calculator](https://jaechung-glitch.github.io/bugout/guides/emergency-water-calculator/) shows how much a household needs.
 
 ## First aid and safety
@@ -1269,7 +1272,7 @@ Give something that fills a gap in their emergency kit. The most useful picks ar
 8. **A first-aid and CPR class.** Skills last longer than gear. Look for one that covers bleeding control too.
 9. **A battery-powered carbon monoxide alarm.** Ready.gov recommends carbon monoxide detectors with battery backup, and lists carbon monoxide poisoning among the main dangers of winter storms.
 10. **A fire extinguisher.** On FEMA's list of extra supplies.
-11. **A whistle and a dust mask.** Both are on FEMA's basic list: one to signal for help, the other to filter dusty or smoky air.
+11. **A whistle and a dust mask.** Both are on FEMA's basic list: one to signal for help, the other to help filter contaminated air.
 
 ## Warmth and shelter
 
@@ -1313,7 +1316,7 @@ Yes, if they're useful in everyday emergencies like power outages, winter storms
 - [Ready.gov (FEMA): Build a Kit](https://www.ready.gov/kit)
 - [Ready.gov (FEMA): Winter Weather](https://www.ready.gov/winter-weather)
 - [CDC: How to Create an Emergency Water Supply](https://cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
-- [CDC: How to Find Clean Water in an Emergency](https://www.cdc.gov/water-emergency/about/how-to-find-clean-water-in-an-emergency.html)
+- [CDC: Water Treatment Options When Hiking, Camping or Traveling](https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html)
 - [CDC: Prevent Carbon Monoxide Poisoning](https://www.cdc.gov/natural-disasters/psa-toolkit/prevent-carbon-monoxide-poisoning.html)
 - [NHTSA: Winter Weather Driving Tips](https://www.nhtsa.gov/winter-driving-tips)
 - [National Fire Protection Association: Heating safety](https://www.nfpa.org/education-and-research/home-fire-safety/heating)
