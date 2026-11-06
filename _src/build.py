@@ -408,7 +408,7 @@ def main():
     (ROOT / f'{INDEXNOW_KEY}.txt').write_text(INDEXNOW_KEY)
     print('wrote llms.txt, llms-full.txt and the IndexNow key file')
     urls = [(BASE + p['path'], p.get('updated', p.get('lastmod'))) for p in pages]
-    urls += [(BASE + f, '2026-10-30') for f in ('support.html', 'privacy-policy.html')]
+    urls += [(BASE + 'support.html', '2026-10-30'), (BASE + 'privacy-policy.html', '2026-11-06')]
     urls += [(BASE + 'terms.html', '2026-11-05')]
     urls += [(BASE + 'assets/pdf/' + p['pdf'], p['updated']) for p in pages if p.get('pdf')]
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
