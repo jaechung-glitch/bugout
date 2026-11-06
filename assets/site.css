@@ -268,12 +268,15 @@ button.btn-ghost { background: transparent; }
 .calc-url { width: 100%; margin-top: 12px; background: var(--ink); color: var(--text); border: 1.5px solid var(--rule); border-radius: 10px; padding: 10px 12px; font: inherit; font-size: 0.9rem; }
 @media (max-width: 620px) { .calc { grid-template-columns: minmax(0, 1fr); } }
 
-/* Printable checklist download */
-.pdf-link { display: flex; align-items: center; gap: 14px; border: 1px solid var(--rule); border-radius: 16px; padding: 16px 20px; margin: 0 0 36px; text-decoration: none; color: var(--text); }
-.pdf-link:hover { border-color: var(--lime); }
-.pdf-link svg { width: 34px; height: 34px; flex: none; color: var(--lime); }
-.pdf-link b { display: block; color: #fff; font-family: var(--display); }
-.pdf-link span { color: var(--muted); font-size: 0.93rem; }
+/* Checklist PDF downloads: print and phone versions */
+.pdf-link { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 16px; border: 1px solid var(--rule); border-radius: 16px; padding: 16px 20px; margin: 0 0 36px; }
+.pdf-link > svg { width: 34px; height: 34px; flex: none; color: var(--lime); }
+.pdf-text { flex: 1 1 14rem; min-width: 0; }
+.pdf-text b { display: block; color: #fff; font-family: var(--display); }
+.pdf-text span { display: block; color: var(--muted); font-size: 0.93rem; line-height: 1.45; margin-top: 2px; }
+.pdf-btns { display: flex; flex-wrap: wrap; gap: 8px; }
+.pdf-btns .btn { padding: 10px 16px; font-size: 0.92rem; }
+@media (max-width: 620px) { .pdf-btns { width: 100%; } .pdf-btns .btn { flex: 1 1 auto; justify-content: center; } .pdf-phone { order: -1; } }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
 

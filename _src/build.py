@@ -37,13 +37,22 @@ PDF_ICON = ('<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="cur
             '<path d="M14 3v5h5M9 13l3 3 3-3M12 10v6"/></svg>')
 
 
+def phone_pdf(p):
+    return p['pdf'].replace('.pdf', '-phone.pdf')
+
+
 def pdf_link(p, root):
-    """The download block for a guide's printable checklist (made by _src/make_pdfs.py)."""
+    """Download buttons for a guide's checklist PDFs (made by _src/make_pdfs.py):
+    Letter size to print, and a phone-shaped version to keep on a phone."""
     if not p.get('pdf'):
         return ''
-    return (f'<a class="pdf-link" href="{root}assets/pdf/{p["pdf"]}" type="application/pdf">{PDF_ICON}'
-            f'<div><b>Download the printable checklist (PDF)</b>'
-            f'<span>{html.escape(p["pdf_title"])}: free to print, share and keep with your kit.</span></div></a>')
+    return (f'<div class="pdf-link">{PDF_ICON}'
+            f'<div class="pdf-text"><b>Download the checklist (PDF)</b>'
+            f'<span>{html.escape(p["pdf_title"])}: free to print, share and keep with your kit.</span></div>'
+            f'<div class="pdf-btns">'
+            f'<a class="btn btn-ghost pdf-print" href="{root}assets/pdf/{p["pdf"]}" type="application/pdf">Print version</a>'
+            f'<a class="btn btn-ghost pdf-phone" href="{root}assets/pdf/{phone_pdf(p)}" type="application/pdf">Phone version</a>'
+            f'</div></div>')
 
 
 def store_button(label='Get BugOut on the App Store', extra=''):
@@ -256,7 +265,8 @@ def guide_body(p, pages_by_path, root):
         f'<li><a href="{root}{r}"><h3>{html.escape(pages_by_path[r]["card"])}</h3><p>{html.escape(pages_by_path[r]["card_text"])}</p></a></li>'
         for r in p['related'])
     updated = date.fromisoformat(p['updated']).strftime('%B %-d, %Y')
-    pdf_toc = f' · <a href="{root}assets/pdf/{p["pdf"]}" type="application/pdf">Download the PDF</a>' if p.get('pdf') else ''
+    pdf_toc = (f'<br>Checklist PDF: <a href="{root}assets/pdf/{p["pdf"]}" type="application/pdf">print</a> · '
+               f'<a href="{root}assets/pdf/{phone_pdf(p)}" type="application/pdf">phone</a>') if p.get('pdf') else ''
     return f'''<main id="main">
 <div class="wrap">
   {crumbs_html(p, root)}
@@ -354,7 +364,8 @@ def llms_txt(pages, home):
     ]
     lines += [f'- [{q["h1"]}]({BASE}{q["path"]}): {q["description"]}' for q in guides]
     lines += ['', '## Printable checklists (PDF)', '']
-    lines += [f'- [{q["pdf_title"]} (PDF)]({BASE}assets/pdf/{q["pdf"]}): from [{q["h1"]}]({BASE}{q["path"]})'
+    lines += [f'- [{q["pdf_title"]} (PDF)]({BASE}assets/pdf/{q["pdf"]}): from [{q["h1"]}]({BASE}{q["path"]}); '
+              f'[phone version]({BASE}assets/pdf/{phone_pdf(q)})'
               for q in guides if q.get('pdf')]
     lines += [
         '',
