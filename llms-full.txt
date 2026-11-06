@@ -15,7 +15,7 @@ Wally is an AI survival assistant built into BugOut. Ask in plain words and it a
 
 - **Works anywhere:** in airplane mode, in the backcountry, in a blackout. Wally runs entirely on your iPhone.
 - **Private by design:** your questions never leave your phone. No account, no tracking.
-- **Grounded in the library:** answers come from the CDC, Red Cross, FEMA and U.S. Army material in the app, not the open internet. Like any AI, Wally can make mistakes, so check the source before you rely on an answer.
+- **Grounded in the library:** answers come from the CDC, FEMA and U.S. Army material in the app, not the open internet. Like any AI, Wally can make mistakes, so check the source before you rely on an answer.
 - **Which iPhone models:** written answers need an iPhone with Apple Intelligence (iPhone 15 Pro or newer, iOS 26). Other iPhone models get the most relevant passages from the guides. Wally is part of BugOut Pro.
 
 How do I make water safe to drink?
@@ -36,7 +36,7 @@ Everything is stored on your iPhone, so it's there when the network, the power o
 
 ### Survival Essentials, the master guide
 
-The core method for 56 emergencies, from severe bleeding, CPR and choking to house fires, floods and tornadoes. One short, step-by-step section each, written from CDC, Red Cross, FEMA and U.S. Army guidance.
+The core method for 56 emergencies, from severe bleeding, CPR and choking to house fires, floods and tornadoes. One short, step-by-step section each, written from CDC, FEMA and U.S. Army guidance.
 
 68
 
