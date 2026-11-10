@@ -171,7 +171,7 @@ def page_html(p, phone=False):
     soup = BeautifulSoup(body, 'html.parser')
     sections = ''.join(section_html(soup, s, phone) for s in p['pdf_sections'])
     url = build.BASE + p['path']
-    updated = date.fromisoformat(p['updated']).strftime('%B %-d, %Y')
+    updated = build.long_date(p['updated'])
     icon = data_uri(build.ROOT / 'assets' / 'img' / 'icon-192.png', 'image/png')
     if phone:
         return f'''<!DOCTYPE html>

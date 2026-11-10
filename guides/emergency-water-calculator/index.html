@@ -36,7 +36,7 @@
   <div class="wrap">
     <a class="brand" href="../../"><img src="../../assets/img/icon-96.png" width="34" height="34" alt="">BugOut</a>
     <nav class="nav" aria-label="Main">
-      <a href="../../guides/">Survival guides</a>
+      <a class="nav-guides" href="../../guides/"><span class="wide">Survival </span>guides</a>
       <a href="../../#wally">Ask Wally</a>
       <a href="../../#faq">FAQ</a>
       <a class="btn btn-primary" href="https://apps.apple.com/us/app/id6761040937" rel="noopener">Get the app</a>
@@ -69,14 +69,15 @@
     </fieldset>
     <label class="calc-check"><input type="checkbox" id="hot" name="hot"> Plan for very hot weather (water needs can double)</label>
   </div>
-  <div class="calc-out" aria-live="polite">
+  <div class="calc-out">
     <p class="calc-total"><b id="out-gallons">56</b> gallons of water</p>
     <ul class="calc-list">
       <li><b id="out-jugs">56</b> one-gallon jugs, or about <b id="out-cases">18</b> cases of 24 half-liter (16.9 oz) bottles</li>
       <li><b id="out-meals">168</b> meals of food that needs no refrigeration and little or no cooking</li>
     </ul>
     <p class="calc-note" id="out-note">For 4 people for 2 weeks, at 1 gallon per person per day.</p>
-    <p class="calc-actions"><button type="button" class="btn btn-ghost" id="share">Copy a link to this plan</button> <a class="btn btn-ghost" href="javascript:window.print()">Print</a></p>
+    <p class="sr-only" id="out-live" aria-live="polite" aria-atomic="true"></p>
+    <p class="calc-actions"><button type="button" class="btn btn-ghost" id="share">Copy a link to this plan</button> <button type="button" class="btn btn-ghost" onclick="window.print()">Print</button></p>
     <input class="calc-url" id="share-url" type="text" readonly hidden aria-label="Link to this plan">
   </div>
   <noscript><p>The calculator needs JavaScript. The rule: 1 gallon of water per person per day, for at least 3 days and ideally 2 weeks, and 3 meals per person per day.</p></noscript>
@@ -128,7 +129,8 @@
   function $(id) { return document.getElementById(id); }
   function fmt(n) { return n.toLocaleString('en-US'); }
   function read() {
-    var people = Math.max(1, Math.min(99, Math.round(+$('people').value || 1)));
+    // Round up: 2.4 people still need water for 3.
+    var people = Math.max(1, Math.min(99, Math.ceil(+$('people').value || 1)));
     var day = form.querySelector('input[name="days"]:checked');
     return { people: people, days: day ? +day.value : 14, hot: $('hot').checked };
   }
@@ -141,7 +143,13 @@
     $('out-meals').textContent = fmt(v.people * v.days * 3);
     $('out-note').textContent = 'For ' + v.people + (v.people === 1 ? ' person' : ' people') + ' for ' + LABELS[v.days] +
       ', at ' + (v.hot ? '2 gallons' : '1 gallon') + ' per person per day.';
+    // One sentence for screen readers, after typing pauses.
+    clearTimeout(liveTimer);
+    liveTimer = setTimeout(function () {
+      $('out-live').textContent = fmt(gallons) + ' gallons of water and ' + fmt(v.people * v.days * 3) + ' meals. ' + $('out-note').textContent;
+    }, 600);
   }
+  var liveTimer;
   function load() {
     var q = new URLSearchParams(location.search);
     if (q.get('people')) $('people').value = q.get('people');
@@ -150,6 +158,8 @@
     if (q.get('hot') === '1') $('hot').checked = true;
   }
   form.addEventListener('input', update);
+  // Show the number actually used when someone types 0, 150 or 2.4.
+  $('people').addEventListener('change', function () { this.value = read().people; });
   $('share').addEventListener('click', function () {
     var v = read();
     var url = location.origin + location.pathname + '?people=' + v.people + '&days=' + v.days + (v.hot ? '&hot=1' : '');
@@ -171,8 +181,8 @@
       <p class="disclaimer">This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.</p>
     </div>
     <aside>
-      <nav class="toc" aria-label="On this page"><b>On this page</b><ol><li><a href="#how-it-works">How the calculator works</a></li><li><a href="#storing-water">How to store it</a></li><li><a href="#running-short">If you run short</a></li><li><a href="#food">The food side</a></li></ol>
-        <p class="print"><a href="javascript:window.print()">Print this guide</a></p></nav>
+      <nav class="toc" aria-label="On this page"><b>On this page</b><ol><li><a href="#how-it-works">How the calculator works</a></li><li><a href="#storing-water">How to store it</a></li><li><a href="#running-short">If you run short</a></li><li><a href="#food">The food side</a></li><li><a href="#quick-answers">Quick answers</a></li><li><a href="#sources">Sources</a></li></ol>
+        <p class="print"><button type="button" class="linklike" onclick="window.print()">Print this guide</button></p></nav>
       <div class="side-app"><p>Keep your supply list as a free checklist in BugOut. It works offline.</p><a class="btn btn-primary" href="https://apps.apple.com/us/app/id6761040937" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="2" width="12" height="20" rx="2.5"/><path d="M12 7v7m-3-3 3 3 3-3"/></svg>Get BugOut</a></div>
     </aside>
   </div>
@@ -181,6 +191,7 @@
 </main>
 <footer class="site-footer">
   <div class="wrap">
+    <nav class="footer-guides" aria-label="Survival guides"><b>Survival guides</b><a href="../../guides/emergency-preparedness/">Emergency preparedness</a><a href="../../guides/emergency-kit-list/">Emergency kit list</a><a href="../../guides/how-to-prepare-for-a-winter-storm/">Winter storm checklist</a><a href="../../guides/car-emergency-kit/">Car emergency kit list</a><a href="../../guides/bug-out-bag-list/">Bug out bag list</a><a href="../../guides/power-outage-checklist/">Power outage checklist</a><a href="../../guides/how-to-make-water-safe-to-drink/">Make water safe to drink</a><a href="../../guides/emergency-water-calculator/">Emergency water calculator</a><a href="../../guides/survival-skills/">12 survival skills</a><a href="../../guides/prepping-for-beginners/">Prepping for beginners</a><a href="../../guides/gifts-for-preppers/">Gifts for preppers</a><a href="../../guides/survival-terms/">Survival terms glossary</a></nav>
     <nav aria-label="Footer">
       <a href="../../">Home</a>
       <a href="../../guides/">Survival guides</a>

@@ -22,6 +22,8 @@ This file summarizes the BugOut website for AI assistants and search engines. Th
 
 ## Survival guides
 
+- [Emergency preparedness: how to prepare for any disaster](https://jaechung-glitch.github.io/bugout/guides/emergency-preparedness/): Emergency preparedness in three steps: make a household plan, build a kit and set up alerts. A plain disaster preparedness guide with checklists.
+- [Emergency kit list: what to put in a home emergency kit](https://jaechung-glitch.github.io/bugout/guides/emergency-kit-list/): A printable emergency kit list based on FEMA's Ready.gov checklist: water, food, light, first aid, tools and documents, plus what to add for kids and pets.
 - [How to prepare for a winter storm](https://jaechung-glitch.github.io/bugout/guides/how-to-prepare-for-a-winter-storm/): How to prepare for a winter storm: a printable checklist for your home, frozen pipes, power outages and your car, plus the signs of frostbite and hypothermia.
 - [Car emergency kit: what to keep in your car](https://jaechung-glitch.github.io/bugout/guides/car-emergency-kit/): What to keep in a car emergency kit: a printable checklist built from NHTSA and Ready.gov guidance, winter add-ons, and what to do if you're stranded.
 - [Bug out bag list: what to pack for 72 hours](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/): What to put in a bug out bag: a printable 72-hour checklist for water, food, shelter, first aid, tools and documents, built from FEMA and CDC guidance.
@@ -31,9 +33,11 @@ This file summarizes the BugOut website for AI assistants and search engines. Th
 - [12 survival skills everyone should know](https://jaechung-glitch.github.io/bugout/guides/survival-skills/): The survival skills that matter most, in the order they save lives: priorities, staying found, signaling, shelter, fire, water, navigation and first aid.
 - [Prepping for beginners: a 4-week starter plan](https://jaechung-glitch.github.io/bugout/guides/prepping-for-beginners/): Prepping for beginners without the doomsday stuff: know your local risks, store water and food, build a go bag, and get ready for outages, one week at a time.
 - [Gifts for preppers: 18 practical ideas that get used](https://jaechung-glitch.github.io/bugout/guides/gifts-for-preppers/): Practical gift ideas for preppers and anyone building an emergency kit, based on FEMA's Build a Kit list: radios, lights, water, first aid, warmth and more.
+- [Survival and prepping terms, explained](https://jaechung-glitch.github.io/bugout/guides/survival-terms/): What bug out bag, go bag, EDC, INCH bag, SHTF, shelter in place, watch vs warning and other survival and prepping terms mean, in plain English.
 
 ## Printable checklists (PDF)
 
+- [Home Emergency Kit Checklist (PDF)](https://jaechung-glitch.github.io/bugout/assets/pdf/emergency-kit-checklist.pdf): from [Emergency kit list: what to put in a home emergency kit](https://jaechung-glitch.github.io/bugout/guides/emergency-kit-list/); [phone version](https://jaechung-glitch.github.io/bugout/assets/pdf/emergency-kit-checklist-phone.pdf)
 - [Winter Storm Checklist (PDF)](https://jaechung-glitch.github.io/bugout/assets/pdf/winter-storm-checklist.pdf): from [How to prepare for a winter storm](https://jaechung-glitch.github.io/bugout/guides/how-to-prepare-for-a-winter-storm/); [phone version](https://jaechung-glitch.github.io/bugout/assets/pdf/winter-storm-checklist-phone.pdf)
 - [Car Emergency Kit Checklist (PDF)](https://jaechung-glitch.github.io/bugout/assets/pdf/car-emergency-kit-checklist.pdf): from [Car emergency kit: what to keep in your car](https://jaechung-glitch.github.io/bugout/guides/car-emergency-kit/); [phone version](https://jaechung-glitch.github.io/bugout/assets/pdf/car-emergency-kit-checklist-phone.pdf)
 - [72-Hour Bug Out Bag Checklist (PDF)](https://jaechung-glitch.github.io/bugout/assets/pdf/72-hour-bug-out-bag-checklist.pdf): from [Bug out bag list: what to pack for 72 hours](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/); [phone version](https://jaechung-glitch.github.io/bugout/assets/pdf/72-hour-bug-out-bag-checklist-phone.pdf)

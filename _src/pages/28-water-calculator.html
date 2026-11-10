@@ -73,14 +73,15 @@
     </fieldset>
     <label class="calc-check"><input type="checkbox" id="hot" name="hot"> Plan for very hot weather (water needs can double)</label>
   </div>
-  <div class="calc-out" aria-live="polite">
+  <div class="calc-out">
     <p class="calc-total"><b id="out-gallons">56</b> gallons of water</p>
     <ul class="calc-list">
       <li><b id="out-jugs">56</b> one-gallon jugs, or about <b id="out-cases">18</b> cases of 24 half-liter (16.9 oz) bottles</li>
       <li><b id="out-meals">168</b> meals of food that needs no refrigeration and little or no cooking</li>
     </ul>
     <p class="calc-note" id="out-note">For 4 people for 2 weeks, at 1 gallon per person per day.</p>
-    <p class="calc-actions"><button type="button" class="btn btn-ghost" id="share">Copy a link to this plan</button> <a class="btn btn-ghost" href="javascript:window.print()">Print</a></p>
+    <p class="sr-only" id="out-live" aria-live="polite" aria-atomic="true"></p>
+    <p class="calc-actions"><button type="button" class="btn btn-ghost" id="share">Copy a link to this plan</button> <button type="button" class="btn btn-ghost" onclick="window.print()">Print</button></p>
     <input class="calc-url" id="share-url" type="text" readonly hidden aria-label="Link to this plan">
   </div>
   <noscript><p>The calculator needs JavaScript. The rule: 1 gallon of water per person per day, for at least 3 days and ideally 2 weeks, and 3 meals per person per day.</p></noscript>
@@ -125,7 +126,8 @@
   function $(id) { return document.getElementById(id); }
   function fmt(n) { return n.toLocaleString('en-US'); }
   function read() {
-    var people = Math.max(1, Math.min(99, Math.round(+$('people').value || 1)));
+    // Round up: 2.4 people still need water for 3.
+    var people = Math.max(1, Math.min(99, Math.ceil(+$('people').value || 1)));
     var day = form.querySelector('input[name="days"]:checked');
     return { people: people, days: day ? +day.value : 14, hot: $('hot').checked };
   }
@@ -138,7 +140,13 @@
     $('out-meals').textContent = fmt(v.people * v.days * 3);
     $('out-note').textContent = 'For ' + v.people + (v.people === 1 ? ' person' : ' people') + ' for ' + LABELS[v.days] +
       ', at ' + (v.hot ? '2 gallons' : '1 gallon') + ' per person per day.';
+    // One sentence for screen readers, after typing pauses.
+    clearTimeout(liveTimer);
+    liveTimer = setTimeout(function () {
+      $('out-live').textContent = fmt(gallons) + ' gallons of water and ' + fmt(v.people * v.days * 3) + ' meals. ' + $('out-note').textContent;
+    }, 600);
   }
+  var liveTimer;
   function load() {
     var q = new URLSearchParams(location.search);
     if (q.get('people')) $('people').value = q.get('people');
@@ -147,6 +155,8 @@
     if (q.get('hot') === '1') $('hot').checked = true;
   }
   form.addEventListener('input', update);
+  // Show the number actually used when someone types 0, 150 or 2.4.
+  $('people').addEventListener('change', function () { this.value = read().people; });
   $('share').addEventListener('click', function () {
     var v = read();
     var url = location.origin + location.pathname + '?people=' + v.people + '&days=' + v.days + (v.hot ? '&hot=1' : '');

@@ -16,6 +16,7 @@ To move the site to a custom domain, change BASE below and rebuild.
 import html
 import json
 import re
+import subprocess
 from datetime import date
 from pathlib import Path
 
@@ -63,7 +64,7 @@ def store_button(label='Get BugOut on the App Store', extra=''):
 def load_pages():
     pages = []
     for f in sorted(PAGES.glob('*.html')):
-        text = f.read_text()
+        text = f.read_text(encoding='utf-8')
         m = re.match(r'\s*<!--(\{.*?\})-->\s*', text, re.S)
         if not m:
             raise SystemExit(f'{f.name}: missing JSON front matter')
@@ -130,7 +131,7 @@ def header(root):
   <div class="wrap">
     <a class="brand" href="{root or './'}"><img src="{root}assets/img/icon-96.png" width="34" height="34" alt="">BugOut</a>
     <nav class="nav" aria-label="Main">
-      <a href="{root}guides/">Survival guides</a>
+      <a class="nav-guides" href="{root}guides/"><span class="wide">Survival </span>guides</a>
       <a href="{root}#wally">Ask Wally</a>
       <a href="{root}#faq">FAQ</a>
       <a class="btn btn-primary" href="{APP_STORE}" rel="noopener">Get the app</a>
@@ -139,9 +140,15 @@ def header(root):
 </header>'''
 
 
-def footer(root):
+def footer(root, pages_by_path=None):
+    popular = ''
+    if pages_by_path:
+        links = ''.join(f'<a href="{root}{q["path"]}">{html.escape(q["card"])}</a>'
+                        for q in sorted(pages_by_path.values(), key=lambda x: x.get('order', 99)) if q['type'] == 'guide')
+        popular = f'<nav class="footer-guides" aria-label="Survival guides"><b>Survival guides</b>{links}</nav>'
     return f'''<footer class="site-footer">
   <div class="wrap">
+    {popular}
     <nav aria-label="Footer">
       <a href="{root or './'}">Home</a>
       <a href="{root}guides/">Survival guides</a>
@@ -199,6 +206,16 @@ def schema(p):
             'inLanguage': 'en-US', 'isAccessibleForFree': True, 'about': p.get('about', []),
             'citation': [u for _, u in p['sources'] if u], 'author': org, 'publisher': org,
         })
+    if p['type'] == 'hub' and p.get('_guides'):
+        graph.append({'@type': 'CollectionPage', '@id': url, 'url': url, 'name': p['title'], 'description': p['description'],
+                      'isPartOf': {'@id': BASE + '#website'}, 'inLanguage': 'en-US',
+                      'mainEntity': {'@type': 'ItemList', 'itemListElement': [
+                          {'@type': 'ListItem', 'position': i + 1, 'url': BASE + q['path'], 'name': q['h1']}
+                          for i, q in enumerate(p['_guides'])]}})
+    if p.get('terms'):
+        graph.append({'@type': 'DefinedTermSet', '@id': url + '#terms', 'name': p['h1'], 'url': url,
+                      'hasDefinedTerm': [{'@type': 'DefinedTerm', 'name': t['term'], 'url': f"{url}#{t['id']}",
+                                          'description': re.sub(r'<[^>]+>', '', t['def'])} for t in p['terms']]})
     crumbs = breadcrumbs(p)
     if len(crumbs) > 1:
         graph.append({'@type': 'BreadcrumbList', 'itemListElement': [
@@ -207,7 +224,7 @@ def schema(p):
 
 
 def breadcrumbs(p):
-    if p['type'] == 'home':
+    if p['type'] not in ('hub', 'guide'):
         return [('Home', '')]
     if p['type'] == 'hub':
         return [('Home', ''), ('Survival guides', 'guides/')]
@@ -250,14 +267,33 @@ def facts_html(facts):
     return f'<dl class="facts">{rows}</dl>'
 
 
+def terms_html(terms):
+    """A glossary: each term is a linkable definition, mirrored in
+    DefinedTermSet structured data so answer engines can quote one."""
+    rows = ''.join(f'<div id="{t["id"]}"><dt>{html.escape(t["term"])}</dt><dd>{t["def"]}</dd></div>'
+                   for t in sorted(terms, key=lambda t: t['term'].lower()))
+    return f'<dl class="terms">{rows}</dl>'
+
+
 def guide_body(p, pages_by_path, root):
     body = p['body'].replace('<!--cta-->', app_cta(p, root))
+    if p.get('terms'):
+        body = body.replace('<!--terms-->', terms_html(p['terms']))
     if p.get('pdf'):
         # The download block goes right after the short answer at the top.
         m = re.search(r'<div class="answer">.*?</div>', body, re.S)
         at = m.end() if m else 0
         body = body[:at] + '\n' + pdf_link(p, root) + body[at:]
+    # The short answer (and the checklist download) sit above the two columns,
+    # so on a phone they come before the table of contents, not after it.
+    lead = ''
+    m = re.search(r'<div class="answer">.*?</div>\s*(<div class="pdf-link">.*?</div></div>)?', body, re.S)
+    if m and not p.get('tool'):
+        lead, body = f'<div class="lead">{m.group(0)}</div>', body[:m.start()] + body[m.end():]
     toc = re.findall(r'<h2 id="([^"]+)">(.*?)</h2>', body)
+    if p.get('faq'):
+        toc.append(('quick-answers', 'Quick answers'))
+    toc.append(('sources', 'Sources'))
     toc_html = ''.join(f'<li><a href="#{i}">{re.sub(r"<[^>]+>", "", t)}</a></li>' for i, t in toc)
     sources = ''.join(
         f'<li><a href="{u}" rel="noopener">{html.escape(n)}</a></li>' if u else f'<li>{html.escape(n)}</li>'
@@ -265,7 +301,7 @@ def guide_body(p, pages_by_path, root):
     related = ''.join(
         f'<li><a href="{root}{r}"><h3>{html.escape(pages_by_path[r]["card"])}</h3><p>{html.escape(pages_by_path[r]["card_text"])}</p></a></li>'
         for r in p['related'])
-    updated = date.fromisoformat(p['updated']).strftime('%B %-d, %Y')
+    updated = long_date(p['updated'])
     pdf_toc = (f'<br>Checklist PDF: <a href="{root}assets/pdf/{p["pdf"]}" type="application/pdf">print</a> · '
                f'<a href="{root}assets/pdf/{phone_pdf(p)}" type="application/pdf">phone</a>') if p.get('pdf') else ''
     return f'''<main id="main">
@@ -275,7 +311,7 @@ def guide_body(p, pages_by_path, root):
     <h1>{html.escape(p['h1'])}</h1>
     <p class="dek">{p['dek']}</p>
     <p class="byline">By the BugOut team. Updated {updated}. Checked against {html.escape(p['checked'])}.</p>
-  </header>
+  </header>{chr(10) + '  ' + lead if lead else ''}
   <div class="article{' tool' if p.get('tool') else ''}">
     <div class="body">
 {body}
@@ -286,13 +322,29 @@ def guide_body(p, pages_by_path, root):
     </div>
     <aside>
       <nav class="toc" aria-label="On this page"><b>On this page</b><ol>{toc_html}</ol>
-        <p class="print"><a href="javascript:window.print()">Print this guide</a>{pdf_toc}</p></nav>
+        <p class="print"><button type="button" class="linklike" onclick="window.print()">Print this guide</button>{pdf_toc}</p></nav>
       <div class="side-app"><p>{html.escape(p['side'])}</p>{store_button('Get BugOut')}</div>
     </aside>
   </div>
 </div>
 <section class="related"><div class="wrap"><h2>More survival guides</h2><ul class="guide-list">{related}</ul></div></section>
 </main>'''
+
+
+def long_date(iso):
+    d = date.fromisoformat(iso)
+    return f'{d.strftime("%B")} {d.day}, {d.year}'
+
+
+def git_date(name, fallback):
+    """Date a hand-written page last changed, from git; the fallback covers a
+    file that has never been committed."""
+    try:
+        out = subprocess.run(['git', 'log', '-1', '--format=%cs', '--', name], cwd=ROOT,
+                             capture_output=True, text=True).stdout.strip()
+        return out or fallback
+    except OSError:
+        return fallback
 
 
 def render(p, pages_by_path):
@@ -306,7 +358,8 @@ def render(p, pages_by_path):
             cards = ''.join(
                 f'<li><a href="{root}{q["path"]}"><h3>{html.escape(q["card"])}</h3><p>{html.escape(q["card_text"])}</p></a></li>'
                 for q in sorted(pages_by_path.values(), key=lambda x: x.get('order', 99)) if q['type'] == 'guide')
-            main = main.replace('<!--guides-->', cards).replace('<!--crumbs-->', crumbs_html(p, root))
+            qa = ''.join(f'<h3>{html.escape(q)}</h3><p>{a}</p>' for q, a in p.get('faq', []))
+            main = main.replace('<!--guides-->', cards).replace('<!--crumbs-->', crumbs_html(p, root)).replace('<!--faq-->', qa)
         if p['type'] == 'home':
             cards = ''.join(
                 f'<li><a href="{root}{q["path"]}"><h3>{html.escape(q["card"])}</h3><p>{html.escape(q["card_text"])}</p></a></li>'
@@ -314,7 +367,7 @@ def render(p, pages_by_path):
             faq = ''.join(f'<details><summary>{html.escape(q)}</summary><div class="a"><p>{a}</p></div></details>' for q, a in p['faq'])
             main = main.replace('<!--guides-->', cards).replace('<!--faq-->', faq).replace('<!--facts-->', facts_html(p['facts']))
     main = main.replace('{{store}}', store_button()).replace('{{store_url}}', APP_STORE).replace('{{root}}', root)
-    return head(p, root) + '\n' + header(root) + '\n' + main + '\n' + footer(root)
+    return head(p, root) + '\n' + header(root) + '\n' + main + '\n' + footer(root, pages_by_path)
 
 
 def page_markdown(p, full_html):
@@ -380,6 +433,25 @@ def llms_txt(pages, home):
     return '\n'.join(lines)
 
 
+def not_found(pages_by_path):
+    """GitHub Pages serves 404.html for any missing URL. Links are absolute
+    because the page is shown at whatever address was asked for."""
+    p = {'path': '404.html', 'type': 'page', 'title': 'Page not found | BugOut',
+         'description': 'That page is not here. Find the BugOut survival guides and the app.'}
+    guides = sorted((q for q in pages_by_path.values() if q['type'] == 'guide'), key=lambda x: x.get('order', 99))
+    cards = ''.join(f'<li><a href="{BASE}{q["path"]}"><h3>{html.escape(q["card"])}</h3><p>{html.escape(q["card_text"])}</p></a></li>'
+                    for q in guides)
+    main = f'''<main id="main"><div class="wrap">
+  <header class="hub-head"><h1>That page isn't here</h1>
+  <p>The link may be old or mistyped. Start from the <a href="{BASE}">BugOut home page</a>, or pick a guide below.</p></header>
+  <h2 class="sr-only">Survival guides</h2>
+  <ul class="guide-list">{cards}</ul>
+</div></main>'''
+    page = head(p, BASE) + '\n' + header(BASE) + '\n' + main + '\n' + footer(BASE, pages_by_path)
+    return page.replace('content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"', 'content="noindex"') \
+               .replace(f'<link rel="canonical" href="{BASE}404.html">\n', '')
+
+
 def out_path(path):
     return ROOT / (path + 'index.html' if path == '' or path.endswith('/') else path)
 
@@ -387,12 +459,19 @@ def out_path(path):
 def main():
     pages = load_pages()
     by_path = {p['path']: p for p in pages}
+    newest = max(p['updated'] for p in pages if p['type'] == 'guide')
+    guides = sorted((q for q in pages if q['type'] == 'guide'), key=lambda x: x.get('order', 99))
+    for p in pages:
+        if p['type'] in ('home', 'hub'):
+            p['updated'] = max(p['updated'], newest)
+            p['_guides'] = guides
+    (ROOT / '404.html').write_text(not_found(by_path), encoding='utf-8')
     full = []
     for p in sorted(pages, key=lambda x: (x['type'] != 'home', x['type'] != 'hub', x.get('order', 99))):
         dest = out_path(p['path'])
         dest.parent.mkdir(parents=True, exist_ok=True)
         page_html = render(p, by_path)
-        dest.write_text(page_html)
+        dest.write_text(page_html, encoding='utf-8')
         print('wrote', dest.relative_to(ROOT))
         md = page_markdown(p, page_html)
         first, _, rest = md.partition('\n')
@@ -400,21 +479,20 @@ def main():
             first, rest = f"# {p.get('h1', p['title'])}", md
         full.append(f"{first}\n\nURL: {BASE}{p['path']}\nUpdated: {p['updated']}\n{rest}\n")
     home = by_path['']
-    (ROOT / 'llms.txt').write_text(llms_txt(pages, home))
+    (ROOT / 'llms.txt').write_text(llms_txt(pages, home), encoding='utf-8')
     (ROOT / 'llms-full.txt').write_text(
-        f"# BugOut website, full text\n\n> {home['app_description']}\n\n" + '\n---\n\n'.join(full))
+        f"# BugOut website, full text\n\n> {home['app_description']}\n\n" + '\n---\n\n'.join(full), encoding='utf-8')
     # IndexNow lets Bing (which feeds ChatGPT search and Copilot) and other engines
     # pick up new and changed pages quickly. The key file must stay published.
-    (ROOT / f'{INDEXNOW_KEY}.txt').write_text(INDEXNOW_KEY)
+    (ROOT / f'{INDEXNOW_KEY}.txt').write_text(INDEXNOW_KEY, encoding='utf-8')
     print('wrote llms.txt, llms-full.txt and the IndexNow key file')
-    urls = [(BASE + p['path'], p.get('updated', p.get('lastmod'))) for p in pages]
-    urls += [(BASE + 'support.html', '2026-10-30'), (BASE + 'privacy-policy.html', '2026-11-06')]
-    urls += [(BASE + 'terms.html', '2026-11-05')]
+    urls = [(BASE + p['path'], p['updated']) for p in pages]
+    urls += [(BASE + f, git_date(f, date.today().isoformat())) for f in ('support.html', 'privacy-policy.html', 'terms.html')]
     urls += [(BASE + 'assets/pdf/' + p['pdf'], p['updated']) for p in pages if p.get('pdf')]
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     sm += [f'  <url><loc>{u}</loc><lastmod>{d}</lastmod></url>' for u, d in urls]
     sm.append('</urlset>')
-    (ROOT / 'sitemap.xml').write_text('\n'.join(sm) + '\n')
+    (ROOT / 'sitemap.xml').write_text('\n'.join(sm) + '\n', encoding='utf-8')
     print('wrote sitemap.xml with', len(urls), 'urls')
 
 
