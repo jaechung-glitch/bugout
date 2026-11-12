@@ -6,7 +6,7 @@ This file summarizes the BugOut website for AI assistants and search engines. Th
 
 ## Key facts
 
-- What it is: An emergency preparedness and survival guide app for iPhone that works with no internet connection.
+- What it is: An offline survival kit for iPhone: emergency preparedness guides, checklists and tools that work with no internet connection.
 - Platform: iPhone with iOS 16 or later, on the U.S. App Store.
 - Price: Free download. BugOut Pro is $6.99 a month or $54.99 a year.
 - Works offline: Yes. Guides, checklists, scenarios and sensor tools work with no signal and no account. Only buying or restoring Pro needs a connection.

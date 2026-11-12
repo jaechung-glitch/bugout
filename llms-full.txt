@@ -7,7 +7,7 @@
 URL: https://jaechung-glitch.github.io/bugout/
 Updated: 2026-11-09
 
-BugOut puts 68 field guides, the U.S. Army Survival Manual, step-by-step disaster plans and Wally, an AI survival assistant that runs on your iPhone, in your pocket. No internet, no account.
+BugOut: Offline Survival Kit puts 68 field guides, the U.S. Army Survival Manual, step-by-step disaster plans and Wally, an AI survival assistant that runs on your iPhone, in your pocket. No internet, no account.
 
 ## Ask a survival question. Get an answer without a signal.
 
@@ -114,7 +114,7 @@ Printable checklists written from CDC, EPA and FEMA guidance. Read them now, or 
 ## BugOut at a glance
 
 What it is
-:   An emergency preparedness and survival guide app for iPhone that works with no internet connection.
+:   An offline survival kit for iPhone: emergency preparedness guides, checklists and tools that work with no internet connection.
 
 Platform
 :   iPhone with iOS 16 or later, on the U.S. App Store.
