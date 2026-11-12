@@ -156,7 +156,7 @@ def footer(root, pages_by_path=None):
       <a href="{root}privacy-policy.html">Privacy</a>
       <a href="{root}terms.html">Terms</a>
     </nav>
-    <span>BugOut: Offline Survival Guide for iPhone</span>
+    <span>BugOut: Offline Survival Kit for iPhone</span>
     <p class="fine">BugOut and these guides share general safety information drawn from public sources such as the CDC, EPA, FEMA and the U.S. Army. They are not a substitute for training or professional medical advice. In an emergency, call 911.</p>
     <p class="fine">BugOut is independent: it isn't affiliated with or endorsed by the CDC, EPA, FEMA, the U.S. military, the American Red Cross or any other agency or organization whose guidance it cites.</p>
     <p class="fine">Apple, iPhone, Apple Intelligence and App Store are trademarks of Apple Inc., registered in the U.S. and other countries and regions.</p>
@@ -171,14 +171,14 @@ def schema(p):
     url = BASE + p['path']
     org = {'@type': 'Organization', '@id': BASE + '#org', 'name': SITE_NAME, 'url': BASE,
            'logo': BASE + 'assets/img/icon-512.png', 'sameAs': [APP_STORE],
-           'description': 'Makers of BugOut: Offline Survival Guide, an iPhone app for emergency preparedness that works with no internet.'}
+           'description': 'Makers of BugOut: Offline Survival Kit, an iPhone app for emergency preparedness that works with no internet.'}
     graph = []
     if p['type'] == 'home':
         graph.append(org)
         graph.append({'@type': 'WebSite', '@id': BASE + '#website', 'url': BASE, 'name': SITE_NAME,
                       'inLanguage': 'en-US', 'publisher': {'@id': BASE + '#org'}})
         graph.append({
-            '@type': 'MobileApplication', '@id': BASE + '#app', 'name': 'BugOut: Offline Survival Guide',
+            '@type': 'MobileApplication', '@id': BASE + '#app', 'name': 'BugOut: Offline Survival Kit',
             'alternateName': 'BugOut', 'operatingSystem': 'iOS 16.0 or later', 'softwareRequirements': 'iPhone with iOS 16.0 or later',
             'applicationCategory': 'ReferenceApplication', 'applicationSubCategory': 'Survival and emergency preparedness',
             'url': BASE, 'downloadUrl': APP_STORE, 'installUrl': APP_STORE, 'inLanguage': 'en-US', 'countriesSupported': 'US',

@@ -1,6 +1,6 @@
 # BugOut
 
-> BugOut: Offline Survival Guide is an iPhone app for emergency preparedness that works with no internet. It carries 68 field guides, including the U.S. Army Survival Manual (FM 21-76), plus Survival Essentials (the core method for 56 emergencies), 7 step-by-step disaster scenarios with gear checklists, your own gear lists, phone sensor tools, and Wally, an AI survival assistant that runs on the iPhone itself.
+> BugOut: Offline Survival Kit is an iPhone app for emergency preparedness that works with no internet. It carries 68 field guides, including the U.S. Army Survival Manual (FM 21-76), plus Survival Essentials (the core method for 56 emergencies), 7 step-by-step disaster scenarios with gear checklists, your own gear lists, phone sensor tools, and Wally, an AI survival assistant that runs on the iPhone itself.
 
 This file summarizes the BugOut website for AI assistants and search engines. The full text of every page is in [llms-full.txt](https://jaechung-glitch.github.io/bugout/llms-full.txt).
 
