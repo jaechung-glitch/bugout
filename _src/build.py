@@ -170,6 +170,7 @@ def footer(root, pages_by_path=None):
 def schema(p):
     url = BASE + p['path']
     org = {'@type': 'Organization', '@id': BASE + '#org', 'name': SITE_NAME, 'url': BASE,
+           'email': 'bugoutsurvivalguides@gmail.com',
            'logo': BASE + 'assets/img/icon-512.png', 'sameAs': [APP_STORE],
            'description': 'Makers of BugOut: Offline Survival Kit, an iPhone app for emergency preparedness that works with no internet.'}
     graph = []
@@ -179,7 +180,8 @@ def schema(p):
                       'inLanguage': 'en-US', 'publisher': {'@id': BASE + '#org'}})
         graph.append({
             '@type': 'MobileApplication', '@id': BASE + '#app', 'name': 'BugOut: Offline Survival Kit',
-            'alternateName': 'BugOut', 'operatingSystem': 'iOS 16.0 or later', 'softwareRequirements': 'iPhone with iOS 16.0 or later',
+            # The App Store name until 1.1.1, so engines tie the two together.
+            'alternateName': ['BugOut', 'BugOut: Offline Survival Guide'], 'operatingSystem': 'iOS 16.0 or later', 'softwareRequirements': 'iPhone with iOS 16.0 or later',
             'applicationCategory': 'ReferenceApplication', 'applicationSubCategory': 'Survival and emergency preparedness',
             'url': BASE, 'downloadUrl': APP_STORE, 'installUrl': APP_STORE, 'inLanguage': 'en-US', 'countriesSupported': 'US',
             'description': p['app_description'], 'image': BASE + 'assets/img/icon-512.png',

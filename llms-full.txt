@@ -139,6 +139,10 @@ Privacy
 
 ## Questions
 
+What is BugOut: Offline Survival Kit?
+
+BugOut: Offline Survival Kit is an offline survival app and emergency preparedness app for iPhone. It carries 68 field guides, including the U.S. Army Survival Manual, step-by-step disaster plans, gear checklists, phone sensor tools and Wally, an AI assistant that answers on the phone with no signal.
+
 Is there a survival app that works offline?
 
 Yes. BugOut is built to work with no internet at all. The field guides, Survival Essentials, the disaster scenarios, your gear lists and the phone's GPS and battery tools all work in airplane mode, with no account. Only buying or restoring BugOut Pro needs a connection.
@@ -155,9 +159,13 @@ Is the U.S. Army Survival Manual included?
 
 Yes. BugOut includes the U.S. Army Survival Manual (FM 21-76), along with the Army's first aid and map reading manuals and cold-weather and Marine Corps survival courses. They're free, searchable and stored on your phone.
 
+Can I use BugOut for first aid with no signal?
+
+Yes. The free field guides include the U.S. Army First Aid Manual (FM 4-25.11), and Survival Essentials gives the core method for emergencies such as severe bleeding, CPR and choking (the first method in each topic is free; the rest come with BugOut Pro). All of it is stored on the phone. BugOut is a reference, not a substitute for training or emergency services: call 911 first when you can.
+
 Is BugOut free?
 
-The download is free, and so are all the field guides, your own gear lists, two full scenarios (power grid down and nuclear event), the first method in each Survival Essentials topic, and the battery, GPS and connectivity tools. BugOut Pro ($6.99 a month or $54.99 a year) adds all 7 scenarios, all 56 Survival Essentials methods, Ask Wally, and the compass, barometer and daylight tracking.
+Yes, to download. Free users get all the field guides, your own gear lists, two full scenarios (power grid down and nuclear event), the first method in each Survival Essentials topic, and the battery, GPS and connectivity tools. BugOut Pro ($6.99 a month or $54.99 a year) adds all 7 scenarios, all 56 Survival Essentials methods, Ask Wally, and the compass, barometer and daylight tracking.
 
 Where does BugOut's information come from?
 
