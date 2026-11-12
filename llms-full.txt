@@ -113,6 +113,33 @@ Printable checklists written from CDC, EPA and FEMA guidance. Read them now, or 
 - [### Survival terms glossary
 
   Bug out bag, go bag, EDC, SHTF, watch vs warning and more, in plain English.](https://jaechung-glitch.github.io/bugout/guides/survival-terms/)
+- [### What to do during a hurricane
+
+  Watches and warnings, when to leave, where to shelter and what to do after.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-hurricane/)
+- [### What to do during an earthquake
+
+  Drop, cover and hold on, plus what to do in bed, outdoors, driving and after.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-an-earthquake/)
+- [### What to do during a tornado
+
+  Where to shelter at home, at work, in a mobile home or a car, and watch vs warning.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-tornado/)
+- [### What to do during a flood
+
+  Flash flood warnings, higher ground, cars in floodwater and safety after.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-flood/)
+- [### What to do during a wildfire
+
+  When to leave, prepping your home, what to do if trapped, smoke and returning.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-wildfire/)
+- [### What to do in extreme heat
+
+  Staying cool, heat exhaustion vs heat stroke, first aid and who is most at risk.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-in-extreme-heat/)
+- [### What to do in a house fire
+
+  Get out fast, stay low, what to do if trapped, and a home escape plan.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-in-a-house-fire/)
+- [### If you get lost in the woods
+
+  Stop, stay put, signal for help and get through a night outside.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-if-lost-in-the-woods/)
+- [### What to do when told to evacuate
+
+  When to leave, what to take, what to do to your home, pets and routes.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-when-told-to-evacuate/)
 
 ## BugOut at a glance
 
@@ -228,6 +255,33 @@ Plain, step-by-step guides for the emergencies people in the U.S. actually face,
 - [### Survival terms glossary
 
   Bug out bag, go bag, EDC, SHTF, watch vs warning and more, in plain English.](https://jaechung-glitch.github.io/bugout/guides/survival-terms/)
+- [### What to do during a hurricane
+
+  Watches and warnings, when to leave, where to shelter and what to do after.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-hurricane/)
+- [### What to do during an earthquake
+
+  Drop, cover and hold on, plus what to do in bed, outdoors, driving and after.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-an-earthquake/)
+- [### What to do during a tornado
+
+  Where to shelter at home, at work, in a mobile home or a car, and watch vs warning.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-tornado/)
+- [### What to do during a flood
+
+  Flash flood warnings, higher ground, cars in floodwater and safety after.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-flood/)
+- [### What to do during a wildfire
+
+  When to leave, prepping your home, what to do if trapped, smoke and returning.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-wildfire/)
+- [### What to do in extreme heat
+
+  Staying cool, heat exhaustion vs heat stroke, first aid and who is most at risk.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-in-extreme-heat/)
+- [### What to do in a house fire
+
+  Get out fast, stay low, what to do if trapped, and a home escape plan.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-in-a-house-fire/)
+- [### If you get lost in the woods
+
+  Stop, stay put, signal for help and get through a night outside.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-if-lost-in-the-woods/)
+- [### What to do when told to evacuate
+
+  When to leave, what to take, what to do to your home, pets and routes.](https://jaechung-glitch.github.io/bugout/guides/what-to-do-when-told-to-evacuate/)
 
 ## Start here
 
@@ -261,11 +315,25 @@ What to do before, during and after the power and heat go out.
 - [What to do if the power grid goes down](https://jaechung-glitch.github.io/bugout/guides/power-grid-down/)
 - [How to prepare for a winter storm](https://jaechung-glitch.github.io/bugout/guides/how-to-prepare-for-a-winter-storm/)
 
+## Disasters
+
+What to do when it happens: the alerts, where to shelter, when to leave and what to do after.
+
+- [What to do during a hurricane](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-hurricane/)
+- [What to do during a tornado warning](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-tornado/)
+- [What to do during a flood](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-flood/)
+- [What to do during an earthquake](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-an-earthquake/)
+- [What to do during a wildfire](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-wildfire/)
+- [What to do in extreme heat](https://jaechung-glitch.github.io/bugout/guides/what-to-do-in-extreme-heat/)
+- [What to do in a house fire](https://jaechung-glitch.github.io/bugout/guides/what-to-do-in-a-house-fire/)
+- [What to do when you're told to evacuate](https://jaechung-glitch.github.io/bugout/guides/what-to-do-when-told-to-evacuate/)
+
 ## Survival skills
 
 Priorities, signaling, shelter, fire, water, navigation and first aid, from the U.S. Army Survival Manual and park rangers.
 
 - [12 survival skills everyone should know](https://jaechung-glitch.github.io/bugout/guides/survival-skills/)
+- [What to do if you get lost in the woods](https://jaechung-glitch.github.io/bugout/guides/what-to-do-if-lost-in-the-woods/)
 
 ## Questions
 
@@ -362,10 +430,18 @@ Our [emergency kit list](https://jaechung-glitch.github.io/bugout/guides/emergen
 | The power goes out | [Power outage checklist](https://jaechung-glitch.github.io/bugout/guides/power-outage-checklist/): food safety, generators, heat and cold |
 | The power grid is down for days | [What to do if the power grid goes down](https://jaechung-glitch.github.io/bugout/guides/power-grid-down/): water, fuel, cash and phones |
 | A winter storm is coming | [Winter storm checklist](https://jaechung-glitch.github.io/bugout/guides/how-to-prepare-for-a-winter-storm/): home, pipes and car |
-| You have to evacuate | [Bug out bag list](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/): what to grab for 72 hours |
+| You're told to evacuate | [What to do when you're told to evacuate](https://jaechung-glitch.github.io/bugout/guides/what-to-do-when-told-to-evacuate/), and a [bug out bag list](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/) for 72 hours |
+| A hurricane is coming | [What to do during a hurricane](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-hurricane/): watches, warnings, surge and shelter |
+| A tornado warning is issued | [What to do during a tornado warning](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-tornado/): where to shelter |
+| Flooding or a flash flood warning | [What to do during a flood](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-flood/): higher ground, never drive through water |
+| The ground starts shaking | [What to do during an earthquake](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-an-earthquake/): drop, cover and hold on |
+| A wildfire is near | [What to do during a wildfire](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-wildfire/): leave early, and what to do if trapped |
+| A heat wave hits | [What to do in extreme heat](https://jaechung-glitch.github.io/bugout/guides/what-to-do-in-extreme-heat/): staying cool and heat stroke |
+| Your home is on fire | [What to do in a house fire](https://jaechung-glitch.github.io/bugout/guides/what-to-do-in-a-house-fire/): get out, stay out, escape plan |
 | The tap water isn't safe | [How to make water safe to drink](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/): boil, bleach or filter |
 | You're stranded in the car | [Car emergency kit](https://jaechung-glitch.github.io/bugout/guides/car-emergency-kit/): what to carry and what to do |
-| You're lost or hurt outdoors | [12 survival skills](https://jaechung-glitch.github.io/bugout/guides/survival-skills/): priorities, signaling, shelter, fire and first aid |
+| You're lost in the woods | [What to do if you get lost in the woods](https://jaechung-glitch.github.io/bugout/guides/what-to-do-if-lost-in-the-woods/): stop, stay put, signal |
+| You're hurt outdoors | [12 survival skills](https://jaechung-glitch.github.io/bugout/guides/survival-skills/): priorities, signaling, shelter, fire and first aid |
 
 New to all of this? [Prepping for beginners](https://jaechung-glitch.github.io/bugout/guides/prepping-for-beginners/) spreads the work over four weeks, and the [glossary](https://jaechung-glitch.github.io/bugout/guides/survival-terms/) explains the terms.
 
@@ -827,7 +903,7 @@ Pack enough to get each person through 72 hours on their own: drinking water and
 
 ## What is a bug out bag?
 
-A bug out bag, also called a go bag, grab-and-go bag or 72-hour kit, is a backpack packed in advance so you can leave home within minutes during a wildfire, flood, hurricane evacuation, gas leak or house fire. The idea comes from the assumption FEMA builds its own kit list on: in a disaster, help may not reach you for several days, so you should be able to take care of yourself until it does.
+A bug out bag, also called a go bag, grab-and-go bag or 72-hour kit, is a backpack packed in advance so you can leave home within minutes during a [wildfire](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-wildfire/), [flood](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-flood/), [hurricane evacuation](https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-hurricane/), gas leak or [house fire](https://jaechung-glitch.github.io/bugout/guides/what-to-do-in-a-house-fire/). The idea comes from the assumption FEMA builds its own kit list on: in a disaster, help may not reach you for several days, so you should be able to take care of yourself until it does.
 
 It is different from the supplies you keep at home. A home kit is for sheltering in place and can be large: two weeks of water and food if you have the space. A bug out bag has to be light enough to carry, so it covers the essentials for about three days and relies on a way to purify water rather than carrying all of it.
 
@@ -940,7 +1016,7 @@ Check the bag every six months. Replace water you bottled yourself (the CDC says
 - **Forgetting medicines and glasses.** They're the hardest things to replace in a disaster.
 - **No cash and no paper.** Plan for a dead phone: written phone numbers, a paper map and small bills.
 - **Packing and forgetting.** Dead batteries and expired food are common. Put the six-month check on your calendar.
-- **Never practicing.** Walk your evacuation route once with the bag on, and make sure everyone knows where the bags are.
+- **Never practicing.** Walk your [evacuation](https://jaechung-glitch.github.io/bugout/guides/what-to-do-when-told-to-evacuate/) route once with the bag on, and make sure everyone knows where the bags are.
 
 ## Quick answers
 
@@ -1515,6 +1591,8 @@ Conditions shift the order: in the cold, shelter and fire come before water; in 
 
 ## 3. Stop when you're lost
 
+Our full guide: [what to do if you get lost in the woods](https://jaechung-glitch.github.io/bugout/guides/what-to-do-if-lost-in-the-woods/).
+
 The moment you realize you're lost, stop walking. Use **STOP**: Stop, Think, Observe, Plan. Sit down, drink, eat something and calm down before deciding anything.
 
 - Call 911 if you have any signal. If a call won't connect, try texting 911; text-to-911 isn't available everywhere, and you'll get a bounce-back message if it isn't. Turn off what you don't need to save battery.
@@ -2005,5 +2083,859 @@ INCH stands for "I'm never coming home". It is prepper slang for a larger pack m
 - [University of Wisconsin-Madison, The Weather Guys: What is the difference between a warning and a watch?](https://wxguys.ssec.wisc.edu/2014/07/07/what-is-the-difference-between-a-warning-and-a-watch/)
 - [American College of Surgeons: Stop the Bleed](https://www.stopthebleed.org/)
 - U.S. Army FM 21-76, Survival (in the BugOut library)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# What to do during a hurricane
+
+URL: https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-hurricane/
+Updated: 2026-11-12
+
+Water, not wind, kills most people in hurricanes. This guide covers what a watch and a warning mean, when to leave, where to shelter if you stay, and how to stay safe once the storm has passed.
+
+By the BugOut team. Updated November 12, 2026. Checked against National Weather Service, National Hurricane Center and American Red Cross guidance.
+
+The short answer
+
+1. When a watch is issued, finish getting ready: supplies, gas, medicines, and your evacuation route.
+2. If officials order you to evacuate, leave right away. Storm surge and flooding cause most hurricane deaths.
+3. If you stay, shelter in a small interior room on the lowest floor, away from windows. Don't go out when the eye passes.
+4. Never walk or drive through floodwater: 12 inches of moving water can carry away most cars.
+5. After the storm, watch for downed power lines and gas leaks, and never run a generator indoors.
+
+**Download the checklist (PDF)**Hurricane Checklist: free to print, share and keep with your kit.
+
+[Print version](https://jaechung-glitch.github.io/bugout/assets/pdf/hurricane-checklist.pdf)[Phone version](https://jaechung-glitch.github.io/bugout/assets/pdf/hurricane-checklist-phone.pdf)
+
+## Hurricane watch vs hurricane warning
+
+| Alert | What it means | What to do |
+| --- | --- | --- |
+| Hurricane watch | Hurricane conditions are possible. Issued 48 hours before tropical-storm-force winds are expected. | Get ready: supplies, fuel, medicines, plan your route. |
+| Hurricane warning | Hurricane conditions are expected. Issued 36 hours ahead. | Finish preparing. Leave if told to. |
+| Storm surge watch | Life-threatening flooding from the sea is possible, generally within 48 hours. | Check whether you're in an evacuation zone. |
+| Storm surge warning | Life-threatening flooding from the sea is expected, generally within 36 hours. | Follow evacuation orders. |
+| Extreme wind warning | Winds of 115 mph or more expected within an hour. | Take shelter now in the interior of a well-built building. |
+
+## Why water is the biggest danger
+
+A National Hurricane Center study of U.S. hurricane and tropical storm deaths from 1963 to 2012 found that storm surge caused 49% and rain flooding 27%. Wind caused only 8%. Storm surge is seawater pushed ashore by the storm, and it can rise faster than you can get out. If you live in a surge zone, staying put is the most dangerous choice.
+
+## Before the hurricane
+
+- Find out whether you live in an evacuation zone, and plan where you'd go and how.
+- Keep your gas tank at least half full during hurricane season.
+- Cover windows. Permanent storm shutters are best; otherwise 5/8-inch exterior-grade or marine plywood cut to fit, the National Weather Service says.
+- Bring in or tie down outdoor furniture, grills and anything the wind could throw.
+- Stock at least 3 days of water (1 gallon per person per day) and food, plus medicines, flashlights, batteries, a radio and a first-aid kit. Plan for two weeks without power.
+- Charge phones and power banks, and get cash.
+- Bring pets inside and pack food, carriers and records for them.
+
+## During the hurricane
+
+- **If ordered to evacuate, leave immediately.** See [what to do when told to evacuate](https://jaechung-glitch.github.io/bugout/guides/what-to-do-when-told-to-evacuate/).
+- **If you stay,** go to a small interior room, closet or hallway on the lowest floor, with as many walls between you and the outside as possible.
+- Stay away from windows, skylights and glass doors.
+- If the eye passes over, expect a short calm, then winds from the opposite direction. Stay inside.
+- Keep a battery or hand-crank radio on for updates.
+- If water starts rising in your home, move to a higher floor and call 911 if you can.
+
+## After the hurricane
+
+- Return home only when officials say it's safe.
+- Stay off flooded roads and washed-out bridges. Six inches of moving water can knock you down; 12 inches can carry away most cars.
+- Stay away from downed power lines. Walk around the outside of your home to check for loose lines, gas leaks and damage before going in.
+- Stay out of a building if you smell gas or floodwater surrounds it.
+- Use flashlights, not candles. Turn the flashlight on before you go into a dark building, since a spark could ignite leaking gas.
+- Never run a generator in your home or garage. See our [power outage checklist](https://jaechung-glitch.github.io/bugout/guides/power-outage-checklist/) for the carbon monoxide rules.
+- Follow any boil-water notice, and throw out food that's been in floodwater or without power too long.
+
+## Hurricane checklist
+
+- Know your evacuation zone, route and destination
+- Gas tank at least half full
+- Water: 1 gallon per person per day, at least 3 days
+- Food that needs no cooking, and a manual can opener
+- Medicines and a first-aid kit
+- Flashlights, extra batteries and a battery or hand-crank radio
+- Charged phones and power banks
+- Cash
+- Copies of insurance papers and IDs in a waterproof bag
+- Window coverings ready
+- Outdoor furniture and grills brought in or tied down
+- Pet food, carriers and records
+
+## Quick answers
+
+### What is the difference between a hurricane watch and a hurricane warning?
+
+A hurricane watch means hurricane conditions (sustained winds of 74 mph or more) are possible, issued 48 hours before tropical-storm-force winds are expected. A hurricane warning means they are expected, issued 36 hours ahead. A watch is the time to get ready; a warning is the time to finish and leave if told to.
+
+### Where is the safest place to be during a hurricane?
+
+If you aren't told to evacuate, the National Weather Service says to shelter in a small interior room, closet or hallway on the lowest floor, with as many walls as possible between you and the outside, away from windows, skylights and glass doors. If you're in a storm surge or flood zone, or a mobile home, leave instead.
+
+### What kills the most people in a hurricane?
+
+Water. A National Hurricane Center study of U.S. deaths from 1963 to 2012 found storm surge caused 49% and rain flooding 27%, while wind caused 8%. That's why evacuation orders focus on surge zones and why you should never drive into floodwater.
+
+### Should I go outside during the eye of a hurricane?
+
+No. The calm as the eye passes is short, and the winds return quickly at hurricane force from the opposite direction. Stay sheltered until officials say the storm has passed.
+
+### When should I evacuate for a hurricane?
+
+Leave immediately if officials order it, and leave early: roads flood and fill with traffic before the storm arrives. Keep your gas tank at least half full during hurricane season so you can go at short notice.
+
+## Sources
+
+- [National Weather Service: Hurricane Watches and Warnings](https://www.weather.gov/safety/hurricane-ww)
+- [National Weather Service: Hurricane Safety (PDF)](https://www.weather.gov/media/owlie/HurricaneSafety-OnePager-07-03-18.pdf)
+- [National Weather Service: Take Action During a Hurricane](https://www.weather.gov/safety/hurricane-action)
+- [FOX Weather: Water from hurricanes kills more in the U.S. than wind (National Hurricane Center study, 1963 to 2012)](https://www.foxweather.com/learn/water-from-hurricanes-tropical-storms-kills-more-in-us-than-wind)
+- [National Weather Service: Turn Around Don't Drown](https://www.weather.gov/safety/flood-turn-around-dont-drown)
+- [American Red Cross: Hurricane safety steps](https://www.redcross.org/about-us/news-and-events/news/Red-Cross-Prepares-for-Hurricane-Irma-Issues-Safety-Steps.html)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# What to do during an earthquake
+
+URL: https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-an-earthquake/
+Updated: 2026-11-12
+
+Earthquakes give no warning, so you have seconds to act. The right move is the same almost everywhere: drop, cover and hold on. Here's how to do it, what to do if you're in bed, outside or driving, and what to do once the shaking stops.
+
+By the BugOut team. Updated November 12, 2026. Checked against Great ShakeOut and American Red Cross guidance.
+
+The short answer
+
+**Drop** to your hands and knees, **cover** your head and neck under a sturdy table or desk, and **hold on** until the shaking stops. Don't run outside and don't stand in a doorway. In bed, stay there and cover your head with a pillow. Driving, pull over away from overpasses and power lines and stay in the car. Afterward, expect aftershocks, put on shoes, and if you're near the coast, head for high ground right away.
+
+**Download the checklist (PDF)**Earthquake Checklist: free to print, share and keep with your kit.
+
+[Print version](https://jaechung-glitch.github.io/bugout/assets/pdf/earthquake-checklist.pdf)[Phone version](https://jaechung-glitch.github.io/bugout/assets/pdf/earthquake-checklist-phone.pdf)
+
+## What to do during the shaking
+
+1. **Drop** to your hands and knees before the shaking knocks you down.
+2. **Cover** your head and neck under a sturdy table or desk. If there's none nearby, crawl next to an interior wall, away from windows, and cover your head and neck with your arms.
+3. **Hold on** to the table, or to your head and neck, until the shaking stops. Be ready to move with the table.
+
+| Where you are | What to do |
+| --- | --- |
+| In bed | Stay there. Cover your head and neck with a pillow. |
+| Outdoors | Drop, then move to open space away from buildings, power lines and trees. |
+| Driving | Stop somewhere clear of buildings, trees, overpasses and wires, and stay in the car. |
+| Wheelchair or walker | Lock the wheels, stay seated, bend over and protect your head and neck. |
+| Near the coast | Drop, cover and hold on, then go to high ground or inland as soon as the shaking stops. Don't wait for a warning. |
+
+## What not to do
+
+- **Don't stand in a doorway.** In modern buildings doorways are no stronger than anywhere else, and they don't shield you from falling objects.
+- **Don't run outside.** The ground is moving, and glass and debris fall from buildings.
+- **Don't use the "triangle of life."** Experts have rejected it, and the Great ShakeOut calls it potentially life-threatening.
+
+## What to do after an earthquake
+
+- Pause, look for hazards, then move. Put on sturdy shoes before walking on broken glass.
+- Expect aftershocks. Drop, cover and hold on each time.
+- Check yourself and others for injuries.
+- If the building is damaged, leave carefully and watch for falling hazards outside.
+- If you smell gas or hear hissing, don't use matches, lighters, appliances or light switches. Get out and call 911 from outside, then your gas company.
+- Use flashlights, not candles.
+- If you're trapped, cover your mouth and nose, and signal by blowing a whistle or tapping on a pipe or wall rather than shouting.
+- Text family that you're safe; texts get through more easily than calls.
+
+## Earthquake checklist
+
+- Practice drop, cover and hold on with everyone at home
+- Strap TVs, bookcases, water heaters and tall furniture to the wall
+- Sturdy shoes, a flashlight and a whistle by each bed
+- Know how to shut off your gas, water and electricity
+- Water: 1 gallon per person per day, 2 weeks if you can
+- Food that needs no cooking, and a manual can opener
+- A first-aid kit and a month of medicines
+- Dust masks and work gloves
+- A battery or hand-crank radio and power banks
+- A go bag with 3 days of supplies
+- Copies of important documents
+- Check whether your insurance covers earthquakes
+
+## Quick answers
+
+### What should you do during an earthquake?
+
+Drop, cover and hold on: drop to your hands and knees, cover your head and neck under a sturdy table or desk (or against an interior wall if there's none), and hold on until the shaking stops. Don't run outside or stand in a doorway.
+
+### Should you stand in a doorway during an earthquake?
+
+No. Doorways are no stronger than other parts of a modern building, and they don't protect you from falling or flying objects. Get under a sturdy table instead.
+
+### Is the triangle of life real?
+
+The "triangle of life" advice to lie next to furniture rather than under it has been rejected by earthquake safety experts, and the Great ShakeOut calls it potentially life-threatening. Drop, cover and hold on is the recommended method.
+
+### What should you do if you're in bed during an earthquake?
+
+Stay in bed and cover your head and neck with a pillow until the shaking stops. Keep sturdy shoes and a flashlight by the bed for broken glass afterward.
+
+### What should you do after an earthquake?
+
+Expect aftershocks and drop, cover and hold on again each time. Put on sturdy shoes, check for injuries, and leave if the building is damaged. If you smell gas, get out and call 911 from outside. Near the coast, go to high ground or inland as soon as the shaking stops, in case of a tsunami.
+
+## Sources
+
+- [Great ShakeOut: Drop, Cover, and Hold On](https://www.shakeout.org/dropcoverholdon)
+- [American Red Cross: Earthquake Safety](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/earthquake.html)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# What to do during a tornado warning
+
+URL: https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-tornado/
+Updated: 2026-11-12
+
+When a tornado warning is issued, you may have only minutes. Know now where you'd go at home, at work and on the road, and what to do if you're caught in a mobile home or a car.
+
+By the BugOut team. Updated November 12, 2026. Checked against National Weather Service guidance.
+
+The short answer
+
+When a tornado warning is issued, go right away to a basement, storm shelter or safe room. If you don't have one, go to a small interior room on the lowest floor, such as a closet, bathroom or hallway, away from windows. Cover your head and neck with your arms, a mattress or heavy blankets. Leave a mobile home for a sturdy building. In a car, drive to shelter if you can; if not, crouch down and cover your head, or lie in a ditch. Never shelter under an overpass.
+
+## Tornado watch vs tornado warning
+
+| Alert | What it means | What to do |
+| --- | --- | --- |
+| Tornado watch | Tornadoes are possible in and near the area, often several counties or states. | Review your plan, check your shelter and supplies, keep alerts on. |
+| Tornado warning | A tornado has been sighted or indicated by radar, for an area about the size of a city or small county. | Take shelter now. |
+
+## Where to shelter, wherever you are
+
+| Where you are | What to do |
+| --- | --- |
+| House | Basement, safe room or a small interior room on the lowest floor, away from windows. Bring pets if there's time. |
+| Apartment or high-rise | Go to the lowest floor you can reach, to an interior hallway or room without windows. Use the stairs, not the elevator. |
+| Work or school | Follow your tornado drill to the shelter area. Avoid large open rooms such as cafeterias, gyms and auditoriums. |
+| Mobile home or tent | Leave now for a sturdy building or storm shelter. Neither is safe in a tornado. |
+| Car | Drive to the nearest sturdy shelter. If you can't, crouch down in the car and cover your head, or get out and lie in a ditch or low spot, covering your head. |
+| Outdoors | Get inside a sturdy building now. Sheds and storage buildings aren't safe. |
+
+## How to protect yourself in your shelter
+
+- Get as low as possible and put as many walls as you can between you and the outside.
+- Cover your head and neck with your arms. A mattress, heavy blankets or a helmet add protection from flying debris.
+- Wear sturdy shoes if you can grab them; you may have to walk over debris afterward.
+- Stay in your shelter until the warning expires or officials say it's safe.
+
+## After a tornado
+
+- Watch for downed power lines and stay away from them.
+- Stay out of damaged buildings; they can collapse. If you smell gas, get out and call 911 from outside.
+- Use flashlights, not candles.
+- Wear sturdy shoes, long sleeves and gloves when moving through debris.
+- Text family that you're safe, and check on neighbors.
+- Never run a generator indoors.
+
+## How to get ready before tornado season
+
+- Pick your shelter spot at home and practice getting there in under a minute.
+- Turn on emergency alerts on your phone, and own a NOAA Weather Radio for warnings at night.
+- Keep shoes, a flashlight, a whistle and helmets near your shelter spot.
+- Keep an [emergency kit](https://jaechung-glitch.github.io/bugout/guides/emergency-kit-list/) stocked for several days without power.
+
+## Quick answers
+
+### What is the difference between a tornado watch and a tornado warning?
+
+A tornado watch means tornadoes are possible in and near the watch area, which often covers several counties or states. A tornado warning means a tornado has been sighted or indicated by radar, for an area about the size of a city or small county. During a watch, get ready; during a warning, take shelter now.
+
+### Where is the safest place to be during a tornado?
+
+A basement, storm shelter or safe room. Without one, go to a small interior room on the lowest floor of a sturdy building, such as a closet, bathroom or hallway, away from windows, and cover your head and neck.
+
+### What should you do in a mobile home during a tornado?
+
+Leave. The National Weather Service says a mobile home is not a safe place in a tornado, even when tied down. Go to the nearest sturdy building or storm shelter as soon as a warning is issued, or earlier if one is likely.
+
+### What should you do if you're in a car during a tornado?
+
+A vehicle is not safe. Drive to the nearest sturdy shelter if you can. If you can't, either stay in the car, crouch down and cover your head, or get out and lie in a ditch or low area, covering your head. Never shelter under a bridge or overpass.
+
+### Should you open windows during a tornado?
+
+No. It doesn't help and wastes time. Get to shelter and stay away from windows.
+
+## Sources
+
+- [National Weather Service: Tornado Watch vs Warning](https://www.weather.gov/safety/tornado-ww)
+- [National Weather Service: During a Tornado](https://www.weather.gov/safety/tornado-during)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# What to do during a flood
+
+URL: https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-flood/
+Updated: 2026-11-12
+
+Floods kill more people than any other thunderstorm hazard, and most of them die in cars. This guide covers what flood alerts mean, how to get to safety, what to do if you're trapped, and how to stay safe once the water goes down.
+
+By the BugOut team. Updated November 12, 2026. Checked against National Weather Service and American Red Cross guidance.
+
+The short answer
+
+1. If you're in a flood-prone area and a flood or flash flood warning is issued, move to higher ground right away.
+2. Leave immediately if officials tell you to evacuate.
+3. Never drive or walk into floodwater. Six inches of moving water can knock you down, and 12 inches can carry away most cars.
+4. If you're trapped by rising water, go to the highest point you can and call 911.
+5. Stay away from water near outlets or power lines, and wait for officials before returning home.
+
+## Flood watch, flood warning and flash flood warning
+
+| Alert | What it means | What to do |
+| --- | --- | --- |
+| Flood watch | Conditions are favorable for flooding. | Be prepared: plan your route to higher ground. |
+| Flood warning | Flooding is imminent or happening. | Take action now. |
+| Flash flood warning | A sudden, violent flood is imminent or happening. Flash floods can develop in minutes. | Move to higher ground immediately. |
+
+## Turn around, don't drown
+
+The National Weather Service says more deaths occur from flooding each year than from any other thunderstorm hazard, and the CDC reports that over half of flood drownings happen when someone drives into floodwater.
+
+| Moving water | What it can do |
+| --- | --- |
+| 6 inches | Knock an adult off their feet |
+| 12 inches | Carry away most cars |
+| 2 feet | Carry away SUVs and trucks |
+
+- Never drive around barriers. The road under the water may be gone.
+- Be extra careful at night, when it's hard to see how deep water is.
+- Keep children away from floodwater, storm drains and creeks.
+
+## What to do during a flood
+
+- Keep a battery or hand-crank radio or NOAA Weather Radio on for updates.
+- If you're camping or living in a low-lying area, get to higher ground immediately.
+- If told to evacuate, lock your home and, if there's time, turn off utilities and unplug appliances. See [what to do when told to evacuate](https://jaechung-glitch.github.io/bugout/guides/what-to-do-when-told-to-evacuate/).
+- If your car stalls in rising water, get out and move to higher ground if you can do so safely.
+- If trapped in a building, go to the highest level you can and call 911.
+- Don't go into a basement or any room where water covers outlets or cords. If you see sparks or hear buzzing, crackling or popping, get out.
+
+## After a flood
+
+- Go home only when officials say it's safe.
+- Stay out of floodwater: it can hide debris and carry sewage and chemicals, and it may be electrified by downed lines.
+- Stay out of buildings that are still surrounded by water, and leave if you smell gas.
+- Follow any boil-water notice. Our [water guide](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/) shows how to make water safe.
+- Throw out food, including canned food with damaged cans, that touched floodwater.
+- Never run a generator indoors while drying out your home.
+
+## How to prepare for a flood
+
+- Find out whether your home is in a flood zone and plan a route to higher ground.
+- Standard homeowners insurance usually doesn't cover floods; ask about flood insurance.
+- Keep important documents in a waterproof bag, and a [go bag](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/) ready.
+- Turn on emergency alerts on your phone.
+
+## Quick answers
+
+### What should you do during a flash flood warning?
+
+A flash flood warning means a flash flood is happening or about to. If you're in a flood-prone area, move to higher ground immediately. Don't wait to see the water, and don't drive or walk into flooded roads.
+
+### How much water does it take to sweep away a car?
+
+About 12 inches of rushing water can carry away most cars, and about 2 feet can carry away SUVs and trucks, according to the National Weather Service. Just 6 inches of fast-moving water can knock an adult off their feet.
+
+### What should you do if your car is caught in floodwater?
+
+Get out and move to higher ground if you safely can. The Red Cross says most cars can be swept away by less than two feet of moving water. If you can't get out safely, call 911 and tell them where you are.
+
+### What is the difference between a flood watch and a flood warning?
+
+A flood watch means conditions are favorable for flooding: be prepared. A flood warning means flooding is imminent or happening: take action. A flash flood warning means a sudden, violent flood is imminent or happening: move to higher ground now.
+
+### What should you do if you're trapped in a building by floodwater?
+
+Move to the highest point you can reach and call 911 if possible. Stay away from water that touches electrical outlets or cords, and get out of any room where you see sparks or hear buzzing or popping.
+
+## Sources
+
+- [National Weather Service: Turn Around Don't Drown](https://www.weather.gov/safety/flood-turn-around-dont-drown)
+- [National Weather Service: During a Flood](https://www.weather.gov/safety/flood-during)
+- [National Weather Service: Flood Watch vs Warning](https://www.weather.gov/safety/flood-watch-warning)
+- [American Red Cross: Flood safety steps](https://www.redcross.org/about-us/news-and-events/news/Red-Cross-Prepares-for-Hurricane-Irma-Issues-Safety-Steps.html)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# What to do during a wildfire
+
+URL: https://jaechung-glitch.github.io/bugout/guides/what-to-do-during-a-wildfire/
+Updated: 2026-11-12
+
+Wildfires can move faster than evacuation orders. The safest choice is to leave early. This guide covers when to go, what to do to your home on the way out, what to do if you're trapped, and how to return safely.
+
+By the BugOut team. Updated November 12, 2026. Checked against CAL FIRE and American Red Cross guidance.
+
+The short answer
+
+1. Leave early: as soon as officials suggest it, or whenever you feel in danger. Don't wait for a mandatory order.
+2. If you have a few minutes, close windows and doors (unlocked), leave lights on, turn off the gas and bring in anything that burns.
+3. Trapped in a car: park away from vegetation, close windows and vents, cover yourself with a wool blanket, lie on the floor and call 911.
+4. Trapped at home: fill tubs and sinks with water, stay inside away from windows and call 911.
+5. Return only when officials say it's safe, and watch for hot ash and downed lines.
+
+**Download the checklist (PDF)**Wildfire Evacuation Checklist: free to print, share and keep with your kit.
+
+[Print version](https://jaechung-glitch.github.io/bugout/assets/pdf/wildfire-evacuation-checklist.pdf)[Phone version](https://jaechung-glitch.github.io/bugout/assets/pdf/wildfire-evacuation-checklist-phone.pdf)
+
+## When to leave
+
+Go as soon as fire officials suggest it. CAL FIRE says it's safer to leave before a mandatory order, and the Red Cross warns you may never get an official notice. Waiting can leave you driving through smoke on crowded roads.
+
+- Keep your gas tank full during fire season, and park facing out.
+- Plan at least two ways out of your neighborhood.
+- Turn on emergency alerts, and keep a battery radio and backup phone battery.
+
+## If you have time before you leave
+
+- Close all windows and doors, but leave them unlocked
+- Leave lights on so firefighters can see your house in smoke
+- Turn off gas at the meter and pilot lights
+- Turn off the air conditioning
+- Take down flammable curtains; close metal shutters
+- Move furniture to the middle of rooms, away from windows and doors
+- Bring in patio furniture, doormats and trash cans; shut off propane tanks
+- Connect garden hoses and fill buckets, but don't leave sprinklers running
+- Load your go bag, and keep pets close
+
+## If you're trapped by a wildfire
+
+| Where | What to do |
+| --- | --- |
+| In a car | Stay calm. Park somewhere clear of vegetation. Close all windows and vents. Cover yourself with a wool blanket or jacket, lie on the floor and call 911. |
+| At home | Stay calm and gather everyone. Call 911. Fill sinks and tubs with cold water. Keep doors and windows closed but unlocked. Stay inside, away from outside walls and windows. |
+| On foot | Stay calm. Get to a clear area, such as a ditch or flat ground with little to burn. Lie face down, cover your body and call 911. |
+
+## Wildfire smoke
+
+- Smoke is a mix of pollutants that can harm anyone, and most of all children, pregnant women and people with asthma or heart or lung disease.
+- Stay indoors with windows and doors closed when smoke is heavy, and follow your local air quality alerts.
+- Wear an N95 respirator when cleaning up ash, with gloves, long sleeves, long pants and goggles.
+
+## Returning home
+
+- Wait until officials say it's safe.
+- Avoid hot ash, charred trees and smoldering debris. Hidden hot spots in the ground can burn you.
+- Stay away from damaged or downed power lines.
+- Check with your health department before drinking tap water.
+- Throw out food exposed to heat, smoke or fumes. When in doubt, throw it out.
+- Ask your doctor about refrigerated medicines that may have been affected.
+
+## Wildfire go checklist
+
+- A go bag for each person with 3 days of supplies
+- A month of medicines
+- Copies of IDs, insurance and medical records
+- Phone chargers and a backup battery
+- N95 respirators
+- A wool blanket in the car
+- Pet carriers, leashes and food
+- Two evacuation routes, and a place to stay
+- Full gas tank
+
+## Quick answers
+
+### When should you evacuate for a wildfire?
+
+As soon as officials suggest it, or sooner if you feel at risk. CAL FIRE says it's safer to leave before a mandatory order is issued, and the Red Cross notes you may not get an official notice at all.
+
+### What should you do if you're trapped in a car during a wildfire?
+
+Stay calm, park in an area clear of vegetation, close all windows and vents, cover yourself with a wool blanket or jacket, lie on the floor and call 911.
+
+### What should you do if a wildfire traps you at home?
+
+Call 911, gather everyone, fill sinks and tubs with cold water, keep doors and windows closed but unlocked, and stay inside away from outside walls and windows.
+
+### What should you do to your house before evacuating from a wildfire?
+
+If you have time: close windows and doors but leave them unlocked, leave lights on so firefighters can see the house in smoke, turn off gas at the meter, turn off air conditioning, move flammable furniture away from windows, bring in patio furniture, and connect garden hoses. Don't leave sprinklers running.
+
+### How do you protect yourself from wildfire smoke?
+
+Stay indoors with windows and doors closed and follow local air quality alerts. Children, pregnant women and people with asthma or heart or lung disease are most at risk. Wear an N95 respirator when cleaning up ash.
+
+## Sources
+
+- [CAL FIRE (Ready for Wildfire): Go! Evacuation Guide](https://readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/)
+- [American Red Cross: Wildfire Safety Checklist (PDF)](https://www.redcross.org/content/dam/redcross/local/NCCR/EN_Wildfire-Safety-Checklist.pdf)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# What to do in extreme heat
+
+URL: https://jaechung-glitch.github.io/bugout/guides/what-to-do-in-extreme-heat/
+Updated: 2026-11-12
+
+Heat waves are quiet killers: there's no wreckage, just people overheating at home. This guide covers how to stay cool, how to tell heat exhaustion from heat stroke, and what to do when someone is in danger.
+
+By the BugOut team. Updated November 12, 2026. Checked against National Weather Service and CDC guidance.
+
+The short answer
+
+1. Stay in air conditioning as much as you can. If you don't have it, spend the hottest hours at a cooling center, library or store.
+2. Drink plenty of fluids even if you aren't thirsty.
+3. Wear loose, lightweight, light-colored clothing, and plan outdoor activity for the coolest part of the day.
+4. Never leave children or pets in a parked car.
+5. Body temperature above 103°F, confusion or passing out is heat stroke: call 911 and cool the person down.
+
+## Heat exhaustion vs heat stroke
+
+|  | Heat exhaustion | Heat stroke |
+| --- | --- | --- |
+| Signs | Heavy sweating; weakness or tiredness; cool, pale, clammy skin | Body temperature above 103°F; confusion; rapid, strong pulse; passing out |
+| What to do | Move somewhere cooler, loosen clothing, apply cool wet cloths and give small sips of water | Call 911. Move to somewhere cooler and cool with cool cloths or a cool bath. Don't give fluids. |
+| Get help if | They vomit, get worse, or symptoms last more than 1 hour | Always: it's an emergency |
+
+## How to stay cool in a heat wave
+
+- Stay in an air-conditioned place as much as you can. A few hours a day helps.
+- Use a fan only if the heat index is below the high 90s. Above that, the National Weather Service says a fan can make you hotter.
+- Close blinds and curtains on sunny windows during the day.
+- Take cool showers or baths.
+- Drink fluids before you're thirsty. Limit alcohol and very sugary drinks.
+- Wear loose, lightweight, light-colored clothing and sunscreen.
+- Do outdoor work and exercise early in the morning or in the evening, and rest often in the shade.
+
+## Check on others
+
+The CDC says older adults, young children and people with chronic medical conditions face the highest risk. Check on a friend or neighbor twice a day and have someone do the same for you, especially anyone who lives alone or has no air conditioning.
+
+- Never leave children or pets in a parked car, even with the windows cracked.
+- Give pets shade and plenty of water, and walk them in the cool of the day.
+
+## If the power goes out in a heat wave
+
+Without power there's no air conditioning or fans, and your home can heat up quickly. Go to a cooling center or a home with power if you can't stay cool. Our guide to [what to do if the power grid goes down](https://jaechung-glitch.github.io/bugout/guides/power-grid-down/) covers longer outages, and the [water calculator](https://jaechung-glitch.github.io/bugout/guides/emergency-water-calculator/) shows how much water to store; plan on more in hot weather.
+
+## Quick answers
+
+### What is the difference between heat exhaustion and heat stroke?
+
+Heat exhaustion brings heavy sweating, weakness or tiredness, and cool, pale, clammy skin. Heat stroke is a medical emergency: body temperature above 103°F, confusion, a rapid strong pulse, or passing out. Call 911 for heat stroke.
+
+### What should you do for heat stroke?
+
+Call 911 or get the person to a hospital right away. Move them somewhere cooler and lower their temperature with cool cloths or a cool bath. Don't give them anything to drink.
+
+### Do fans help in extreme heat?
+
+Only up to a point. The National Weather Service says to use a fan only if the heat index is below the high 90s: above that, a fan can make you hotter. Air conditioning, even a few hours a day in a library, store or cooling center, helps far more.
+
+### Who is most at risk in a heat wave?
+
+Older adults, young children and people with chronic medical conditions are at highest risk of heat illness and death, according to the CDC. People who work outside, live alone or have no air conditioning are also at risk.
+
+### How do you stay cool without air conditioning?
+
+Spend the hottest hours somewhere air-conditioned, such as a cooling center or library. At home, close blinds on sunny windows, take cool showers, wear loose light-colored clothing, and drink fluids before you're thirsty.
+
+## Sources
+
+- [National Weather Service: Heat-Related Illness](https://weather.gov/safety/heat-illness)
+- [CDC: Protect Yourself From the Dangers of Extreme Heat](https://www.cdc.gov/climate-health/php/resources/protect-yourself-from-the-dangers-of-extreme-heat.html)
+- [CDC: Heat-Related Illnesses (PDF)](https://cdc.gov/natural-disasters/media/pdfs/2026/09/Heat_Related_Illness-NEWLOGO.pdf)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# What to do in a house fire
+
+URL: https://jaechung-glitch.github.io/bugout/guides/what-to-do-in-a-house-fire/
+Updated: 2026-11-12
+
+Once the smoke alarm sounds, you may have as little as two minutes to get out. This guide covers how to escape, what to do if you're trapped, and how to make and practice a fire escape plan so everyone knows what to do.
+
+By the BugOut team. Updated November 12, 2026. Checked against Oregon State Fire Marshal and Milpitas Fire Department guidance.
+
+The short answer
+
+1. Get out fast when the smoke alarm sounds. Don't fight the fire or grab belongings.
+2. Stay low under smoke, and feel doors with the back of your hand before opening them.
+3. Close doors behind you, go to your outside meeting place, and call 911 from outside.
+4. Once you're out, stay out. Never go back in.
+5. If you're trapped, close the door, seal the gaps, call 911 and signal from a window.
+
+**Download the checklist (PDF)**Home Fire Escape Plan: free to print, share and keep with your kit.
+
+[Print version](https://jaechung-glitch.github.io/bugout/assets/pdf/home-fire-escape-plan.pdf)[Phone version](https://jaechung-glitch.github.io/bugout/assets/pdf/home-fire-escape-plan-phone.pdf)
+
+## How to escape a house fire
+
+1. **Get out first.** Fire spreads fast, and you may have as little as two minutes. Leave everything behind.
+2. **Test doors.** Feel the door with the back of your hand. If it's hot or smoke is coming under it, use another way out. If it's cool, open it slowly.
+3. **Stay low.** Crawl under smoke, where the air is cleaner and cooler. Cover your nose and mouth with a cloth if you can.
+4. **Close doors behind you** to slow the fire and smoke.
+5. **Use stairs, never elevators,** in an apartment building.
+6. **Go to your meeting place** outside and call 911.
+7. **Stay out.** Tell firefighters if anyone is still inside; don't go back in yourself.
+
+**If your clothes catch fire: stop, drop and roll.** Stop where you are, drop to the ground, cover your face with your hands, and roll until the flames are out. Running feeds the fire.
+
+## If you're trapped
+
+- Close the door between you and the fire
+- Seal gaps around doors and vents with towels, clothes or duct tape
+- Call 911 and say exactly where you are
+- Stay near a window and close to the floor
+- Signal firefighters with a light-colored cloth or a flashlight at the window
+
+## How to make a home fire escape plan
+
+- Draw a map of your home with two ways out of every room, usually a door and a window
+- Make sure windows open easily and that screens and security bars can be removed from inside
+- Pick an outside meeting place a safe distance away, such as a tree, light pole or mailbox
+- Put smoke alarms on every level, outside sleeping areas and in every bedroom
+- Make sure everyone knows the sound of the smoke alarm
+- Sleep with bedroom doors closed to slow smoke and fire
+- Assign someone to help babies, older adults and anyone with a disability
+- Practice the plan at least twice a year, including at night
+
+## After a house fire
+
+- Don't go back in until the fire department says it's safe.
+- Get medical care for burns or if anyone breathed in smoke and has trouble breathing, coughing or confusion.
+- Call your insurance company, and the Red Cross if you need somewhere to stay.
+- Throw out food, drinks and medicines exposed to heat, smoke or soot.
+
+## Quick answers
+
+### What should you do first if your house is on fire?
+
+Get out, then call 911 from outside. Don't stop to fight the fire or collect belongings. Stay low under smoke, close doors behind you, and go to your family's outside meeting place.
+
+### How much time do you have to escape a house fire?
+
+As little as two minutes after the smoke alarm sounds, according to fire safety officials. That's why every household needs a plan with two ways out of every room, practiced in advance.
+
+### What should you do if you're trapped in a room during a fire?
+
+Close the door, and seal the gaps around doors and vents with towels or duct tape. Stay near a window and close to the floor. Call 911 and tell them where you are, and hang a light-colored cloth out of the window to signal firefighters.
+
+### How do you know if it's safe to open a door during a fire?
+
+Feel the door with the back of your hand. If it's hot, or smoke is coming under it, use another way out. If it's cool, open it slowly and leave if the way is clear, closing the door behind you.
+
+### What should you do if your clothes catch fire?
+
+Stop, drop and roll: stop where you are, drop to the ground, cover your face, and roll until the flames are out. Running makes them burn faster.
+
+## Sources
+
+- [Oregon State Fire Marshal: Home Fire Escape](https://www.oregon.gov/osfm/education/fire-safe/Pages/Home-Fire-Escape.aspx)
+- [Milpitas Fire Department: What to Do During a Fire](https://www.milpitas.gov/425/What-to-do-During-a-Fire)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# What to do if you get lost in the woods
+
+URL: https://jaechung-glitch.github.io/bugout/guides/what-to-do-if-lost-in-the-woods/
+Updated: 2026-11-12
+
+Most lost hikers are found, and the ones found fastest are the ones who stop moving. This guide covers what to do the moment you realize you're lost, how to signal for help, how to get through a night outside, and how to avoid getting lost in the first place.
+
+By the BugOut team. Updated November 12, 2026. Checked against National Park Service, American Hiking Society and FCC guidance.
+
+The short answer
+
+1. **Stop.** Don't keep walking. Sit, calm down, and think.
+2. Try to retrace your steps only if you're sure of the way back. Otherwise, stay put.
+3. Call 911 if you have any signal, and give landmarks and your GPS coordinates.
+4. Signal: three blasts on a whistle, bright clothing in the open, a fire if it's allowed and safe.
+5. Get out of the wind, wet and cold before dark.
+
+**Download the checklist (PDF)**Hiking Safety Checklist: free to print, share and keep with your kit.
+
+[Print version](https://jaechung-glitch.github.io/bugout/assets/pdf/hiking-safety-checklist.pdf)[Phone version](https://jaechung-glitch.github.io/bugout/assets/pdf/hiking-safety-checklist-phone.pdf)
+
+## What to do when you're lost
+
+1. **Stop, think, observe, plan.** Panic makes people walk faster in the wrong direction. Drink some water, eat something, and take stock.
+2. **Try to orient yourself.** Check your map, compass or GPS app. Look for trail markers, and backtrack carefully only if you're confident.
+3. **Stay put if you're not sure.** Moving makes you harder to find. Leave only to find water, and return to the same spot.
+4. **Call for help.** Call 911 if you have any signal. Give the trail name, landmarks and your coordinates. If a call won't connect, try texting 911. Then save your battery.
+5. **Make yourself visible.** Move to the nearest open area. Spread bright clothing or gear where it can be seen from above.
+6. **Signal in threes.** Three whistle blasts, three shouts or three flashes is the universal distress call. Repeat at intervals.
+7. **Prepare for the night.** Shelter comes before food: get out of wind and off cold ground well before dark.
+
+## How to get through a night outside
+
+- Put on every layer you have, and stay dry. Wet clothing pulls heat away fast.
+- Insulate yourself from the ground with branches, leaves or your pack. The ground draws heat out of your body.
+- Shelter against a rock, log or dense trees, out of the wind.
+- Build a small fire only if fires are allowed and it's safe; it gives warmth and helps searchers spot you.
+- Ration nothing important: drink water when you need it. You can last weeks without food but only days without water.
+
+Our [survival skills guide](https://jaechung-glitch.github.io/bugout/guides/survival-skills/) covers shelter, fire and signaling in more depth, and the [water guide](https://jaechung-glitch.github.io/bugout/guides/how-to-make-water-safe-to-drink/) covers treating stream water.
+
+## If a child gets lost
+
+Teach children to **hug a tree**: stay in one place, keep warm and dry, and make themselves big and visible when they hear people. Give every child a whistle and tell them to blow it three times if they're lost. If a member of your group goes missing, stop, go back to the last place you saw them, and call 911.
+
+## How not to get lost
+
+- Leave a trip plan with someone: where you're going, your route and when you'll be back
+- Carry a paper map and compass, and know how to use them
+- Download offline maps before you lose signal
+- Carry a whistle, a mirror and a headlamp
+- Pack extra water, food and a warm layer, even on short hikes
+- Bring a charged phone and a power bank
+- Wear bright clothing
+- Agree on a meet-up spot if your group gets separated
+- Look back often so you'll recognize the trail on the way out
+
+## Quick answers
+
+### What is the first thing to do if you get lost in the woods?
+
+Stop. Sit down, calm down and think before you move. Wandering usually makes you more lost. Use STOP: Stop, Think, Observe, Plan.
+
+### Should you stay put if you're lost?
+
+Usually, yes. If you can't confidently retrace your steps, stay where you are: moving makes you harder to find. Leave only to reach water or safety, and come back to the same spot. If you left a trip plan, searchers will start where you were expected to be.
+
+### What is the signal for help when lost?
+
+Three of anything is the distress signal: three blasts on a whistle, three shouts, three flashes of light or three fires in a triangle. A whistle carries much farther than your voice and takes less energy.
+
+### Can you call 911 with no cell service?
+
+Try anyway: signal comes and goes. If a call won't connect, try texting 911: it works in many areas, and you'll get a bounce-back message if it doesn't. Save battery between tries.
+
+### What should a lost child do in the woods?
+
+Hug a tree: stay in one place, keep warm and dry, and make themselves big and visible when they hear searchers. The National Park Service teaches this to children.
+
+## Sources
+
+- [National Park Service: Outdoor Emergency Plan](https://home.nps.gov/articles/gtgemergencyplan.htm)
+- [American Hiking Society: What to Do if You Get Lost on the Trail](https://americanhiking.org/resources/lost/)
+- [FCC: What You Need to Know About Text-to-911](https://www.fcc.gov/consumers/guides/what-you-need-know-about-text-911)
+
+This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
+
+---
+
+# What to do when you're told to evacuate
+
+URL: https://jaechung-glitch.github.io/bugout/guides/what-to-do-when-told-to-evacuate/
+Updated: 2026-11-12
+
+Hurricanes, wildfires, floods and chemical spills can all end with an order to leave. People who leave early, with a bag already packed and a place to go, have the easiest time. This guide covers what to take, what to do on the way out, and how to get there safely.
+
+By the BugOut team. Updated November 12, 2026. Checked against American Red Cross, CAL FIRE, National Weather Service and Military OneSource guidance.
+
+The short answer
+
+1. Leave as soon as you're told to, or sooner if you feel unsafe. Don't wait to see if things improve.
+2. Grab your go bag, medicines, documents, phone chargers, cash and pets.
+3. If there's time, lock up and turn off utilities as officials instruct.
+4. Follow the official evacuation route. Never drive through floodwater or around barriers.
+5. Tell someone outside the area where you're going.
+
+**Download the checklist (PDF)**Evacuation Checklist: free to print, share and keep with your kit.
+
+[Print version](https://jaechung-glitch.github.io/bugout/assets/pdf/evacuation-checklist.pdf)[Phone version](https://jaechung-glitch.github.io/bugout/assets/pdf/evacuation-checklist-phone.pdf)
+
+## When to leave
+
+Authorities order a mandatory evacuation when conditions are severely hazardous and advise one when the danger is lower. Either way, leave early: the Red Cross says to go early enough to avoid being trapped by severe weather, and CAL FIRE says it's safer to leave a wildfire before an order is issued. Gas stations may close, so keep your tank at least half full whenever an evacuation is possible.
+
+No car? Plan now: arrange a ride with family or friends, and ask your local emergency management office whether it provides evacuation transport.
+
+## What to take
+
+- Your go bag: at least 3 days of water, food and supplies. See our [bug out bag list](https://jaechung-glitch.github.io/bugout/guides/bug-out-bag-list/).
+- Medicines, glasses and medical devices with chargers
+- IDs, insurance papers and medical records, or copies
+- Cash and cards
+- Phones, chargers and power banks
+- A change of clothes, sturdy shoes and protective clothing
+- Maps saved on your phone and on paper
+- Pet food, water, leashes, carriers and records
+- Baby supplies, if you need them
+
+## If you have time before you leave
+
+- Tell someone outside the area that you're leaving and where you're going
+- Lock doors and windows (for a wildfire, close them but leave them unlocked)
+- Turn off utilities and unplug appliances if officials tell you to
+- Bring in outdoor furniture and anything the wind could throw
+- Leave a note saying when you left and where you went
+
+## On the road
+
+- Follow the recommended evacuation route; shortcuts may be blocked or unsafe
+- Watch for downed trees, washed-out roads and power lines
+- Never drive into floodwater or around barricades
+- Keep the radio on for updates
+
+## Where to go
+
+- Family or friends outside the danger area are the most comfortable option. Agree on this before an emergency.
+- Hotels fill fast, so book early and note pet-friendly ones along your route.
+- Public shelters are listed on the free Red Cross Emergency app and announced on local news. Many accept only service animals.
+
+## Going home
+
+- Return only when officials say it's safe.
+- Watch for downed power lines, broken gas lines, floodwater and damaged buildings.
+- If you smell gas, leave and call 911 or your gas company from outside.
+- Restock your go bag once you're settled, so it's ready next time.
+
+## Quick answers
+
+### What should you do when told to evacuate?
+
+Leave right away, by the route officials give. Take your go bag, medicines, documents, phone chargers and pets. If there's time, lock up, turn off utilities if told to, and tell someone outside the area where you're going. Don't drive through floodwater or around barriers.
+
+### What is the difference between a mandatory and a voluntary evacuation?
+
+Authorities order a mandatory evacuation when conditions are severely hazardous, and advise (voluntary) evacuation when the danger is lower. Either way, leaving early is safer: roads get crowded and conditions can change fast.
+
+### What should you take when you evacuate?
+
+Your go bag with at least 3 days of water, food and supplies; medicines and glasses; IDs, insurance papers and cash; phone chargers; a change of clothes and sturdy shoes; and food, leashes and carriers for pets.
+
+### Can you bring pets to an evacuation shelter?
+
+Many public shelters accept only service animals, the Red Cross notes. Plan ahead with a list of pet-friendly hotels, friends and animal shelters along your route, and never leave pets behind.
+
+### Should you turn off utilities when you evacuate?
+
+Follow local instructions. The National Weather Service says to disconnect utilities and appliances if you have time before a flood, and CAL FIRE says to turn off gas at the meter before leaving for a wildfire. If you turn the gas off, a professional must turn it back on.
+
+## Sources
+
+- [American Red Cross: 10 steps if you need to evacuate (via ABC11)](https://abc11.com/community-events/preparing-for-florence/4204552/)
+- [Military OneSource: How to Evacuate When Disaster Strikes](https://www.militaryonesource.mil/emergencies-disasters/preparedness/don-t-get-left-behind-how-to-evacuate-when-disaster-strikes/)
+- [CAL FIRE (Ready for Wildfire): Go! Evacuation Guide](https://readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/)
+- [National Weather Service: During a Flood](https://www.weather.gov/safety/flood-during)
 
 This guide is general safety information, not medical advice or a substitute for training. Guidance changes; check your local emergency management office for advice specific to where you live. In an emergency, call 911.
