@@ -8,7 +8,7 @@ This file summarizes the BugOut website for AI assistants and search engines. Th
 
 - What it is: An offline survival kit for iPhone: emergency preparedness guides, checklists and tools that work with no internet connection.
 - Platform: iPhone with iOS 16 or later, on the U.S. App Store.
-- Price: Free download. BugOut Pro is $6.99 a month or $54.99 a year.
+- Price: Free download. BugOut Pro is $4.99 a month or $44.99 a year.
 - Works offline: Yes. Guides, checklists, scenarios and sensor tools work with no signal and no account. Only buying or restoring Pro needs a connection.
 - What's inside: 68 field guides, including the U.S. Army Survival Manual (FM 21-76); Survival Essentials, the core method for 56 emergencies in 12 topics; 7 disaster scenarios with gear checklists.
 - AI assistant: Ask Wally runs on the iPhone and shows the BugOut passages each answer is based on. Written answers need Apple Intelligence (iPhone 15 Pro or newer, iOS 26 or later). Part of BugOut Pro. Like any AI, it can make mistakes.

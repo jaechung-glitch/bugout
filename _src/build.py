@@ -190,10 +190,10 @@ def schema(p):
             'featureList': p['feature_list'], 'isAccessibleForFree': True,
             'offers': [
                 {'@type': 'Offer', 'name': 'BugOut (free download)', 'price': '0', 'priceCurrency': 'USD'},
-                {'@type': 'Offer', 'name': 'BugOut Pro, monthly', 'price': '6.99', 'priceCurrency': 'USD',
-                 'priceSpecification': {'@type': 'UnitPriceSpecification', 'price': '6.99', 'priceCurrency': 'USD', 'billingDuration': 'P1M'}},
-                {'@type': 'Offer', 'name': 'BugOut Pro, yearly', 'price': '54.99', 'priceCurrency': 'USD',
-                 'priceSpecification': {'@type': 'UnitPriceSpecification', 'price': '54.99', 'priceCurrency': 'USD', 'billingDuration': 'P1Y'}},
+                {'@type': 'Offer', 'name': 'BugOut Pro, monthly', 'price': '4.99', 'priceCurrency': 'USD',
+                 'priceSpecification': {'@type': 'UnitPriceSpecification', 'price': '4.99', 'priceCurrency': 'USD', 'billingDuration': 'P1M'}},
+                {'@type': 'Offer', 'name': 'BugOut Pro, yearly', 'price': '44.99', 'priceCurrency': 'USD',
+                 'priceSpecification': {'@type': 'UnitPriceSpecification', 'price': '44.99', 'priceCurrency': 'USD', 'billingDuration': 'P1Y'}},
             ],
             'publisher': {'@id': BASE + '#org'},
         })
