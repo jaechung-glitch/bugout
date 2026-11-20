@@ -165,7 +165,7 @@ Sources
 :   U.S. military field manuals, the CDC, EPA, FEMA and Ready.gov, the American Red Cross, the National Weather Service and the National Park Service.
 
 Privacy
-:   No account. Questions to Wally, your location and your lists stay on the phone. Purchase history goes to RevenueCat to verify BugOut Pro, and, only if you allow tracking, installs, opens and subscriptions go to Meta to measure BugOut's ads.
+:   No account. Questions to Wally, your location and your lists stay on the phone. Purchase history goes to RevenueCat to verify BugOut Pro, and installs, opens and subscriptions go to Meta to measure BugOut's ads, without your advertising ID.
 
 ## Questions
 
