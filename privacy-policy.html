@@ -47,10 +47,10 @@
 <body>
     <div class="container">
         <h1>Privacy Policy</h1>
-        <p class="subtitle">BugOut: Offline Survival Guide &mdash; Last updated: November 16, 2026</p>
+        <p class="subtitle">BugOut: Offline Survival Kit &mdash; Last updated: November 25, 2026</p>
 
         <h2>Overview</h2>
-        <p>BugOut is designed with privacy as a core principle. The app works entirely offline. Only two kinds of information leave your device: what's needed to sell and verify a BugOut Pro subscription (see Purchases), and if you allow it, basic app events that tell us whether our ads on Facebook and Instagram lead to installs (see Advertising Measurement). Neither includes your name, your questions, your location or anything you save in the app.</p>
+        <p>BugOut is designed with privacy as a core principle. The app works entirely offline. Only two kinds of information leave your device: what's needed to sell and verify a BugOut Pro subscription (see Purchases), and basic app events that tell us whether our ads on Facebook and Instagram lead to installs (see Advertising Measurement). Neither includes your name, your questions, your location or anything you save in the app.</p>
 
         <h2>Data Collection</h2>
         <p>BugOut does <strong>not</strong> collect personal information that identifies you. Specifically:</p>
@@ -58,13 +58,13 @@
             <li>No account creation or login is required</li>
             <li>BugOut shows no ads. It uses the Meta (Facebook) SDK only to measure its own ads, as described under Advertising Measurement</li>
             <li>Your location, sensor readings, lists, bookmarks and questions are never sent to any server</li>
-            <li>No cookies are used, and BugOut reads your device's advertising identifier (IDFA) only if you allow tracking</li>
+            <li>No cookies are used. From version 1.3.0, BugOut never reads your device's advertising identifier (IDFA); version 1.1.1 read it only if you allowed tracking</li>
         </ul>
 
         <h2>Device Sensors</h2>
         <p>BugOut accesses the following device sensors to power its Status dashboard:</p>
         <ul>
-            <li><strong>Location (GPS)</strong> &mdash; used to display your coordinates, altitude, speed, and to calculate sunrise/sunset times. Location data is processed entirely on-device and is never transmitted or stored beyond the current session.</li>
+            <li><strong>Location (GPS)</strong> &mdash; used to display your coordinates, altitude, speed, and to calculate sunrise/sunset times. Also used to put your coordinates in an "I'm safe" or "Share my location" text when you choose to write one. BugOut hands that text to Apple's Messages app and you decide whether to send it. Location data is otherwise processed entirely on-device, and BugOut never transmits it or stores it beyond the current session.</li>
             <li><strong>Magnetometer &amp; Accelerometer</strong> &mdash; used to display compass heading with tilt compensation. Data is processed on-device only.</li>
             <li><strong>Barometer</strong> &mdash; used to display atmospheric pressure and trends. Data is processed on-device only.</li>
             <li><strong>Battery</strong> &mdash; used to display battery level and charging estimates.</li>
@@ -80,8 +80,9 @@
             <li>Your custom lists and their items</li>
             <li>Onboarding completion status</li>
             <li>Whether you have BugOut Pro, so it keeps working offline</li>
+            <li>Your supplies, household size, family plan (home address, meeting points and the names and phone numbers of contacts you add), reading progress and notes</li>
         </ul>
-        <p>This data never leaves your device, except that your Pro status is confirmed with RevenueCat as described under Purchases. If you delete the app, all local data is permanently removed.</p>
+        <p>This data never leaves your device, with two exceptions: your Pro status is confirmed with RevenueCat as described under Purchases, and a family plan or message leaves it only when you choose to share or send it yourself. If you delete the app, all local data is permanently removed.</p>
 
         <h2>Ask Wally</h2>
         <p>Ask Wally, the AI helper in BugOut Pro, answers questions using the guides built into the app. Your questions are processed entirely on your device, by Apple's on-device model on iPhones that support Apple Intelligence. They are never sent to us, to Apple or to anyone else, and they are not saved: the conversation is cleared when you clear it or close the app.</p>
@@ -98,13 +99,13 @@
         <p>We use this only to provide your subscription and to see how many people subscribe. It isn't linked to your identity, isn't sold, and isn't used for advertising or tracking.</p>
 
         <h2>Advertising Measurement</h2>
-        <p>BugOut advertises on Facebook and Instagram. To learn whether those ads lead to installs and subscriptions, the app includes the Meta (Facebook) SDK. The first time you open the main app, iOS asks whether BugOut may track you for this purpose. If you tap <b>Ask App Not to Track</b>, the SDK sends Meta no app events and the advertising identifier stays unread. Only if you tap <b>Allow</b> does the SDK send Meta Platforms, Inc., when the app is online:</p>
+        <p>BugOut advertises on Facebook and Instagram. To learn whether those ads lead to installs and subscriptions, the app includes the Meta (Facebook) SDK. From version 1.3.0 it is set up so that it never reads your device's advertising identifier, and BugOut doesn't ask to track you. (Version 1.1.1 asked first, and sent the events below, with the advertising identifier, only if you tapped <b>Allow</b>.) When the app is online, the SDK sends Meta Platforms, Inc.:</p>
         <ul>
             <li>App events: that the app was installed and opened, and when a BugOut Pro subscription or free trial starts, with its price and currency</li>
-            <li>Device information, such as your iPhone model, iOS version, language and time zone, your device's advertising identifier (IDFA) and an ID the SDK creates for this install</li>
+            <li>Device information, such as your iPhone model, iOS version, language and time zone, and an ID the SDK creates for this install</li>
             <li>Standard technical information any internet connection carries, such as your IP address</li>
         </ul>
-        <p>The SDK never sees your questions to Wally, your location, sensor readings, lists or bookmarks. Meta uses this information to measure and improve BugOut's ads, under <a href="https://www.facebook.com/privacy/policy/">Meta's Privacy Policy</a>. Meta measures iPhone ads with Apple's SKAdNetwork and its own Aggregated Event Measurement. You can change your answer at any time in iPhone Settings › Privacy &amp; Security › Tracking, and manage ads on Facebook and Instagram in your Meta account settings. Whatever you choose, Apple may give Meta anonymous install counts through SKAdNetwork, which doesn't identify you or your device.</p>
+        <p>The SDK never sees your questions to Wally, your location, sensor readings, lists or bookmarks. Meta uses this information to measure and improve BugOut's ads, under <a href="https://www.facebook.com/privacy/policy/">Meta's Privacy Policy</a>. Meta measures iPhone ads with Apple's SKAdNetwork, which doesn't identify you or your device, and its Aggregated Event Measurement. You can manage ads on Facebook and Instagram in your Meta account settings.</p>
 
         <h2>Age Checks</h2>
         <p>Where a law requires it, such as in Texas, BugOut asks Apple whether you're 18 or older before you can subscribe to BugOut Pro. Apple shares only an age range, such as "under 18" or "18 and over", never your birthday. BugOut uses it on your iPhone for that check and doesn't store it or send it anywhere.</p>
